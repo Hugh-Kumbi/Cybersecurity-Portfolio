@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hugh! <br/><a href="https://github.com/Hugh-Kumbi">Programmer</a>, <a href="https://www.linkedin.com/in/hugh-chanetsa/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Hugh_Chanetsa">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/Hugh-Kumbi/Algorithms-Practice)
