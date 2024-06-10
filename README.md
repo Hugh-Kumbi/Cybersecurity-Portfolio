@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
-  - [Hello World!](https://github.com/Hugh-Kumbi/LABURL)
+  - [Hello World!](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
   - [Active Delivery Home Lab](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
  
 <h2> Certifications </h2>
