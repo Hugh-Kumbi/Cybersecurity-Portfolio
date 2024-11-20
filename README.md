@@ -6,7 +6,7 @@
   - [Active Delivery Home Lab](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
  
 <h2> Certifications </h2>
-- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
 
 <h2>📺 YouTube Videos</h2>
 
