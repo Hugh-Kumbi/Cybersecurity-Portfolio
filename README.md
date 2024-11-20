@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hugh! <br/><a href="https://github.com/Hugh-Kumbi">Programmer</a>, <a href="https://www.linkedin.com/in/hugh-chanetsa/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Hugh_Chanetsa">YouTuber</a></h1>
+<h1>Hi, I'm Hugh! <br/><a href="https://github.com/Hugh-Kumbi">Programmer</a>, <a href="https://www.linkedin.com/in/hugh-chanetsa/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
