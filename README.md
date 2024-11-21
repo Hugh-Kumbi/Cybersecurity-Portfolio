@@ -24,20 +24,6 @@ My unique combination of technical skills, diverse academic experience, and a pr
 
 - Google Cyber Security Professional Certification
 
-## Professional Experience 💼
-
-### Xxxxx
-- XXXX 
-
-### Xxxxx
-- XXXX
-
-### Xxxxx
-- XXXX
-
-### Xxxxx
-- XXXX
-
 ## Education 📚
 
 - A Bachelor’s degree in Computer Science from the University of the People
