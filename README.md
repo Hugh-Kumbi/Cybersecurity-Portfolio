@@ -49,19 +49,19 @@ My unique combination of technical skills, diverse academic experience, and a pr
   - [Hello World!](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
   - [Active Delivery Home Lab](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
 
-## Skills ![image](https://github.com/user-attachments/assets/a25fb5c6-75b6-493d-ab88-935096583319)
+## Skills 🔓
 
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
 
 ## Tools ⚙️
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
 
-## Resume
+## Resume 🌐
 [Hugh Chanetsa's Resume](https://www.canva.com)
 
-## Seeking Opportunities 🌟
+## Eager to Contribute and Innovate 💡
 
-I am currently seeking internships and entry-level cybersecurity positions at reputable organizations. I am eager to apply my skills and experiences to innovative projects, enhance security, and make meaningful contributions to the cybersecurity field.
+I am eager to apply my cybersecurity knowledge and skills to challenging roles at leading organizations, where I can contribute to cutting-edge security initiatives.
  
 ## Connect with Me 🤳
 
