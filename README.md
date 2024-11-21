@@ -1,4 +1,4 @@
-<h1>Hugh Cybersecurity Portfolio</a></h1>
+<h1>Hugh Chanetsa's Cybersecurity Portfolio</a></h1>
 
 <h2> Professional Statement </h2>
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
