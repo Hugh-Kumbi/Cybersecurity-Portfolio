@@ -8,9 +8,10 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of projects that 
 
 I am Hugh Chanetsa, a highly motivated and results-driven professional with a diverse academic background and a passion for technology and cybersecurity. I hold:
 
-A Bachelor’s degree in Computer Science specializing in Software Engineering
-A Bachelor’s degree in Social Sciences, with a focus on International Relations and Affairs, Economic History, and Industrial Sociology
-A Bachelor of Commerce (Honors) degree specializing in Management Studies
+- A Bachelor’s degree in Computer Science specializing in Software Engineering
+- A Bachelor’s degree in Social Sciences, with a focus on International Relations and Affairs, Economic History, and Industrial Sociology
+- A Bachelor of Commerce (Honors) degree specializing in Management Studies
+  
 With this interdisciplinary foundation, I bring a unique perspective to problem-solving and a strong ability to adapt to complex, evolving challenges. My keen interest in cybersecurity drives me to continuously explore new opportunities, expand my expertise, and contribute meaningfully to the field.
 
 ## Certifications 🎓
