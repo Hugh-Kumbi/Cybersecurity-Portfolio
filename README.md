@@ -1,9 +1,18 @@
 <h1>Hugh Cybersecurity Portfolio</a></h1>
 
+<h2> Professional Statement </h2>
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
   - [Hello World!](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
   - [Active Delivery Home Lab](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
+
+<h2> Skills </h2>
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
+
+<h2> Tools </h2>
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
  
 <h2> Certifications </h2>
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
