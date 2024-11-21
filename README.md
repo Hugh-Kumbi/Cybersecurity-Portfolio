@@ -80,10 +80,6 @@ Let's innovate and secure the future together!
 <h2> Certifications </h2>
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
 
-<h2>📺 YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -95,11 +91,10 @@ Let's innovate and secure the future together!
 [youtube]: https://www.youtube.com/@Hugh_Chanetsa
 [instagram]: https://www.instagram.com/chanetsa.hugh/
 [linkedin]: https://linkedin.com/in/hugh-chanetsa
+[linkedin]: chanetsa.hugh@protonmail.com
 
 <!--
 **Hugh-Kumbi/Hugh-Kumbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I am currently building a comprehensive GitHub portfolio to showcase my computer science and cybersecurity projects.
 - 🌱 I am deepening my knowledge of advanced cybersecurity concepts and Linux administration as I prepare for the CompTIA Security+ and ISC2 certifications.
