@@ -22,7 +22,7 @@ My unique combination of technical skills, diverse academic experience, and a pr
 
 ## Certifications 🎓
 
-- Google Cyber Security Professional Certification
+- Google Cybersecurity Professional Certification
 
 ## Education 📚
 
