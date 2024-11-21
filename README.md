@@ -1,4 +1,6 @@
-<h1>Hi, I'm Hugh! <br/><a href="https://github.com/Hugh-Kumbi">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/hugh-chanetsa/">Programmer</a></h1>
+<h1>Module 1-8 are inspired by Google. Please visit this (https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned!
+
+Please make sure you include the original MIT license.</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
