@@ -1,18 +1,24 @@
 <h1>Hugh Chanetsa's Cybersecurity Portfolio</a></h1>
 
-## Welcome! 👋
+## Discover My Journey 🔍✨
 
 Welcome to my GitHub portfolio! Here, you'll find a collection of projects that reflect my passion for cybersecurity, machine learning, and technology. As a driven and dedicated professional, I am committed to applying my skills and experiences to foster innovation and make meaningful contributions to the ever-evolving field of cybersecurity.
 
-## About Me 
+## Professional Summary 🛠️📈
 
-I am Hugh Chanetsa, a highly motivated and results-driven professional with a diverse academic background and a passion for technology and cybersecurity. I hold:
+I am Hugh Chanetsa, a dedicated and results-driven cybersecurity professional with a multidisciplinary academic background and a strong commitment to safeguarding digital environments. I hold:
 
 - A Bachelor’s degree in Computer Science specializing in Software Engineering
-- A Bachelor’s degree in Social Sciences, with a focus on International Relations and Affairs, Economic History, and Industrial Sociology
 - A Bachelor of Commerce (Honors) degree specializing in Management Studies
-  
-With this interdisciplinary foundation, I bring a unique perspective to problem-solving and a strong ability to adapt to complex, evolving challenges. My keen interest in cybersecurity drives me to continuously explore new opportunities, expand my expertise, and contribute meaningfully to the field.
+- A Bachelor’s degree in Social Sciences, focusing on International Relations and Affairs, Economic History, and Industrial Sociology
+
+With expertise in Application Development Security, Networking, and System Administration, I am passionate about proactively identifying and neutralizing cyber threats to protect organizations and individuals from financial harm. Guided by a strong commitment to ethical standards and problem-solving, I strive to help organizations achieve their security goals by:
+
+- Safeguarding their networks
+- Developing secure applications to prevent intrusions
+- Mitigating risks effectively
+
+My unique combination of technical skills, diverse academic experience, and a proactive approach to cybersecurity enables me to tackle complex challenges while driving innovation in this critical field.
 
 ## Certifications 🎓
 
@@ -20,8 +26,7 @@ With this interdisciplinary foundation, I bring a unique perspective to problem-
 - EC Council Certified Ethical Hacker Version 12 (CEHv.12)
 - Cisco Certified Junior Cyber Security Analyst
 - Ethical Hacking Elite Certification, IIT KGP
-- Google Cyber Security Professional Certifications
-- (ISC)2 Certified in Cybersecurity - CC
+- Google Cyber Security Professional Certification
 
 ## Professional Experience 💼
 
@@ -40,11 +45,12 @@ With this interdisciplinary foundation, I bring a unique perspective to problem-
 
 ## Education 📚
 
-- Bachelor of Technology in Computer Science Engineering, specializing in Cybersecurity and Blockchain Technology, under Rajiv Gandhi Technical University, Bhopal.
-- AISSE and AISSCE, under CBSE.
+- A Bachelor’s degree in Computer Science from the University of the People
+- A Bachelor of Commerce (Honors) degree from the University of Cape Town
+- A Bachelor’s degree in Social Sciences from the University of Cape Town
 
 ## Resume
-[Aryan Parashar's Resume](https://www.canva.com/design/DAF-dcHc0cU/pQ1Q4vcFpUP3ubqTE-ABHQ/view?utm_content=DAF-dcHc0cU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Hugh Chanetsa's Resume](https://www.canva.com/design/DAF-dcHc0cU/pQ1Q4vcFpUP3ubqTE-ABHQ/view?utm_content=DAF-dcHc0cU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 ## Seeking Opportunities 🌟
