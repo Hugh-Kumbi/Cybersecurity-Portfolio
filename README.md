@@ -50,12 +50,11 @@ My unique combination of technical skills, diverse academic experience, and a pr
 - A Bachelor’s degree in Social Sciences from the University of Cape Town
 
 ## Resume
-[Hugh Chanetsa's Resume](https://www.canva.com/design/DAF-dcHc0cU/pQ1Q4vcFpUP3ubqTE-ABHQ/view?utm_content=DAF-dcHc0cU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
+[Hugh Chanetsa's Resume](https://www.canva.com)
 
 ## Seeking Opportunities 🌟
 
-I am currently seeking summer internships in Cyber Defense domains at reputed organizations. I am eager to apply my skills and experiences to innovative projects and make meaningful contributions to the cybersecurity landscape.
+I am currently seeking internships and entry-level cybersecurity positions at reputable organizations. I am eager to apply my skills and experiences to innovative projects, enhance security, and make meaningful contributions to the cybersecurity field.
 
 ## Connect with Me 📧
 
@@ -63,28 +62,25 @@ Feel free to reach out to me via email at aryan25ic011@satiengg.in or connect wi
 
 Let's innovate and secure the future together!
 
-<h2> Professional Statement </h2>
-- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
-
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
   - [Hello World!](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
   - [Active Delivery Home Lab](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
 
-<h2> Skills </h2>
+## Skills
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
 
-<h2> Tools </h2>
+## Tools
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
  
-<h2> Certifications </h2>
-- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
+## Connect with Me 🤳
 
-<h2> 🤳 Connect with me:</h2>
-
+[<img align="left" alt="HughChanetsa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="HughChanetsa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HughChanetsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HughChanetsa | Protonmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][protonmail]
 
 [twitter]: https://twitter.com/hugh_chanetsa
-[youtube]: https://www.youtube.com/@Hugh_Chanetsa
 [instagram]: https://www.instagram.com/chanetsa.hugh/
 [linkedin]: https://linkedin.com/in/hugh-chanetsa
 [protonmail]: chanetsa.hugh@protonmail.com
