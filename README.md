@@ -2,7 +2,7 @@
 
 ## Discover My Journey 🔍✨
 
-Welcome to my GitHub portfolio! Here, you'll find a collection of projects that reflect my passion for cybersecurity, machine learning, and technology. As a driven and dedicated professional, I am committed to applying my skills and experiences to foster innovation and make meaningful contributions to the ever-evolving field of cybersecurity.
+Explore my GitHub portfolio to discover a range of cybersecurity and machine learning projects. I'm passionate about leveraging technology to solve real-world problems.
 
 ## Professional Summary 🛠️📈
 
