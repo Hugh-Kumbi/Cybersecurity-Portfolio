@@ -34,7 +34,7 @@ My unique combination of technical skills, diverse academic experience, and a pr
   
 | Projects  | Expertise Highlight |
 | --- | --- |
-| Conducting a security audit  | 'INFOSEC', NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad |
+| Conducting a security audit  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
 | Network Security  | TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks |
 | Linux & SQL  | Command-line Interface, SQL, Linux, Bash |
 | Assets, Threats, & Vulnerabilities  | Authentication,  Vulnerability assessment, Cryptography, Asset Classification, Threat Modelling Analysis |
