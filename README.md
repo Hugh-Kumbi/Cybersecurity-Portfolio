@@ -44,7 +44,16 @@ My unique combination of technical skills, diverse academic experience, and a pr
 | Automation with Python  | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide` |
 
 ## Tools ⚙️
-- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
+- Google Workspace (Drive, Docs, Sheets, Slides)
+- Markdown Language
+- Tcpdump
+- Wireshark
+- Linux OS
+- SQL
+- Chronicle
+- Splunk
+- Suricata
+- Python
 
 ## Resume 🌐
 [Hugh Chanetsa's Resume](https://www.canva.com)
