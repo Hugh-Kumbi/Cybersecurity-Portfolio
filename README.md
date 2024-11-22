@@ -55,7 +55,7 @@ I am eager to apply my cybersecurity knowledge and skills to challenging roles a
  
 ## Connect with Me 🤳
 
-Feel free to connect with me on Twitter, LinkedIn, Instagram, and via email. I’d love to network and share insights.
+Feel free to connect with me on Twitter, LinkedIn, Instagram, and via [email](chanetsa.hugh@gmail.com). I’d love to network and share insights.
 
 [<img align="left" alt="HughChanetsa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="HughChanetsa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
