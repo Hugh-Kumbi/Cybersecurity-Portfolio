@@ -58,10 +58,10 @@ My unique combination of technical skills, diverse academic experience, and a pr
 ## Supplementary Portfolio
 Discover more of my work in these standalone portfolios:
 
-Python - Cybersecurity - Bruteforce Zipfile
-Python - Cybersecurity - Automation Case
-Python - Cybersecurity - Transaction Fraud
-Cybersecurity - Investigation & Risk Assessment Based on MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)
+- Python - Cybersecurity - Bruteforce Zipfile
+- Python - Cybersecurity - Automation Case
+- Python - Cybersecurity - Transaction Fraud
+- Cybersecurity - Investigation & Risk Assessment Based on MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)
 and more....
 
 ## Resume 🌐
