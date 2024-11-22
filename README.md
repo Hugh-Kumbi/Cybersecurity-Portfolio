@@ -22,7 +22,7 @@ My unique combination of technical skills, diverse academic experience, and a pr
 
 ## Certifications 🎓
 
-- Google Cybersecurity Professional Certification
+- [Google Cybersecurity Professional Certification](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
 
 ## Education 📚
 
