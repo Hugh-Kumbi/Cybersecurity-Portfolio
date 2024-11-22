@@ -34,7 +34,7 @@ My unique combination of technical skills, diverse academic experience, and a pr
   
 | Projects  | Expertise Highlight |
 | --- | --- |
-| [Conducting a security audit](https://github.com/Hugh-Kumbi/LABURL)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [Security Controls and Compliance Evaluation](https://github.com/Hugh-Kumbi/LABURL)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
 | [Network Security](https://github.com/Hugh-Kumbi/LABURL)  | `TCP/IP model, Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
 | [Linux & SQL](https://github.com/Hugh-Kumbi/LABURL)  | `Command-line Interface`, `SQL`, `Linux, Bash` |
 | [Assets, Threats, & Vulnerabilities](https://github.com/Hugh-Kumbi/LABURL)  | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` |
