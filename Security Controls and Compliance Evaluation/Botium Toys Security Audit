@@ -107,4 +107,5 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 ## Recommendations
 
 To enhance Botium Toys' security posture and ensure better protection of sensitive information, several controls should be implemented. These include Least Privilege, disaster recovery plans, password policies, separation of duties, an Intrusion Detection System (IDS), effective legacy system management, encryption, and a password management system.
+
 To address compliance gaps, Botium Toys should prioritize controls like Least Privilege, separation of duties, and encryption. Additionally, the company must properly classify its assets to identify and implement any further necessary controls, strengthening its overall security framework and safeguarding confidential information.
