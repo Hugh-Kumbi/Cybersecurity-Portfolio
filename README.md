@@ -35,17 +35,13 @@ My unique combination of technical skills, diverse academic experience, and a pr
 | Projects  | Expertise Highlight |
 | --- | --- |
 | Conducting a security audit  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-| Network Security  | TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks |
-| Linux & SQL  | Command-line Interface, SQL, Linux, Bash |
-| Assets, Threats, & Vulnerabilities  | Authentication,  Vulnerability assessment, Cryptography, Asset Classification, Threat Modelling Analysis |
-| Detection & Response  | Incident Lifecycle, Incident Journal |
-| Tcpdump & Wireshark  | Packet Analyzer |
-| IDS & SIEM  | Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk |
-| Automation with Python  | Computer Programming, Python Programming, Coding, PEP 8 Style Guide |
-
-## Skills 🔓
-
-- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
+| Network Security  | `TCP/IP model, Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
+| Linux & SQL  | `Command-line Interface`, `SQL`, `Linux, Bash` |
+| Assets, Threats, & Vulnerabilities  | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` |
+| Detection & Response  | `Incident Lifecycle`, `Incident Journal` |
+| Tcpdump & Wireshark  | `Packet Analyzer` |
+| IDS & SIEM  | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle`, `Splunk` |
+| Automation with Python  | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide` |
 
 ## Tools ⚙️
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
