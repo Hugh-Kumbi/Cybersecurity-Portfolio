@@ -64,7 +64,7 @@ Control types (providing defense and protecting assets) include, but are not lim
 
 Does Botium Toys currenly have this control in place? 
 
-| Yes / No | Control | Explanation |
+| Yes/No | Control | Explanation |
 | --- | --- | --- |
 | No | Least Privilige | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
 | No | Disaster Recovery Plan | At the moment, there is no plan for handling disaster. Implementing this ensures the business continuity. |
@@ -83,7 +83,7 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 * Payment Card Industry Data Security Standard (PCI DSS)
 
-| Yes/ No | Best Practice | Explanation |
+| Yes/No | Best Practice | Explanation |
 | --- | --- | --- |
 | No | Authorized users can access to customer's credit card. | At the moment, all employees have access to it which is a bad practice in the business.  |
 | No | Credit card is stored in a secure environment. | It is not encrypted and violates the law and regulations. |
@@ -91,14 +91,14 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 * GDPR
   
-| Yes/ No / | Best Practice | Explanation |
+| Yes/No | Best Practice | Explanation |
 | --- | --- | --- |
 | No | EU customers are kept secured. | The organization does not apply GDPR practice. Thus, it puts them at risk of being fined by the EU government. |
 | Yes | Privacy policies are maintained properly.| According to the scenario, it has been enforced by the IT Team members and other staff. |
 
 * System and Organizations Controls 
 
-| Yes/ No | Best Practice | Explanation |
+| Yes/No | Best Practice | Explanation |
 | --- | --- | --- |
 | No | User access policies are established | Employees have access to internally stored data which means the access policy has not been applied. |
 | Yes | Data integrity is consistent, complete, accurate | Data integrity is in place. | 
