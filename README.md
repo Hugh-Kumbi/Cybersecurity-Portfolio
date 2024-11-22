@@ -35,13 +35,13 @@ My unique combination of technical skills, diverse academic experience, and a pr
 | Projects  | Expertise Highlight |
 | --- | --- |
 | [Conducting a security audit](https://github.com/Hugh-Kumbi/LABURL)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-| Network Security  | `TCP/IP model, Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
-| Linux & SQL  | `Command-line Interface`, `SQL`, `Linux, Bash` |
-| Assets, Threats, & Vulnerabilities  | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` |
-| Detection & Response  | `Incident Lifecycle`, `Incident Journal` |
-| Tcpdump & Wireshark  | `Packet Analyzer` |
-| IDS & SIEM  | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle`, `Splunk` |
-| Automation with Python  | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide` |
+| [Network Security](https://github.com/Hugh-Kumbi/LABURL)  | `TCP/IP model, Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
+| [Linux & SQL](https://github.com/Hugh-Kumbi/LABURL)  | `Command-line Interface`, `SQL`, `Linux, Bash` |
+| [Assets, Threats, & Vulnerabilities](https://github.com/Hugh-Kumbi/LABURL)  | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` |
+| [Detection & Response](https://github.com/Hugh-Kumbi/LABURL)  | `Incident Lifecycle`, `Incident Journal` |
+| [Tcpdump & Wireshark](https://github.com/Hugh-Kumbi/LABURL)  | `Packet Analyzer` |
+| [IDS & SIEM](https://github.com/Hugh-Kumbi/LABURL)  | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle`, `Splunk` |
+| [Automation with Python](https://github.com/Hugh-Kumbi/LABURL) | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide` |
 
 ## Tools ⚙️
 - Google Workspace (Drive, Docs, Sheets, Slides)
