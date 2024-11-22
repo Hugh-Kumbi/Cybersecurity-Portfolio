@@ -32,6 +32,16 @@ My unique combination of technical skills, diverse academic experience, and a pr
 
 <h2>Cybersecurity Projects 👨🏽‍💻:</h2>
   
+| Projects  | Expertise Highlight |
+| --- | --- |
+| Conducting a security audit  | Content Cell  |
+| Network Security  | Content Cell  |
+| Linux & SQL  | Content Cell  |
+| Assets, Threats, & Vulnerabilities  | Content Cell  |
+| Detection & Response  | Content Cell  |
+| Tcpdump & Wireshark  | Content Cell  |
+| IDS & SIEM  | Content Cell  |
+| Automation with Python  | Content Cell  |
   - [Hello World!](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
   - [Active Delivery Home Lab](https://github.com/Hugh-Kumbi/ActiveDirectoryLab)
 
