@@ -67,7 +67,7 @@ Does Botium Toys currenly have this control in place?
 | Yes/No | Control | Explanation |
 | --- | --- | --- |
 | Yes | `No` | Least Privilige | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
-| Yes | `No` | Disaster Recovery Plan | At the moment, there is no plan for handling disaster. Implementing this ensures the business continuity. |
+|Yes|`No`| Disaster Recovery Plan | At the moment, there is no plan for handling disaster. Implementing this ensures the business continuity. |
 | `Yes` | No | Firewall | The organization has a firewall to block traffic based on an appropriately defined set of security rules. |
 | `Yes` | No | Password policies | Password policy exists, yet the requirements are considered weak and put the identity management access at risk. |
 | `Yes` | No | Antivirus | The antivirus software is active and regulary monitored by IT team. |
