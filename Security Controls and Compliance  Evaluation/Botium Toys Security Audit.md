@@ -66,8 +66,8 @@ Does Botium Toys currenly have this control in place?
 
 | Yes | No | Control | Explanation |
 | :-: | :-: | :-: | :- |
-| Yes | `No` | Presently, all employees have access to customer data. Access privileges need to be restricted to minimize the risk of a data breach. |
-| Yes | `No` | There is no disaster recovery plan in place. This needs to be addressed to ensure the business can continue operating in case of unexpected disruptions. |
+| Yes | `No` | Least Priviledge | Presently, all employees have access to customer data. Access privileges need to be restricted to minimize the risk of a data breach. |
+| Yes | `No` | Disaster recovery plans | There is no disaster recovery plan in place. This needs to be addressed to ensure the business can continue operating in case of unexpected disruptions. |
 | Yes | `No` | Password policies | Employee password requirements are too weak, increasing the likelihood that a threat actor could compromise sensitive data or other assets through employee devices or the internal network. |
 | Yes | `No` | Separation of duties | PTo reduce the risk of fraud and unauthorized access to critical data, operational duties and payroll management should be separated, as the CEO currently handles both. |
 | `Yes` | No | Firewalls | The firewall is configured to block traffic based on a well-defined set of security rules. |
