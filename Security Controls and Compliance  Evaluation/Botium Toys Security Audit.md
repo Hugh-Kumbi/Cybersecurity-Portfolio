@@ -65,7 +65,7 @@ Control types (providing defense and protecting assets) include, but are not lim
 Does Botium Toys currenly have this control in place? 
 
 | Yes/No | Control | Explanation |
-| :-: | :-: | :- |
+| :-: | :-: | :- | :- |
 | Yes | `No` | Presently, all employees have access to customer data. Access privileges need to be restricted to minimize the risk of a data breach. |
 | Yes | `No` | There is no disaster recovery plan in place. This needs to be addressed to ensure the business can continue operating in case of unexpected disruptions. |
 | Yes | `No` | Password policies | Employee password requirements are too weak, increasing the likelihood that a threat actor could compromise sensitive data or other assets through employee devices or the internal network. |
@@ -87,7 +87,7 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 * Payment Card Industry Data Security Standard (PCI DSS)
 
 | Yes/No | Best Practice | Explanation |
-| :-: | :-: | :- |
+| :-: | :-: | :- | :- |
 | `Yes` | `No` | Authorized users can access to customer's credit card. | At the moment, all employees have access to it which is a bad practice in the business.  |
 | `Yes` | `No` | Credit card is stored in a secure environment. | It is not encrypted and violates the law and regulations. |
 | `Yes` | `No` | Encryption is secured. | No, the encryption has not taken place yet. | 
@@ -95,14 +95,14 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 * GDPR
   
 | Yes/No | Best Practice | Explanation |
-| :-: | :-: | :- |
+| :-: | :-: | :- | :- |
 | `Yes` | `No` | EU customers are kept secured. | The organization does not apply GDPR practice. Thus, it puts them at risk of being fined by the EU government. |
 | `Yes` | `No` | Privacy policies are maintained properly.| According to the scenario, it has been enforced by the IT Team members and other staff. |
 
 * System and Organizations Controls 
 
 | Yes/No | Best Practice | Explanation |
-| :-: | :-: | :- |
+| :-: | :-: | :- | :- |
 | `Yes` | `No` | User access policies are established | Employees have access to internally stored data which means the access policy has not been applied. |
 | `Yes` | `No` | Data integrity is consistent, complete, accurate | Data integrity is in place. | 
 | `Yes` | `No` | Data is available to authorized users | Currently, all the employees can access all the data. |
