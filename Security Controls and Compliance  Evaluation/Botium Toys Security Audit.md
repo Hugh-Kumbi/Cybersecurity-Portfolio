@@ -60,10 +60,11 @@ Control types (providing defense and protecting assets) include, but are not lim
 3. Detective (Determining whether an incident has occurred or is in progress)
 4. Deterrent (Discouraging attacks)
 
-## Controls Assessment Checklist
+## Controls and Compliance Checklist
 
-Does Botium Toys currenly have this control in place? 
+Select "Yes" or "No" to answer the question: Does Botium Toys currenly have this control in place? 
 
+# Controls Assessment Checklist
 | Yes | No | Control | Explanation |
 | :-: | :-: | :-: | :- |
 | ~~Yes~~ | `No` | Least Priviledge | Presently, all employees have access to customer data. Access privileges need to be restricted to minimize the risk of a data breach. |
