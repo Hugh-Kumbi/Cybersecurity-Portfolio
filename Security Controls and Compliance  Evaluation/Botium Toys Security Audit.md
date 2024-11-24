@@ -64,8 +64,8 @@ Control types (providing defense and protecting assets) include, but are not lim
 
 Does Botium Toys currenly have this control in place? 
 
-| Yes/No | Control | Explanation |
-| :-: | :-: | :- | :- |
+| Yes | No | Control | Explanation |
+| :-: | :-: | :-: | :- |
 | Yes | `No` | Presently, all employees have access to customer data. Access privileges need to be restricted to minimize the risk of a data breach. |
 | Yes | `No` | There is no disaster recovery plan in place. This needs to be addressed to ensure the business can continue operating in case of unexpected disruptions. |
 | Yes | `No` | Password policies | Employee password requirements are too weak, increasing the likelihood that a threat actor could compromise sensitive data or other assets through employee devices or the internal network. |
@@ -77,7 +77,7 @@ Does Botium Toys currenly have this control in place?
 | Yes | `No` | Manual monitoring, maintenance, and intervention for legacy systems| Legacy systems are listed in the asset inventory and are monitored and maintained, but there is no established schedule for these tasks. Clear intervention policies and procedures need to be implemented to reduce the risk of a security breach.|
 | Yes | `No` | Encryption | Encryption is not currently being used, which leaves sensitive information vulnerable. Implementing encryption would greatly enhance confidentiality. |
 | Yes | `No` | Password management system | A password management system is not in place. Introducing one would improve both the IT department’s efficiency and employee productivity when resolving password issues. |
-| `Yes` | N` | Locks(offices, storefront, warehouse) | The store’s physical location, including its main offices, storefront, and warehouse, has sufficient locks in place for security. |
+| `Yes` | No` | Locks(offices, storefront, warehouse) | The store’s physical location, including its main offices, storefront, and warehouse, has sufficient locks in place for security. |
 | `Yes` | No | Closed-circuit television (CCTV) surveillance | CCTV cameras are installed and fully operational at the store’s physical location. |
 | `Yes` | No | Fire detection/prevention (fire alarm, sprinkler system, etc.)| Fire detection and prevention systems at the physical location are functioning properly. |
 
