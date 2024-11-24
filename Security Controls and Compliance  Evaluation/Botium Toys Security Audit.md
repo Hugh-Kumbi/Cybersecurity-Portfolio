@@ -66,17 +66,20 @@ Does Botium Toys currenly have this control in place?
 
 | Yes/No | Control | Explanation |
 | :-: | :-: | :- |
-| Yes | `No` | Least Privilige | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
-| Yes | `No` | Disaster Recovery Plan | At the moment, there is no plan for handling disaster. Implementing this ensures the business continuity. |
-| `Yes` | No | Firewall | The organization has a firewall to block traffic based on an appropriately defined set of security rules. |
-| `Yes` | No | Password policies | Password policy exists, yet the requirements are considered weak and put the identity management access at risk. |
-| `Yes` | No | Antivirus | The antivirus software is active and regulary monitored by IT team. |
-| `Yes` | No | Backups | This is as same as disaster recovery plan. They are not prepared in the case of breach. They have to implement the backup plan, such as incremental, full, or partial. |
-| `Yes` | `No` | Encryption | This would protect confidentiality of data. |
-| `Yes` | `No` | IDS | This would help IT team to identiy possible intrusions by the threat actors. | 
-| `Yes` | `No` | Storefront| Although IT team is not responsible for the management at the storefront, however the organization should have sufficient locks.|
-| `Yes` | `No` | CCTV | It is working and functioning. |
-| `Yes` | `No` | Fire detection | The organization has these. However, the team should maintain it and establish a plan on how to use it. |
+| Yes | `No` | Presently, all employees have access to customer data. Access privileges need to be restricted to minimize the risk of a data breach. |
+| Yes | `No` | There is no disaster recovery plan in place. This needs to be addressed to ensure the business can continue operating in case of unexpected disruptions. |
+| Yes | `No` | Password policies | Employee password requirements are too weak, increasing the likelihood that a threat actor could compromise sensitive data or other assets through employee devices or the internal network. |
+| Yes | `No` | Separation of duties | PTo reduce the risk of fraud and unauthorized access to critical data, operational duties and payroll management should be separated, as the CEO currently handles both. |
+| `Yes` | No | Firewalls | The firewall is configured to block traffic based on a well-defined set of security rules. |
+| Yes | `No` | Intrusion detection system (IDS) | The IT department should implement an intrusion detection system (IDS) to identify potential intrusions from threat actors. |
+| Yes | `No` | Backups | Backups of critical data must be maintained by the IT department to ensure business continuity in the event of a breach or data loss. |
+| `Yes` | No | Antivirus software | Antivirus software is installed and monitored regularly to protect the company’s systems. | 
+| Yes | `No` | Manual monitoring, maintenance, and intervention for legacy systems| Legacy systems are listed in the asset inventory and are monitored and maintained, but there is no established schedule for these tasks. Clear intervention policies and procedures need to be implemented to reduce the risk of a security breach.|
+| Yes | `No` | Encryption | Encryption is not currently being used, which leaves sensitive information vulnerable. Implementing encryption would greatly enhance confidentiality. |
+| Yes | `No` | Password management system | A password management system is not in place. Introducing one would improve both the IT department’s efficiency and employee productivity when resolving password issues. |
+| `Yes` | N` | Locks(offices, storefront, warehouse) | The store’s physical location, including its main offices, storefront, and warehouse, has sufficient locks in place for security. |
+| `Yes` | No | Closed-circuit television (CCTV) surveillance | CCTV cameras are installed and fully operational at the store’s physical location. |
+| `Yes` | No | Fire detection/prevention (fire alarm, sprinkler system, etc.)| Fire detection and prevention systems at the physical location are functioning properly. |
 
 ## Compliance Checklist
 Does Botium Toys currenly adhrere to this compliance best practice? 
