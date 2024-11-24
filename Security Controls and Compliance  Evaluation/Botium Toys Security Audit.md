@@ -65,18 +65,18 @@ Control types (providing defense and protecting assets) include, but are not lim
 Does Botium Toys currenly have this control in place? 
 
 | Yes/No | Control | Explanation |
-| :-: | :-: | --- |
-|Yes|`No`| Least Privilige | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
-|Yes|`No`| Disaster Recovery Plan | At the moment, there is no plan for handling disaster. Implementing this ensures the business continuity. |
-|`Yes`|No| Firewall | The organization has a firewall to block traffic based on an appropriately defined set of security rules. |
-|`Yes`|No| Password policies | Password policy exists, yet the requirements are considered weak and put the identity management access at risk. |
-|`Yes`|No| Antivirus | The antivirus software is active and regulary monitored by IT team. |
-|`Yes`|No| Backups | This is as same as disaster recovery plan. They are not prepared in the case of breach. They have to implement the backup plan, such as incremental, full, or partial. |
-|`Yes`|`No`| Encryption | This would protect confidentiality of data. |
-|`Yes`|`No`| IDS | This would help IT team to identiy possible intrusions by the threat actors. | 
-|`Yes`|`No`| Storefront| Although IT team is not responsible for the management at the storefront, however the organization should have sufficient locks.|
-|`Yes`|`No`| CCTV | It is working and functioning. |
-|`Yes`|`No`| Fire detection | The organization has these. However, the team should maintain it and establish a plan on how to use it. |
+| :-: | :-: | :- |
+| Yes | `No` | Least Privilige | The employees have access to customer data. This has to be changed to reduce the risk of breach. |
+| Yes | `No` | Disaster Recovery Plan | At the moment, there is no plan for handling disaster. Implementing this ensures the business continuity. |
+| `Yes` | No | Firewall | The organization has a firewall to block traffic based on an appropriately defined set of security rules. |
+| `Yes` | No | Password policies | Password policy exists, yet the requirements are considered weak and put the identity management access at risk. |
+| `Yes` | No | Antivirus | The antivirus software is active and regulary monitored by IT team. |
+| `Yes` | No | Backups | This is as same as disaster recovery plan. They are not prepared in the case of breach. They have to implement the backup plan, such as incremental, full, or partial. |
+| `Yes` | `No` | Encryption | This would protect confidentiality of data. |
+| `Yes` | `No` | IDS | This would help IT team to identiy possible intrusions by the threat actors. | 
+| `Yes` | `No` | Storefront| Although IT team is not responsible for the management at the storefront, however the organization should have sufficient locks.|
+| `Yes` | `No` | CCTV | It is working and functioning. |
+| `Yes` | `No` | Fire detection | The organization has these. However, the team should maintain it and establish a plan on how to use it. |
 
 ## Compliance Checklist
 Does Botium Toys currenly adhrere to this compliance best practice? 
@@ -84,25 +84,25 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 * Payment Card Industry Data Security Standard (PCI DSS)
 
 | Yes/No | Best Practice | Explanation |
-| --- | --- | --- |
-|`Yes`|`No`| Authorized users can access to customer's credit card. | At the moment, all employees have access to it which is a bad practice in the business.  |
-|`Yes`|`No`| Credit card is stored in a secure environment. | It is not encrypted and violates the law and regulations. |
-|`Yes`|`No`| Encryption is secured. | No, the encryption has not taken place yet. | 
+| :-: | :-: | :- |
+| `Yes` | `No` | Authorized users can access to customer's credit card. | At the moment, all employees have access to it which is a bad practice in the business.  |
+| `Yes` | `No` | Credit card is stored in a secure environment. | It is not encrypted and violates the law and regulations. |
+| `Yes` | `No` | Encryption is secured. | No, the encryption has not taken place yet. | 
 
 * GDPR
   
 | Yes/No | Best Practice | Explanation |
-| --- | --- | --- |
-|`Yes`|`No`| EU customers are kept secured. | The organization does not apply GDPR practice. Thus, it puts them at risk of being fined by the EU government. |
-|`Yes`|`No`| Privacy policies are maintained properly.| According to the scenario, it has been enforced by the IT Team members and other staff. |
+| :-: | :-: | :- |
+| `Yes` | `No` | EU customers are kept secured. | The organization does not apply GDPR practice. Thus, it puts them at risk of being fined by the EU government. |
+| `Yes` | `No` | Privacy policies are maintained properly.| According to the scenario, it has been enforced by the IT Team members and other staff. |
 
 * System and Organizations Controls 
 
 | Yes/No | Best Practice | Explanation |
-| --- | --- | --- |
-|`Yes`|`No`| User access policies are established | Employees have access to internally stored data which means the access policy has not been applied. |
-|`Yes`|`No`| Data integrity is consistent, complete, accurate | Data integrity is in place. | 
-|`Yes`|`No`| Data is available to authorized users | Currently, all the employees can access all the data. |
+| :-: | :-: | :- |
+| `Yes` | `No` | User access policies are established | Employees have access to internally stored data which means the access policy has not been applied. |
+| `Yes` | `No` | Data integrity is consistent, complete, accurate | Data integrity is in place. | 
+| `Yes` | `No` | Data is available to authorized users | Currently, all the employees can access all the data. |
 
 ## Recommendations
 
