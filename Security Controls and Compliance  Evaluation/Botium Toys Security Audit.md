@@ -86,23 +86,24 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 
 * Payment Card Industry Data Security Standard (PCI DSS)
 
-| Yes/No | Best Practice | Explanation |
-| :-: | :-: | :- | :- |
-| `Yes` | `No` | Authorized users can access to customer's credit card. | At the moment, all employees have access to it which is a bad practice in the business.  |
-| `Yes` | `No` | Credit card is stored in a secure environment. | It is not encrypted and violates the law and regulations. |
-| `Yes` | `No` | Encryption is secured. | No, the encryption has not taken place yet. | 
+| Yes | No | Best Practice | Explanation |
+| :-: | :-: | :-: | :- |
+| ~~Yes~~ | `No` | Only authorized users have access to customers' credit card information. | All employees currently have access to the company’s internal data, which poses a significant security risk.  |
+| ~~Yes~~ | `No` | Credit card information is accepted, processed, transmitted, and stored internally, in a secure environment. | Customers’ credit card information is not encrypted, and employees currently have unrestricted access to this data. |
+| ~~Yes~~ | `No` | Implement data encryption procedures to better secure credit card transaction touchpoints and data. | Encryption must be implemented to protect financial information. | 
+| ~~Yes~~ | `No` | Adopt secure password management policies. | Password policies are minimal, and there is no password management system in place to enforce stronger credentials. |
 
-* GDPR
+<ins>* General Data Protection Regulation (GDPR)</ins>
   
-| Yes/No | Best Practice | Explanation |
-| :-: | :-: | :- | :- |
+| Yes | No | Best Practice | Explanation |
+| :-: | :-: | :-: | :- |
 | `Yes` | `No` | EU customers are kept secured. | The organization does not apply GDPR practice. Thus, it puts them at risk of being fined by the EU government. |
 | `Yes` | `No` | Privacy policies are maintained properly.| According to the scenario, it has been enforced by the IT Team members and other staff. |
 
 * System and Organizations Controls 
 
-| Yes/No | Best Practice | Explanation |
-| :-: | :-: | :- | :- |
+| Yes | No | Best Practice | Explanation |
+| :-: | :-: | :-: | :- |
 | `Yes` | `No` | User access policies are established | Employees have access to internally stored data which means the access policy has not been applied. |
 | `Yes` | `No` | Data integrity is consistent, complete, accurate | Data integrity is in place. | 
 | `Yes` | `No` | Data is available to authorized users | Currently, all the employees can access all the data. |
