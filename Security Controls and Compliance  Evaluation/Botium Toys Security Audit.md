@@ -65,7 +65,7 @@ Control types (providing defense and protecting assets) include, but are not lim
 <ins>Select "Yes" or "No" to answer the question: Does Botium Toys currenly have this control in place?</ins> 
 
 | Yes | No | Control | Explanation |
-| :-: | :-: | :-: | :- |
+| :-: | :-: | :- | :- |
 | ~~Yes~~ | `No` | Least Priviledge | Presently, all employees have access to customer data. Access privileges need to be restricted to minimize the risk of a data breach. |
 | ~~Yes~~ | `No` | Disaster recovery plans | There is no disaster recovery plan in place. This needs to be addressed to ensure the business can continue operating in case of unexpected disruptions. |
 | ~~Yes~~ | `No` | Password policies | Employee password requirements are too weak, increasing the likelihood that a threat actor could compromise sensitive data or other assets through employee devices or the internal network. |
@@ -87,7 +87,7 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 * Payment Card Industry Data Security Standard (PCI DSS)
 
 | Yes | No | Best Practice | Explanation |
-| :-: | :-: | :-: | :- |
+| :-: | :-: | :- | :- |
 | ~~Yes~~ | `No` | Only authorized users have access to customers' credit card information. | All employees currently have access to the company’s internal data, which poses a significant security risk.  |
 | ~~Yes~~ | `No` | Credit card information is accepted, processed, transmitted, and stored internally, in a secure environment. | Customers’ credit card information is not encrypted, and employees currently have unrestricted access to this data. |
 | ~~Yes~~ | `No` | Implement data encryption procedures to better secure credit card transaction touchpoints and data. | Encryption must be implemented to protect financial information. | 
