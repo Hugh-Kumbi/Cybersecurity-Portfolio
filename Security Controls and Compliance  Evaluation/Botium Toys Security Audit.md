@@ -49,12 +49,12 @@ The potential impact from the loss of an asset is rated as medium, because the I
 
 #### Additional Info 
 
-In Cybersecurity, control types can be classified in three ways: 
+**In Cybersecurity, control types can be classified in three ways:** 
 1. Administrative/Managerial controls
 2. Technical controls
 3. Physical/Operational controls
 
-Control types (providing defense and protecting assets) include, but are not limited to:
+**Control types (providing defense and protecting assets) include, but are not limited to:**
 1. Preventative (preventing an incident from occurring in the first place)
 2. Corrective (restoring an asset after an incident)
 3. Detective (Determining whether an incident has occurred or is in progress)
