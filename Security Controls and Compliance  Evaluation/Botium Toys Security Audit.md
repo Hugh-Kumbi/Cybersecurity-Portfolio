@@ -12,19 +12,6 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
-#### Additional Info 
-
-**In Cybersecurity, control types can be classified in three ways:** 
-1. Administrative/Managerial controls
-2. Technical controls
-3. Physical/Operational controls
-
-**Control types (providing defense and protecting assets) include, but are not limited to:**
-1. Preventative (preventing an incident from occurring in the first place)
-2. Corrective (restoring an asset after an incident)
-3. Detective (Determining whether an incident has occurred or is in progress)
-4. Deterrent (Discouraging attacks)
-
 ## Controls Assessment Checklist
 
 *<ins>Select "Yes" or "No" to answer the question: Does Botium Toys currenly have this control in place?</ins>*
