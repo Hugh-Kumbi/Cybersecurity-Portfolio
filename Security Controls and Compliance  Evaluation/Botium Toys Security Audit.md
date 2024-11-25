@@ -82,9 +82,9 @@ Control types (providing defense and protecting assets) include, but are not lim
 | `Yes` | ~~No~~ | Fire detection/prevention (fire alarm, sprinkler system, etc.)| Fire detection and prevention systems at the physical location are functioning properly. |
 
 ## Compliance Checklist
-Does Botium Toys currenly adhrere to this compliance best practice? 
+<ins>Select "Yes" or "No" to answer the question: Does Botium Toys currenly adhrere to this compliance best practice?</ins> 
 
-* Payment Card Industry Data Security Standard (PCI DSS)
+<ins>Payment Card Industry Data Security Standard (PCI DSS)</ins> 
 
 | Yes | No | Best Practice | Explanation |
 | :-: | :-: | :- | :- |
@@ -93,20 +93,23 @@ Does Botium Toys currenly adhrere to this compliance best practice?
 | ~~Yes~~ | `No` | Implement data encryption procedures to better secure credit card transaction touchpoints and data. | Encryption must be implemented to protect financial information. | 
 | ~~Yes~~ | `No` | Adopt secure password management policies. | Password policies are minimal, and there is no password management system in place to enforce stronger credentials. |
 
-<ins>* General Data Protection Regulation (GDPR)</ins>
+<ins>General Data Protection Regulation (GDPR)</ins>
   
 | Yes | No | Best Practice | Explanation |
-| :-: | :-: | :-: | :- |
-| `Yes` | `No` | EU customers are kept secured. | The organization does not apply GDPR practice. Thus, it puts them at risk of being fined by the EU government. |
-| `Yes` | `No` | Privacy policies are maintained properly.| According to the scenario, it has been enforced by the IT Team members and other staff. |
+| :-: | :-: | :- | :- |
+| ~~Yes~~ | `No` | EU customers' data is kept private/secured. | Password policies are minimal, and there is no password management system in place to enforce stronger credentials. |
+| `Yes` | ~~No~~ | There is a plan in place to notify E.U customers within 72 hours if their data is compromised/there is a breach.| A plan to notify E.U. customers within 72 hours of a data breach is in place, but additional measures to enhance security are needed. |
+| ~~Yes~~ | `No` | Ensure data is properly classified and inventoried. | Assets have been inventoried, but they have not been classified based on sensitivity or priority. |
+| `Yes` | ~~No~~ | Enforce privacy policies procedures, and processes to properly document and maintain data.| Privacy policies, procedures, and processes have been developed and are being enforced among IT team members and other employees as needed. |
 
-* System and Organizations Controls 
+<ins>System and Organizations Controls</ins> 
 
 | Yes | No | Best Practice | Explanation |
-| :-: | :-: | :-: | :- |
-| `Yes` | `No` | User access policies are established | Employees have access to internally stored data which means the access policy has not been applied. |
-| `Yes` | `No` | Data integrity is consistent, complete, accurate | Data integrity is in place. | 
-| `Yes` | `No` | Data is available to authorized users | Currently, all the employees can access all the data. |
+| :-: | :-: | :- | :- |
+| `Yes` | `No` | User access policies are established | Controls for Least Privilege and separation of duties are not implemented, resulting in all employees having access to internally stored data. These measures should be established to restrict access based on job responsibilities. |
+| `Yes` | `No` | Sensitive data (PII/SPII) is confidential/private | Encryption is not currently in use, leaving PII and SPII vulnerable. Implementing encryption would significantly enhance the confidentiality of this sensitive information. | 
+| `Yes` | `No` | Data integrity ensures the data is consistent, complete, accurate, and has been validated. | Data integrity measures are implemented and functioning effectively. |
+| `Yes` | `No` | Data is available individuals authourized to access it. | Currently, data is accessible to all employees. Access should be restricted so that only individuals whose roles require it have authorization. |
 
 ## Recommendations
 
