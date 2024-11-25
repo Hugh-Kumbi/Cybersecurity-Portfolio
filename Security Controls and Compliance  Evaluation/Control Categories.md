@@ -24,15 +24,37 @@ These controls work together to provide defense in depth and protect assets. **P
 
 Review the following charts for specific details about each type of control and its purpose.
 
-| Administrative/Manegerial Controls |
-| Control Name | Control Type | Control Purpose |
-| :-: |
-| :-: | :-: | :- |
+## Administrative/Manegerial Controls 
+| Control Name | Control Type |  Control Type |
+| :- | :- | :- |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
 | XXXX | XXXX | XXXX |
 
+## Technical Controls 
+| Control Name | Control Type |  Control Type |
+| :- | :- | :- |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
 
-
-
+# Physical/Operations Controls 
+| Control Name | Control Type |  Control Type |
+| :- | :- | :- | 
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
+| XXXX | XXXX | XXXX |
 
 
 
