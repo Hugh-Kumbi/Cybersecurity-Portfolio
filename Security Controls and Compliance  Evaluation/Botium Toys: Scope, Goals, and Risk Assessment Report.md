@@ -39,7 +39,7 @@ The potential impact from the loss of an asset is rated as medium, because the I
 * Antivirus software is installed and monitored regularly by the IT department.
 * The IT department has not installed an intrusion detection system (IDS).
 * There are no disaster recovery plans currently in place, and the company does not have backups of critical data. 
-* The IT department has established a plan to notify E.U. customers within 72 hours if there is a security breach. Additionally, privacy policies, procedures, and processes have been developed and are enforced among IT department * members/other employees, to properly document and maintain data.
+* The IT department has established a plan to notify E.U. customers within 72 hours if there is a security breach. Additionally, privacy policies, procedures, and processes have been developed and are enforced among IT department members/other employees, to properly document and maintain data.
 * Although a password policy exists, its requirements are nominal and not in line with current minimum password complexity requirements (e.g., at least eight characters, a combination of letters and at least one number; special characters). 
 * There is no centralized password management system that enforces the password policy’s minimum requirements, which sometimes affects productivity when employees/vendors submit a ticket to the IT department to recover or reset a password.
 * While legacy systems are monitored and maintained, there is no regular schedule in place for these tasks and intervention methods are unclear.
