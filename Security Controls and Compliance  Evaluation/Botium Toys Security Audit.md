@@ -2,7 +2,7 @@
 
 ## Case Study
 
-This is based on a fictional company:
+**This is based on a fictional company:**
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
@@ -62,7 +62,7 @@ Control types (providing defense and protecting assets) include, but are not lim
 
 ## Controls Assessment Checklist
 
-<ins>Select "Yes" or "No" to answer the question: Does Botium Toys currenly have this control in place?</ins> 
+*<ins>Select "Yes" or "No" to answer the question: Does Botium Toys currenly have this control in place?</ins>*
 
 | Yes | No | Control | Explanation |
 | :-: | :-: | :- | :- |
@@ -82,27 +82,27 @@ Control types (providing defense and protecting assets) include, but are not lim
 | `Yes` | ~~No~~ | Fire detection/prevention (fire alarm, sprinkler system, etc.)| Fire detection and prevention systems at the physical location are functioning properly. |
 
 ## Compliance Checklist
-<ins>Select "Yes" or "No" to answer the question: Does Botium Toys currenly adhrere to this compliance best practice?</ins> 
 
-<ins>Payment Card Industry Data Security Standard (PCI DSS)</ins> 
+**<ins>Payment Card Industry Data Security Standard (PCI DSS)</ins>**
+*<ins>Select "Yes" or "No" to answer the question: Does Botium Toys currenly adhrere to this compliance best practice?</ins>* 
 
 | Yes | No | Best Practice | Explanation |
 | :-: | :-: | :- | :- |
 | ~~Yes~~ | `No` | Only authorized users have access to customers' credit card information. | All employees currently have access to the company’s internal data, which poses a significant security risk.  |
 | ~~Yes~~ | `No` | Credit card information is accepted, processed, transmitted, and stored internally, in a secure environment. | Customers’ credit card information is not encrypted, and employees currently have unrestricted access to this data. |
 | ~~Yes~~ | `No` | Implement data encryption procedures to better secure credit card transaction touchpoints and data. | Encryption must be implemented to protect financial information. | 
-| ~~Yes~~ | `No` | Adopt secure password management policies. | Password policies are minimal, and there is no password management system in place to enforce stronger credentials. |
+| ~~Yes~~ | `No` | Adopt secure password management policies. | Current password policies are insufficient, and the company lacks a robust password management system to enforce strong, unique credentials for all users. |
 
-<ins>General Data Protection Regulation (GDPR)</ins>
+**<ins>General Data Protection Regulation (GDPR)</ins>**
   
 | Yes | No | Best Practice | Explanation |
 | :-: | :-: | :- | :- |
-| ~~Yes~~ | `No` | EU customers' data is kept private/secured. | Password policies are minimal, and there is no password management system in place to enforce stronger credentials. |
-| `Yes` | ~~No~~ | There is a plan in place to notify E.U customers within 72 hours if their data is compromised/there is a breach.| A plan to notify E.U. customers within 72 hours of a data breach is in place, but additional measures to enhance security are needed. |
-| ~~Yes~~ | `No` | Ensure data is properly classified and inventoried. | Assets have been inventoried, but they have not been classified based on sensitivity or priority. |
-| `Yes` | ~~No~~ | Enforce privacy policies procedures, and processes to properly document and maintain data.| Privacy policies, procedures, and processes have been developed and are being enforced among IT team members and other employees as needed. |
+| ~~Yes~~ | `No` | E.U. customers' data is kept private/secured. | The company does not currently employ encryption techniques to enhance the confidentiality of customers' financial information. |
+| `Yes` | ~~No~~ | There is a plan in place to notify E.U customers within 72 hours if their data is compromised/there is a breach.| A plan is in place to notify all affected E.U. customers within 72 hours of any confirmed data breach, in compliance with GDPR regulations. |
+| ~~Yes~~ | `No` | Ensure data is properly classified and inventoried. | Comprehensive inventory of current assets has been done, but further classification is necessary to accurately assess their value and potential risks. |
+| `Yes` | ~~No~~ | Enforce privacy policies procedures, and processes to properly document and maintain data.| The company has established comprehensive privacy policies, procedures, and processes that are consistently enforced across the IT team and other relevant employees to safeguard sensitive information. |
 
-<ins>System and Organizations Controls</ins> 
+**<ins>System and Organizations Controls (SOC type 1, SOC type 2)</ins>**
 
 | Yes | No | Best Practice | Explanation |
 | :-: | :-: | :- | :- |
