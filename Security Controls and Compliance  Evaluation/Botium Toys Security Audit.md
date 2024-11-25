@@ -2,7 +2,7 @@
 
 ## Case Study
 
-**This is based on a fictional company:**
+### This is based on a fictional company
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
@@ -15,14 +15,14 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 ## Scenario
 ### Botium Toys: Scope, Goals, and Risk Assessment Report
 
-### Scope 
+#### Scope 
 
 The scope is defined as the entire security program at Botium Toys. This means all assets need to be assessed alongside internal processes and procedures related to the implementation of controls and compliance best practices.
 
-### Goals
+#### Goals
 Assess existing assets and complete the controls and compliance checklist to determine which controls and compliance best practices need to be implemented to  improve Botium Toys’ security posture.
 
-### Current assets
+#### Current assets
 Assets managed by the IT Department include: 
 * On-premises equipment for in-office business needs
 * Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
