@@ -106,12 +106,13 @@ Control types (providing defense and protecting assets) include, but are not lim
 
 | Yes | No | Best Practice | Explanation |
 | :-: | :-: | :- | :- |
-| `Yes` | `No` | User access policies are established | Controls for Least Privilege and separation of duties are not implemented, resulting in all employees having access to internally stored data. These measures should be established to restrict access based on job responsibilities. |
-| `Yes` | `No` | Sensitive data (PII/SPII) is confidential/private | Encryption is not currently in use, leaving PII and SPII vulnerable. Implementing encryption would significantly enhance the confidentiality of this sensitive information. | 
-| `Yes` | `No` | Data integrity ensures the data is consistent, complete, accurate, and has been validated. | Data integrity measures are implemented and functioning effectively. |
-| `Yes` | `No` | Data is available to individuals authourized to access it. | Currently, data is accessible to all employees. Access should be restricted so that only individuals whose roles require it have authorization. |
+| ~~Yes~~ | `No` | User access policies are established. | Controls for Least Privilege and separation of duties are not implemented, resulting in all employees having access to internally stored data. These measures should be established to restrict access based on job responsibilities. |
+| ~~Yes~~ | `No` | Sensitive data (PII/SPII) is confidential/private | Encryption is not currently in use, leaving PII and SPII vulnerable. Implementing encryption would significantly enhance the confidentiality of this sensitive information. | 
+| `Yes` | ~~No~~ | Data integrity ensures the data is consistent, complete, accurate, and has been validated. | Data integrity measures are implemented and functioning effectively. |
+| ~~Yes~~ | `No` | Data is available to individuals authourized to access it. | Currently, data is accessible to all employees. Access should be restricted so that only individuals whose roles require it have authorization. |
 
 ## Recommendations
 
 - To enhance Botium Toys' security posture and ensure better protection of sensitive information, several controls should be implemented. These include Least Privilege, disaster recovery plans, password policies, separation of duties, an Intrusion Detection System (IDS), effective legacy system management, encryption, and a password management system.
+  
 - To address compliance gaps, Botium Toys should prioritize controls like Least Privilege, separation of duties, and encryption. Additionally, the company must properly classify its assets to identify and implement any further necessary controls, strengthening its overall security framework and safeguarding confidential information.
