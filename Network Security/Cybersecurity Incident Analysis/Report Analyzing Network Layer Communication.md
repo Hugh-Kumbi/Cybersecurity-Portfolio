@@ -1,23 +1,28 @@
 # Cybersecurity Incident Report: Network Traffic Analysis 
 
-## Provide a Summary of the Problem Found in the DNS and ICMP Traffic Log
+## Part 1
 
-* DNS server is down as a result of port 53 being unreachable. The ICMP request packet indicates that the packet has not been delivered to the port of DNS server successfully. <br>
-* As we know, Port 53 is commonly used for DNS. That being said, the most likely issue is the DNS is not responding and it can be caused by DDOS attack against the DNS server. <br>
-* The UDP protocol reveals that:  DNS is not responding. <br> 
-This is based on the results of the network analysis, which show that the ICMP echo reply returned the error message: at port 53 , UDP port 53 unreachable.
-* The port noted in the error message is used for: DNS Server <br>
-The most likely issue is: DNS server is not responding. 
+### Provide a summary of the problem found in the tcpdump log
 
-## Explain Your Analysis of the Data and Provide at Least One Cause of the Incident
+* The issue with the UDP protocol reveals that a client computer attempting to access the website encountered an error due to the DNS server's failure to properly translate the URL into an IP address. This resulted in the website being inaccessible. <br>
+* Network analysis logs confirm this issue, showing that the ICMP protocol responded with an error message, “udp port 53 unreachable.” Port 53 is associated with DNS traffic, indicating a problem with the DNS server. <br>
+* Further details from the logs show that the outgoing UDP message contained query identification flags, including a + symbol, which signals potential issues with the message. Additionally, the A? symbol indicates that there was a problem performing DNS protocol operations to resolve the domain name. <br> 
+* This evidence strongly suggests that the DNS server is unresponsive. The most likely reason for the error is an overload of requests to the DNS server, preventing the UDP protocol from transitioning to TCP. If the transition had occurred, port 443 would have been used to secure communication between clients and the web server. <br> 
 
-* Time incident occurred: 1.23pm. <br>
-* Explain how the IT team became aware of the incident: The customer reported to the company that they were unable to gain access to the company’s website. It was then reported that the message on the web page is “port unreachable”. <br>
-* Explain the actions taken by the IT department to investigate the incident:
-Security engineers had a look on the webpage and received an error “port being unreachable”. The team used TCPdump (network analyzer) to see the network traffic surrounding the website. <br>
-* Note key findings of the IT department's investigation (i.e., details related to the port affected, DNS server, etc.): 
-Go to website then load the webpage while monitoring the networks via TCPdump. It received lots of traffic. Sent UDP packets and received ICMP response to return to the host that indicates port 53 unreachable. <br>
-* Note a likely cause of the incident:
-Determine whether port 53 is working or not. IF it’s fine, then check firewall. <br>
--Firewall: The ability to block network traffic on specific ports. Port blocking can be used to stop or prevent an attack. <br>
--DOS: There could be flood of information being sent to the network device to make it crash or unable to function. The hacker could disable dns server using DOS attack. Or someone within the organization might have disabled port 53 on firewalls. <br>
+## Part 2
+
+### Explain your analysis of the data and provide at least one cause of the incident.
+
+* ***Time of Incident:*** The incident occurred at 1:24:32.192571. <br>
+* ***Explain how the IT team became aware of the incident:*** Several customers reported being unable to access the website www.yummyrecipesforme.com. After waiting for the page to load, they received the error message “destination port unreachable.” <br>
+* ***Explain the actions taken by the IT department to investigate the incident:***
+The IT team attempted to access the website and observed the same error message, “destination port unreachable.” Using the tcpdump network analysis tool, the team conducted packet sniffing tests while attempting to load the webpage. The issue was escalated to IT security engineers for further investigation, and the problem was reported to the team supervisor. <br>
+* ***Note key findings of the IT department's investigation (i.e., details related to the port affected, DNS server, etc.):*** 
+The DNS server returned an undesired response when translating the URL into an IP address. The UDP protocol, used to contact the DNS server, generated an ICMP error response, “udp port 53 unreachable.” This indicates that port 53, associated with DNS traffic, was unresponsive. Flags in the UDP message provided further evidence of DNS protocol issues. Specifically, the + symbol indicated flagged query identification, and the A? symbol highlighted problems resolving the domain name. <br>
+* ***Note a likely cause of the incident:***
+Likely Causes of the Incident:
+
+* A high volume of requests overloaded the DNS server.
+* A Denial of Service (DoS) or Distributed Denial of Service (DDoS) attack.
+* Misconfiguration or failure of the DNS server.
+* The possibility that traffic to port 53 was blocked by the firewall.
