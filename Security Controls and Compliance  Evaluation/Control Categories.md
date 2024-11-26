@@ -20,7 +20,7 @@ Control types include, but are not limited to:
 * 3.Detective
 * 4.Deterrent
 
-These controls work together to provide defense in depth and protect assets. **Preventative controls** are designed to prevent an incident from occurring in the first place. **Corrective controls** are used to restore an asset after an incident. **Detective controls** are implemented to determine whether an incident has occurred or is in progress. Deterrent controls are designed to discourage attacks. 
+These controls work together to provide defense in depth and protect assets. **Preventative controls** are designed to prevent an incident from occurring in the first place. **Corrective controls** are used to restore an asset after an incident. **Detective controls** are implemented to determine whether an incident has occurred or is in progress. **Deterrent controls** are designed to discourage attacks. 
 
 Review the following charts for specific details about each type of control and its purpose.
 
