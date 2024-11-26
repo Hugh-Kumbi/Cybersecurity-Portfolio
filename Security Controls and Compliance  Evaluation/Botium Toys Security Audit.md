@@ -1,6 +1,6 @@
 # Controls and Compliance Assessment 
 
-## Case Study
+## Scenario
 
 ### This is based on a fictional company
 
