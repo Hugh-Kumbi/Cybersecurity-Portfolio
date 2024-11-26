@@ -1,8 +1,8 @@
 # Control Categories 
 Controls within cybersecurity are grouped into three main categories:
-*Administrative/Managerial controls
-*Technical controls
-*Physical/Operational controls
+* Administrative/Managerial controls
+* Technical controls
+* Physical/Operational controls
 
 ## Administrative/Managerial Controls
 Address the human component of cybersecurity. These controls include policies and procedures that define how an organization manages data and clearly defines employee responsibilities, including their role in protecting the organization. While administrative controls are typically policy based, the enforcement of those policies may require the use of technical or physical controls.
