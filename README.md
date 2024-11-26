@@ -1,6 +1,7 @@
 <h1>Hugh Chanetsa's Cybersecurity Portfolio</a></h1>
 
-> The modules 1-8 in this portfolio draw inspiration from Google's best practices. 
+> The modules 1-8 in this portfolio draw inspiration from Google's best practices.
+
 > For more information, please refer to the provided [link](https://www.coursera.org/google-certificates/cybersecurity-certificate).
 
 ## Discover My Journey 🔍✨
