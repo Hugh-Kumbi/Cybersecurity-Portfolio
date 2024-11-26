@@ -20,7 +20,6 @@ The IT team attempted to access the website and observed the same error message,
 * ***Note key findings of the IT department's investigation (i.e., details related to the port affected, DNS server, etc.):*** 
 The DNS server returned an undesired response when translating the URL into an IP address. The UDP protocol, used to contact the DNS server, generated an ICMP error response, “udp port 53 unreachable.” This indicates that port 53, associated with DNS traffic, was unresponsive. Flags in the UDP message provided further evidence of DNS protocol issues. Specifically, the + symbol indicated flagged query identification, and the A? symbol highlighted problems resolving the domain name. <br>
 * ***Note a likely cause of the incident:***
-Likely Causes of the Incident:
 
 * A high volume of requests overloaded the DNS server.
 * A Denial of Service (DoS) or Distributed Denial of Service (DDoS) attack.
