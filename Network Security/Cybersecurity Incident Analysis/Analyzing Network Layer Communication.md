@@ -1,7 +1,8 @@
-# Cybersecurity Incident Report: Network Traffic Analysis
+# Cybersecurity Incident: Network Traffic Analysis
 > Securing Networks.
 > 
 > For more information, please refer to the provided [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity).
+
 ## Scenario
 
 You are a cybersecurity analyst working at a company that specializes in providing IT consultant services. Several customers contacted your company to report that they were not able to access the company website www.yummyrecipesforme.com, and saw the error “destination port unreachable” after waiting for the page to load. 
