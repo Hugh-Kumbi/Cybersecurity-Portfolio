@@ -1,4 +1,4 @@
-# Linux Commands to Manage File Permissions   
+# SQL Filters to Retrieve Records  
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
