@@ -1,6 +1,6 @@
 # Linux Commands to Manage File Permissions   
 
-> Please visit this [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) for further information.
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
 ## Scenario 
 
