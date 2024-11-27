@@ -30,7 +30,7 @@ Review the following charts for specific details about each type of control and 
 
 ## Administrative/Manegerial Controls 
 | Control Name | Control Type |  Control Type |
-| :- | :-: | :- |
+| :- | :- | :- |
 | Least Privilege | Preventative | Reduce risk and overall impact of malicious insider or compromised accounts |
 | Disaster recovery plans | Corrective | Provide business continuity |
 | Password policies | Preventative | Reduce likelihood of account compromise through brute force or dictionary attack techniques |
@@ -40,7 +40,7 @@ Review the following charts for specific details about each type of control and 
 
 ## Technical Controls 
 | Control Name | Control Type |  Control Type |
-| :- | :-: | :- |
+| :- | :- | :- |
 | Firewall | Preventative | To filter unwanted or malicious traffic from entering the network |
 | IDS/IPS | Detective | To detect and prevent anomalous traffic that matches a signature or rule |
 | Encryption | Deterrent | Provide confidentiality to sensitive information |
@@ -51,7 +51,7 @@ Review the following charts for specific details about each type of control and 
 
 # Physical/Operations Controls 
 | Control Name | Control Type |  Control Type |
-| :- | :-: | :- | 
+| :- | :- | :- | 
 | Time-controlled safe | Deterrent | Reduce attack surface and overall impact from physical threats |
 | Adequate lighting | Deterrent | Deter threats by limiting “hiding” places |
 | Closed-circuit television (CCTV) | Preventative/Detective | Closed circuit television is both a preventative and detective control because it’s presence can reduce risk of certain types of events from occurring, and can be used after an event to inform on event conditions |
