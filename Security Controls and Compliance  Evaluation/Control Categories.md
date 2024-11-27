@@ -15,10 +15,14 @@ Include door locks, cabinet locks, surveillance cameras, badge readers, etc. The
 
 # Control Types
 Control types include, but are not limited to:	
-* 1.Preventative
-* 2.Corrective
-* 3.Detective
-* 4.Deterrent
+
+**1.** Preventative
+
+**2.** Corrective
+
+**3.** Detective
+
+**4.** Deterrent
 
 These controls work together to provide defense in depth and protect assets. **Preventative controls** are designed to prevent an incident from occurring in the first place. **Corrective controls** are used to restore an asset after an incident. **Detective controls** are implemented to determine whether an incident has occurred or is in progress. **Deterrent controls** are designed to discourage attacks. 
 
