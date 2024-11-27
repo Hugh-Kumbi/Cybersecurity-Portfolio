@@ -12,11 +12,11 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 ## Check File and Directory Details
 
-In the Manage authorization lab, check the permissions set for files and subdirectories in the projects directory. Make sure you display all permissions, including hidden files. Or, use the content of Current file permissions document to determine the current permissions. 
+In the **Manage authorization** lab, check the permissions set for files and subdirectories in the **projects** directory. Make sure you display all permissions, including hidden files. Or, use the content of Current file permissions document to determine the current permissions. 
 
-Describe the command you can use to check permissions in the Check file and directory details section of the File permissions in Linux template. From the lab, take a screenshot of the Linux command you used. Or, type this command directly into the template.
+Describe the command you can use to check permissions in the **Check file and directory details** section of the **File permissions in Linux** template. From the lab, take a screenshot of the Linux command you used. Or, type this command directly into the template.
 
-Then, use either the output of this command in the lab or the content or the Current file permissions document to indicate the current permissions. If using the Current file permissions document, write these in the 10-character string that would be part of the command's output.
+Then, use either the output of this command in the lab or the content or the **Current file permissions** document to indicate the current permissions. If using the **Current file permissions** document, write these in the 10-character string that would be part of the command's output.
 
 ## Describe the Permissions String
 
