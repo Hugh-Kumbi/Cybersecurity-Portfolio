@@ -26,9 +26,7 @@ if system == "OS 2":
 ```
 
     no update needed
-
-Use the `==` comparison operator to check whether the `system` is running `"OS 2"`.
-    
+ 
 </details>
 
 ## Task 2
@@ -82,14 +80,6 @@ else:
 ```
 
     update needed
-
-
-<details>
-    <summary><h4><strong>Hint 1</strong></h4></summary>
-
-Use the `else` keyword.
-    
-</details>
 
 #### **Question 2**
 **In this setup what happens when OS 2 is running? And what happens when OS 2 is not running?**
@@ -152,21 +142,6 @@ elif system == "OS 1" or system == "OS 3":
     print("update needed")
     
 ```
-
-<details>
-    <summary><h4><strong>Hint 1</strong></h4></summary>
-
-Use the `or` logical operator.
-    
-</details>
-
-<details>
-    <summary><h4><strong>Hint 2</strong></h4></summary>
-
-Use the `or` operator between two conditions that each use the `==` operator.
-    
-</details>
-
 #### **Question 4**
 **What do you observe about this conditional?**
 
@@ -200,28 +175,6 @@ else:
 
     This user has access to this device.
 
-
-<details>
-    <summary><h4><strong>Hint 1</strong></h4></summary>
-
-Use the `if` keyword in the first conditional statement and the `else` keyword in the second conditional statement. Make sure both statements end with the proper syntax of a colon (`:`).
-    
-</details>
-
-<details>
-    <summary><h4><strong>Hint 2</strong></h4></summary>
-
-Use a comparison operator that will allow you to check whether the user trying to log in is an approved user.  
-    
-</details>
-
-<details>
-    <summary><h4><strong>Hint 3</strong></h4></summary>
-
-Use the `==` comparison operator to check whether the user trying to log in is an approved user.  
-    
-</details>
-
 ## Task 7
 The number of approved users has now expanded to five. Rather than storing each of the approved users' usernames individually, it would be more concise to store them in an allow list called `approved_list`.
 
@@ -250,21 +203,6 @@ else:
 ```
 
     This user does not have access to this device.
-
-
-<details>
-    <summary><h4><strong>Hint 1</strong></h4></summary>
-
-Use the `else` keyword in the second conditional statement.
-    
-</details>
-
-<details>
-    <summary><h4><strong>Hint 2</strong></h4></summary>
-
-Use the `print()` function to display messages. 
-    
-</details>
 
 #### **Question 5**
 **What happens when an approved user tries to log in? What happens when an unapproved user tries to log in?**
@@ -296,28 +234,6 @@ else:
 ```
 
     Login attempt made during organization hours.
-
-
-<details>
-    <summary><h4><strong>Hint 1</strong></h4></summary>
-
-Use the `==` comparison operator to check whether the user is logged in during the specified organization hours. Compare `organization_hours` to the appropriate Boolean value.
-    
-</details>
-
-<details>
-    <summary><h4><strong>Hint 2</strong></h4></summary>
-
-Use the `print()` function to display messages. 
-    
-</details>
-
-<details>
-    <summary><h4><strong>Hint 3</strong></h4></summary>
-
-Use the `else` keyword in the second conditional statement.
-    
-</details>
 
 #### **Question 6**
 **What happens when the user logs in during organization hours? What happens when they log in outside of organization hours?**
@@ -403,21 +319,6 @@ else:
 ```
 
     Login attempt made by an approved user during organization hours.
-
-
-<details>
-    <summary><h4><strong>Hint 1</strong></h4></summary>
-
-Use the logical operator that would allow you to check both conditions in the `if` statement (the condition that the entered username is in the approved list and the condition that the login attempt is occurring during organization hours).
-    
-</details>
-
-<details>
-    <summary><h4><strong>Hint 2</strong></h4></summary>
-
-Use the `and` logical operator to check both conditions in the `if` statement (the condition that the entered username is in the approved list and the condition that the login attempt is occurring during organization hours).
-    
-</details>
 
 #### **Question 8**
 **In this setup, what happens when the user trying to log in is an approved user and doing so during organization hours? What happens when the user either is not approved or attempts to log in outside of organization hours?**
