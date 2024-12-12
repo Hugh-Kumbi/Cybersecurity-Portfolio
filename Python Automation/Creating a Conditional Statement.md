@@ -4,19 +4,6 @@
 
 Conditional statements are a powerful structure that help in achieving automation when you need to make sure conditions are met before certain actions are executed. For example, security analysts can use conditional statements in Python to check if users are approved to access a device. 
 
-In this lab, you will practice writing conditional statements in Python.
-
-<details><summary><h2>Tips for completing this lab</h2></summary>
-
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task. 
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook. 
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook. 
-</details>
-
 ## Scenario
 
 You're working as a security analyst. First, you are responsible for checking whether a user's operating system requires an update. Then, you need to investigate login attempts to a specific device. You must determine if login attempts were made by users approved to access this device and if the login attempts occurred during organization hours.
@@ -39,17 +26,6 @@ if system == "OS 2":
 ```
 
     no update needed
-
-
-<details>
-    <summary><h4><strong>Hint 1</strong></h4></summary>
-
-Use a comparison operator that will allow you to check whether the `system` is running `"OS 2"`.
-    
-</details>
-
-<details>
-    <summary><h4><strong>Hint 2</strong></h4></summary>
 
 Use the `==` comparison operator to check whether the `system` is running `"OS 2"`.
     
