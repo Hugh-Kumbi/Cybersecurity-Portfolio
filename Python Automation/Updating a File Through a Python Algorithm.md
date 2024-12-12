@@ -1,4 +1,6 @@
-# Documenting an incident with an incident handler's journal
+# Activity Overview
+
+In this activity, I will create a portfolio document to demonstrate my experience using Python to develop algorithms that involve opening files and parsing their contents. 
 
 ## Scenario 
 
@@ -12,33 +14,33 @@ Once the attackers gained access, they deployed their ransomware, which encrypte
 
 ## Scenario Review
 
-* A small U.S. health care clinic experienced a security incident on Tuesday at 9:00 a.m. which severely disrupted their business operations.
+You are a security professional working at a health care company. As part of your job, you're required to regularly update a file that identifies the employees who can access restricted content. The contents of the file are based on who is working with personal patient records. Employees are restricted access based on their IP address. There is an allow list for IP addresses permitted to sign into the restricted subnetwork. There's also a remove list that identifies which employees you must remove from this allow list.
 
-* The cause of the security incident was a phishing email that contained a malicious attachment. Once it was downloaded, ransomware was deployed encrypting the organization's computer files.
+Your task is to create an algorithm that uses Python code to check whether the allow list contains any IP addresses identified on the remove list. If so, you should remove those IP addresses from the file containing the allow list.
 
-* An organized group of unethical hackers left a ransom note stating that the company's files were encrypted and demanded money in exchange for the decryption key
+## Task 1
 
-## Recording an entry in an incident handler's journal
-Use the incident handler's journal to document your first journal entry about the given scenario. Ensure that you fill in all of the fields:
+The file that you want to open is called **`"allow_list.txt"`**. Assign a string containing this file name to the **`import_file`** variable. Then, use a **`with`** statement to open it. Use the variable **`file`** to store the file while you work **`with`** it inside the with statement.
 
-1. In the **Date** section, record the date of your journal entry. This should be the actual date that you record the entry, not a fictional date.
+Describe the Python syntax, functions, and keywords you need to accomplish this in the **Open the file that contains the allow list** section of the **Algorithm for file updates in Python** template. In the **Task 2** section of **Create another algorithm** lab, take a screenshot of this portion of your code. Or, type this code directly into the template.
 
-2. In the **Entry** section, provide a journal entry number. For example, if it is your first journal entry, enter 1.
+## Task 2
 
-3. In the **Description** section, provide a description about the entry.
 
-4. In the **Tool(s) used** section, if any cybersecurity tools were used, list them here. 
+## Task 3
 
-5. In the **The 5 W's** section, record the details about the given scenario.
 
-  a. Who caused the incident?
+## Task 4
 
-  b. What happened?
 
-  c. When did the incident occur?
+## Task 5
 
-  d. Where did the incident happen?
 
-  e. Why did the incident happen?
+## Task 6
 
-6. In the **Additional notes** row, record any thoughts or questions you have about the given scenario.
+
+## Task 7
+
+
+## Task 8
+
