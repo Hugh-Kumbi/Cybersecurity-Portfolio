@@ -1,5 +1,8 @@
 # Controls and Compliance Assessment - Instructions
 
+## Activity Overview
+In part one of this activity, you will conduct an internal security audit. As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
+
 ## Scenario
 This is based on a fictional company
 
@@ -11,4 +14,33 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist.
 
+## Step 1: Access Supporting Materials:
 
+The following supporting materials will help you complete this activity. Keep materials open as you proceed to the next steps. 
+
+To use the supporting materials for this course item, click the links. 
+
+Links to supporting materials: 
+
+[Botium Toys_ Scope, Goals, and Risk Assessment Report.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Botium%20Toys_%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.pdf)
+
+[Control Categories.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Control%20Categories.pdf)
+
+[Controls and Compliance Checklist.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Controls%20and%20Compliance%20Checklist.pdf)
+
+## Step 2: Conduct the Audit: Controls and Compliance Checklist
+onduct the security audit by completing the controls and compliance checklist. 
+
+To complete the checklist, open the supporting materials provided in Step 1. Then:
+
+1. Review **Botium Toys:  Scope, goals, and risk assessment report**, with a focus on:
+
+    a. The assets currently managed by the IT department
+
+    b. The bullet points under “Additional comments” in the Risk assessment section
+
+2. Consider information provided in the report using the **Controls Categories** document.
+
+3. Then, review the **Controls and compliance checklist** and select **“yes**” or **“no”** to answer the question in each section (note: the recommendations section is optional).
+
+**Note:** The[Controls and Compliance Checklist.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Controls%20and%20Compliance%20Checklist.pdf) is what you need to complete to conduct this security audit. 
