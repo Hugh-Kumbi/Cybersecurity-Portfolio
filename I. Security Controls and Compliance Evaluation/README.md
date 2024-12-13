@@ -1,20 +1,16 @@
 # Conducting a Security Audit
 
-This folder contains exercises and solutions related to Conducting a Security Audit, showcasing skills in security checks, threat, risks and vulnerability monitoring.
+This folder contains an exercise, a solution and supporting materials related to Conducting a Security Audit, showcasing skills in security checks, threat, risks and vulnerability monitoring.
 
 ## Contents
-- **Exercise 1**: Retrieve failed login attempts after working hours.
-- **Exercise 2**: Query login attempts from specific dates.
-- **Exercise 3**: Fetch data for employees in specific departments.
+- **Controls and Compliance Assessment**: Review the IT manager’s scope, goals, and risk assessment report. Perform an internal audit by completing a controls and compliance checklist.
 
 For detailed instructions, see [Instructions.md](Instructions.md).
 
-## Solutions
-- **Exercise 1**: [1.1 Botium Toys Security Audit.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.1%20Botium%20Toys%20Security%20Audit.md)
-- **Exercise 2**: [Exercise2.sql](Exercise2.sql)
-- **Exercise 3**: [Exercise3.sql](Exercise3.sql)
+## Solution
+- **Controls and Compliance Assessment**: [1.1 Botium Toys Security Audit.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.1%20Botium%20Toys%20Security%20Audit.md)
 
 ## Supporting Materials
-- **Botium Toys: Scope, goals, and risk assessment report**: [1.1 Botium Toys Security Audit.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.1%20Botium%20Toys%20Security%20Audit.md)
-- **Control categories**: [ontrol categories](Exercise2.sql)
-- **Controls and compliance checklist**: [Exercise3.sql](Exercise3.sql)
+- **Botium Toys_ Scope, Goals, and Risk Assessment Report**: [Botium Toys_ Scope, Goals, and Risk Assessment Report.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Botium%20Toys_%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.pdf)
+- **Control Categories**: [Control Categories.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Control%20Categories.pdf)
+- **Controls and Compliance Checklist**: [Controls and Compliance Checklist.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Controls%20and%20Compliance%20Checklist.pdf)
