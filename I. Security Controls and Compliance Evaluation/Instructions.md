@@ -43,4 +43,4 @@ To complete the checklist, open the supporting materials provided in Step 1. The
 
 3. Then, review the **Controls and compliance checklist** and select **“yes**” or **“no”** to answer the question in each section (note: the recommendations section is optional).
 
-**Note:** The[Controls and Compliance Checklist.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Controls%20and%20Compliance%20Checklist.pdf) is what you need to complete to conduct this security audit. 
+**Note:** The [Controls and Compliance Checklist.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Controls%20and%20Compliance%20Checklist.pdf) is what you need to complete to conduct this security audit. 
