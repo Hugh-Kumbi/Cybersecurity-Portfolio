@@ -10,6 +10,6 @@ This folder contains exercises and solutions related to Conducting a Security Au
 For detailed instructions, see [Instructions.md](Instructions.md).
 
 ## Solutions
-- **Exercise 1**: [Exercise1.sql](Exercise1.sql)
+- **Exercise 1**: [1.1 Botium Toys Security Audit.md](1.1 Botium Toys Security Audit.md)
 - **Exercise 2**: [Exercise2.sql](Exercise2.sql)
 - **Exercise 3**: [Exercise3.sql](Exercise3.sql)
