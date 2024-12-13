@@ -13,3 +13,8 @@ For detailed instructions, see [Instructions.md](Instructions.md).
 - **Exercise 1**: [1.1 Botium Toys Security Audit.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.1%20Botium%20Toys%20Security%20Audit.md)
 - **Exercise 2**: [Exercise2.sql](Exercise2.sql)
 - **Exercise 3**: [Exercise3.sql](Exercise3.sql)
+
+## Supporting Materials
+- **Botium Toys: Scope, goals, and risk assessment report**: [1.1 Botium Toys Security Audit.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.1%20Botium%20Toys%20Security%20Audit.md)
+- **Control categories**: [ontrol categories](Exercise2.sql)
+- **Controls and compliance checklist**: [Exercise3.sql](Exercise3.sql)
