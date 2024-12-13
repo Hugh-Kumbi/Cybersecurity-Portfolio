@@ -7,7 +7,7 @@ This folder contains an exercise, a solution and supporting materials related to
 
 For detailed instructions, see [Instructions.md](Instructions.md).
 
-## Solution
+## Proposed Resolution
 - **Controls and Compliance Assessment**: [1.1 Botium Toys Security Audit.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.1%20Botium%20Toys%20Security%20Audit.md)
 
 ## Supporting Materials
