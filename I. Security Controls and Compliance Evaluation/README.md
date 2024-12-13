@@ -12,5 +12,5 @@ For detailed instructions, see [Instructions.md](Instructions.md).
 
 ## Supporting Materials
 - **Botium Toys_ Scope, Goals, and Risk Assessment Report**: [Botium Toys_ Scope, Goals, and Risk Assessment Report.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.2%20Botium%20Toys%3A%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.md)
-- **Control Categories**: [Control Categories.pdf](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.3%20Control%20Categories.md)
+- **Control Categories**: [1.3 Control Categories.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.3%20Control%20Categories.md)
 - **Controls and Compliance Checklist**: [1.4 Controls and Compliance Checklist.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.4%20Controls%20and%20Compliance%20Checklist.md)
