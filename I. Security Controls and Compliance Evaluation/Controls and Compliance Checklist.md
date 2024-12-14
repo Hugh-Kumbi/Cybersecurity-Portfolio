@@ -1,6 +1,6 @@
 ## Controls and Compliance Checklist
 
-To complete the controls assessment checklist, refer to the information provided in the [scope, goals, and risk assessment report](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.2%20Botium%20Toys%3A%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.md). For more details about each control, including the type and purpose, refer to the [control categories](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.3%20Control%20Categories.md) document. 
+To complete the controls assessment checklist, refer to the information provided in the [scope, goals, and risk assessment report](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Botium%20Toys%3A%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.md). For more details about each control, including the type and purpose, refer to the [control categories](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Control%20Categories.md) document. 
 
 Then, select “yes” or “no” to answer the question: Does Botium Toys currently have this control in place?
 
@@ -23,7 +23,7 @@ Then, select “yes” or “no” to answer the question: Does Botium Toys curr
 | Yes | No | Closed-circuit television (CCTV) surveillance | 
 | Yes | No | Fire detection/prevention (fire alarm, sprinkler system, etc.)| 
 
-To complete the controls assessment checklist, refer to the information provided in the [scope, goals, and risk assessment report](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.2%20Botium%20Toys%3A%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.md). For more details about each control, including the type and purpose, refer to the [control categories](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.3%20Control%20Categories.md) document. 
+To complete the controls assessment checklist, refer to the information provided in the [scope, goals, and risk assessment report](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Botium%20Toys%3A%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.md). For more details about each control, including the type and purpose, refer to the [control categories](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Control%20Categories.md) document. 
 
 Then, select “yes” or “no” to answer the question: Does Botium Toys currently adhere to this compliance best practice?
 
