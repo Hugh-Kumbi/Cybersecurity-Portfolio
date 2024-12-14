@@ -9,7 +9,7 @@ This folder contains exercises, solutions and supporting materials related to Ne
 - **Security Risk Incident:** Review the IT manager’s scope, goals, and risk assessment report. Perform an internal audit by completing a controls and compliance checklist.
 - **NIST CSF Incident:** Review the IT manager’s scope, goals, and risk assessment report. Perform an internal audit by completing a controls and compliance checklist.
 
-For detailed instructions, see [Instructions.md](Instructions.md).
+For detailed instructions, see [Instructions](Instructions.md).
 
 ## Proposed Resolution
 - **1.1 Hugh_Cybersecurity Incident Report.md:** []()
