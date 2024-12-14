@@ -22,7 +22,7 @@ To use the supporting materials for this course item, click the links.
 
 Links to supporting materials: 
 
-- **Botium Toys_ Scope, Goals, and Risk Assessment Report**: [Botium Toys: Scope, Goals, and Risk Assessment Report.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Botium%20Toys%3A%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.md)
+- **Botium Toys_ Scope, Goals, and Risk Assessment Report**: [Botium Toys_ Scope, Goals, and Risk Assessment Report](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Botium%20Toys%3A%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.md)
 - **Control Categories**: [Control Categories.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Control%20Categories.md)
 - **Controls and Compliance Checklist**: [Controls and Compliance Checklist.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Controls%20and%20Compliance%20Checklist.md)
 
