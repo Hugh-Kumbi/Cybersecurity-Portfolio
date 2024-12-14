@@ -1,4 +1,4 @@
-# 1.1 Hugh_Cybersecurity Incident Case: Network Traffic Analysis
+# Cybersecurity Incident Case: Network Traffic Analysis
 > Securing Networks.
 > 
 > For more information, please refer to the provided [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity).
@@ -33,7 +33,7 @@ As an analyst, you can inspect network traffic and network data to determine wha
 
 This event, in the meantime, is being handled by security engineers after you and other analysts have reported the issue to your direct supervisor. 
 
-# 1.2 Hugh_Network Attack Incident
+# Network Attack Incident
 > Network Attack.
 
 > Please visit this [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) for further information. 
@@ -48,7 +48,7 @@ You use a packet sniffer to capture data packets in transit to and from the web 
 
 You take the server offline temporarily so that the machine can recover and return to a normal operating status. You also configure the company’s firewall to block the IP address that was sending the abnormal number of SYN requests. You know that your IP blocking solution won’t last long, as an attacker can spoof other IP addresses to get around this block. You need to alert your manager about this problem quickly and discuss the next steps to stop this attacker and prevent this problem from happening again. You will need to be prepared to tell your boss about the type of attack you discovered and how it was affecting the web server and employees.
 
-# 1.3 Hugh_Security Incident Investigation: OS Hardening
+# Security Incident Investigation: OS Hardening
 > OS hardening.
 > 
 > Please visit this [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) for further information. 
@@ -119,7 +119,7 @@ Your job is to document the incident in detail, including identifying the networ
 | 14:25:29.576597 IP greatrecipesforme.com.http > your.machine.56378: Flags [.], ack 74, win 512, options [nop,nop,TS val 3302989649 ecr 3302989649], length 0 | <br>
 ...<a lot of traffic on the port 80>...
 
-# 1.4 Hugh_Security Risk Incident Assessment: Network Hardening
+# Security Risk Incident Assessment: Network Hardening
 > Network hardening. 
 
 > Please visit this [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) for further information. 
@@ -142,7 +142,7 @@ If no action is taken to address these vulnerabilities, the organization is at r
 
 In this activity, you will write a security risk assessment to analyze the incident and explain what methods can be used to further secure the network.
 
-# 1.5 Hugh_NIST Cybersecurity Framework Incident in a Multimedia Company   
+# NIST Cybersecurity Framework Incident in a Multimedia Company   
 
 > Please visit this [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) for further information.
 
