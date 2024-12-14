@@ -20,5 +20,3 @@ For detailed instructions, see [Instructions.md](Instructions.md).
 
 ## Supporting Materials
 - **2.3 Hugh_Network Attack Analysis Wireshark TCP_HTTP log.xlsx:** []()
-- **Control Categories:** []()
-- **Controls and Compliance Checklist:** []()
