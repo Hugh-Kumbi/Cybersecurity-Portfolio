@@ -22,11 +22,9 @@ To use the supporting materials for this course item, click the links.
 
 Links to supporting materials: 
 
-[1.2 Hugh_Botium Toys: Scope, Goals, and Risk Assessment Report.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.2%20Hugh_Botium%20Toys%3A%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.md)
-
-[1.3 Hugh_Control Categories.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.3%20Hugh_Control%20Categories.md)
-
-[1.4 Hugh_Controls and Compliance Checklist.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.4%20Hugh_Controls%20and%20Compliance%20Checklist.md)
+- **Botium Toys_ Scope, Goals, and Risk Assessment Report**: [Botium Toys: Scope, Goals, and Risk Assessment Report.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Botium%20Toys%3A%20Scope%2C%20Goals%2C%20and%20Risk%20Assessment%20Report.md)
+- **Control Categories**: [Control Categories.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Control%20Categories.md)
+- **Controls and Compliance Checklist**: [Controls and Compliance Checklist.md](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Controls%20and%20Compliance%20Checklist.md)
 
 ## Step 2: Conduct the Audit: Controls and Compliance Checklist
 onduct the security audit by completing the controls and compliance checklist. 
