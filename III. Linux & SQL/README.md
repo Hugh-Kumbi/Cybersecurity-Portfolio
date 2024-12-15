@@ -9,7 +9,7 @@ This folder contains exercises, solutions, and supporting materials related to f
 2. **Examine Input and Output**
 - In this project, I tackled a scenario where a customer of the company I work for experienced a security issue while accessing the company's website. I identified the likely cause of the service interruption, analyzed how the attack occurred, and detailed the negative impact it had on the website's functionality and user trust. This hands-on analysis allowed me to demonstrate my ability to investigate network security issues and communicate findings effectively.
 
-3. **File permissions in Linux**
+3. **Managing File Permissions**
 - In this activity, I took on the role of a cybersecurity analyst for a company that hosts the cooking website, yummyrecipesforme.com. When visitors attempted to load the main webpage, they encountered a security issue. My task was to investigate the problem, identify the root cause, document the findings, and recommend a solution to resolve the security issue. This involved analyzing traffic, examining potential vulnerabilities, and proposing steps to safeguard the website against similar incidents in the future.
 
 4. **Applying Filters to SQL Queries**
@@ -20,11 +20,9 @@ This folder contains exercises, solutions, and supporting materials related to f
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
-- **1.1 Hugh_Cybersecurity Incident Report.md:** [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/1.1%20Hugh_Cybersecurity%20Incident%20Report.md)
-- **2.1 Hugh_Network Attack Analysis.md:** [Network Attack Analysis](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/2.1%20Hugh_Network%20Attack%20Analysis.md)
-- **3.1 Hugh_Security Incident Report.md:** [Security Incident Report: OS Hardening](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/3.1%20Hugh_Security%20Incident%20Report.md)
-- **4.1 Hugh_Security Risk Report.md:** [Security Risk Incident Report: Network Hardening](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/4.1%20Hugh_Security%20Risk%20Report.md)
-- **5.1 Hugh_NIST CSF Incident Analysis.md:** [NIST Cybersecurity Framework Analysis Report for a Multimedia Company](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/5.1%20Hugh_NIST%20CSF%20Incident%20Analysis.md)
+- **1.1 File permissions in Linux.pdf:** [Exploring File Permissions in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/1.1%20Hugh_Cybersecurity%20Incident%20Report.md)
+- **2.1 SQL Queries.pdf:** [Optimizing Data Retrieval with SQL Filters](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/2.1%20Hugh_Network%20Attack%20Analysis.md)
+- **3.1 Using SQL joins.pdf:** [Using SQL Joins to Obtain the Precise Data](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/3.1%20Hugh_Security%20Incident%20Report.md)
 
 ## Supporting Materials
 - **Network Attack Analysis Wireshark TCP_HTTP log.xlsx:** [TCP Log](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/Network%20Attack%20Analysis%20Wireshark%20TCP_HTTP%20log.xlsx)
