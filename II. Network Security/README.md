@@ -19,11 +19,11 @@ This folder contains exercises, solutions and supporting materials related to Ne
 For detailed instructions, see [Instructions](Instructions.md).
 
 ## Proposed Resolution
-- **1.1 Hugh_Cybersecurity Incident Report.md:** []()
-- **2.1 Hugh_Network Attack Analysis.md:** []()
-- **3.1 Hugh_Security Incident Report.md:** []()
-- **4.1 Hugh_Security Risk Report.md:** []()
-- **5.1 Hugh_NIST CSF Incident Analysis.md:** []()
+- **1.1 Hugh_Cybersecurity Incident Report.md:** [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/1.1%20Hugh_Cybersecurity%20Incident%20Report.md)
+- **2.1 Hugh_Network Attack Analysis.md:** [Network Attack Analysis](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/2.1%20Hugh_Network%20Attack%20Analysis.md)
+- **3.1 Hugh_Security Incident Report.md:** [Security Incident Report: OS Hardening](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/3.1%20Hugh_Security%20Incident%20Report.md)
+- **4.1 Hugh_Security Risk Report.md:** [Security Risk Incident Report: Network Hardening](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/4.1%20Hugh_Security%20Risk%20Report.md)
+- **5.1 Hugh_NIST CSF Incident Analysis.md:** [NIST Cybersecurity Framework Analysis Report for a Multimedia Company](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/5.1%20Hugh_NIST%20CSF%20Incident%20Analysis.md)
 
 ## Supporting Materials
 - **2.2 Hugh_Network Attack Analysis Wireshark TCP_HTTP log.xlsx:** []()
