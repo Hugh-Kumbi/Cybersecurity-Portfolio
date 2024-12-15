@@ -3,7 +3,7 @@
 This folder contains exercises, solutions and supporting materials related to Network Security, showcasing skills in dealing with network-level vulnerabilities, cloud and network security as well as how to secure networks.
 
 ## Contents
-- **Analyzing Network Layer Communication:**  Inspecting network traffic and network data to determine what is causing network-related issues during cybersecurity incidents.
+- **Analyzing Network Layer Communication:** Analyzing DNS and ICMP traffic in transit using data from a network protocol analyzer tool and identifying which network protocol was utilized in the assessment of the cybersecurity incident.
 - **Network Attack Incident:** Review the IT manager’s scope, goals, and risk assessment report. Perform an internal audit by completing a controls and compliance checklist.
 - **Security Incident Investigation:** Review the IT manager’s scope, goals, and risk assessment report. Perform an internal audit by completing a controls and compliance checklist.
 - **Security Risk Incident:** Review the IT manager’s scope, goals, and risk assessment report. Perform an internal audit by completing a controls and compliance checklist.
