@@ -14,7 +14,9 @@ This folder contains exercises, solutions and supporting materials related to Ne
 
 4. **Security Risk Incident**
 - In this activity, I reviewed a scenario involving a social media organization that recently experienced a significant data breach caused by undetected vulnerabilities. To address this breach, I focused on identifying common network hardening tools that could enhance the organization’s overall security. I then selected a specific vulnerability within the company’s network and proposed several network hardening methods to mitigate it. Finally, I explained how these methods and tools would be effective in managing the vulnerability, preventing future breaches, and strengthening the organization's defenses against potential cyberattacks.
-- **NIST CSF Incident** Review the IT manager’s scope, goals, and risk assessment report. Perform an internal audit by completing a controls and compliance checklist.
+
+5. **NIST CSF Incident**
+- In this activity, I created an incident report by analyzing a network security incident through the lens of the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF). The NIST CSF is a voluntary framework comprising standards, guidelines, and best practices for managing cybersecurity risks. I applied the CSF to break down the incident, identify potential vulnerabilities, and assess the response actions taken. By developing a thorough cybersecurity incident report and integrating the CSF, I was able to demonstrate a proactive approach to security, improve communication and transparency with stakeholders, and enhance overall security practices within the organization. This incident report can also be included in my cybersecurity portfolio as a key example of my ability to handle security incidents professionally.
 
 For detailed instructions, see [Instructions](Instructions.md).
 
