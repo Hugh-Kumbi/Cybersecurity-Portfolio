@@ -1,4 +1,4 @@
-# Network Security Analysis: Safeguarding Digital Ecosystems
+# Computing Essentials: Mastering Linux and SQL for Data Handling
 
 This folder contains exercises, solutions and supporting materials related to Network Security, showcasing skills in dealing with network-level vulnerabilities, cloud and network security as well as how to secure networks.
 
