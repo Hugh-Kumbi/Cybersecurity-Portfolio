@@ -18,7 +18,7 @@ This folder contains exercises, solutions and supporting materials related to Ne
 5. **NIST CSF Incident**
 - In this activity, I created an incident report by analyzing a network security incident through the lens of the National Institute of Standards and Technology's Cybersecurity Framework (NIST CSF). The NIST CSF is a voluntary framework comprising standards, guidelines, and best practices for managing cybersecurity risks. I applied the CSF to break down the incident, identify potential vulnerabilities, and assess the response actions taken. By developing a thorough cybersecurity incident report and integrating the CSF, I was able to demonstrate a proactive approach to security, improve communication and transparency with stakeholders, and enhance overall security practices within the organization. This incident report can also be included in my cybersecurity portfolio as a key example of my ability to handle security incidents professionally.
 
-For detailed instructions, see [Instructions](Instructions.md).
+***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
 - **1.1 Hugh_Cybersecurity Incident Report.md:** [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/1.1%20Hugh_Cybersecurity%20Incident%20Report.md)
