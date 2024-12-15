@@ -17,7 +17,7 @@ This folder contains exercises, solutions, and supporting materials related to f
   
 5. **SQL Join** Review the IT manager’s scope, goals, and risk assessment report. Perform an internal audit by completing a controls and compliance checklist.
 
-For detailed instructions, see [Instructions](Instructions.md).
+***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
 - **1.1 Hugh_Cybersecurity Incident Report.md:** [Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/1.1%20Hugh_Cybersecurity%20Incident%20Report.md)
