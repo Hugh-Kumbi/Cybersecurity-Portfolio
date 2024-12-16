@@ -1,0 +1,42 @@
+# Application Management in Linux Using APT and Sudo
+
+## Task 1. Ensure that APT is Installed
+ 
+![APT](https://github.com/user-attachments/assets/c90f89bd-1607-4260-a451-02f58b3480f1)
+
+
+
+## Task 2. Install and Uninstall the Suricata Application
+
+![image](https://github.com/user-attachments/assets/45db61d9-790b-4b1e-86da-36fd89701fb8)
+
+
+![Check Suricata version](https://github.com/user-attachments/assets/43b92183-10f3-4680-a429-6bc0ef18ce4c)
+
+![Uninstall Suricata](https://github.com/user-attachments/assets/40cb108b-2d9f-49c7-b004-b86bb87c8553)
+
+
+![Check Suricata's presence](https://github.com/user-attachments/assets/3e2b09ce-15df-47ec-91ae-7789ce8dab51)
+
+## Task 3. Install the Tcpdump Application
+
+![image](https://github.com/user-attachments/assets/5a5fdab8-607c-4aac-9139-93943c71b683)
+
+![Tcpdump](https://github.com/user-attachments/assets/56233fbc-2e15-4da7-bcd7-c4ff40de9dd1)
+
+
+## Task 4. List the Installed Applications
+
+![Installed Applications](https://github.com/user-attachments/assets/7f1a0700-a6fa-4741-a591-04fad8556e33)
+
+![image](https://github.com/user-attachments/assets/e66bb91c-37f4-41f6-8faf-91ece6dc145e)
+
+
+
+## Task 5. Reinstall the Suricata Application
+
+![Suricata application](https://github.com/user-attachments/assets/831f5cf1-7842-40b4-8fdb-13dbd2b44f0f)
+
+![Picture1](https://github.com/user-attachments/assets/69505ded-795a-419f-99be-4babdb05f954)
+
+
