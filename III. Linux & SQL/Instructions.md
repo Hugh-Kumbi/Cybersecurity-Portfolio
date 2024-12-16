@@ -7,6 +7,16 @@ In this scenario, you have to install, uninstall, and reinstall these applicatio
 
 Here’s how you'll do this: **First**, you’ll confirm that APT is installed on your Linux Bash shell. **Next**, you’ll use APT to install the Suricata application and confirm that it is installed. **Then**, you’ll uninstall the Suricata application and confirm this as well. **Next**, you’ll install the tcpdump application and list the applications currently installed. **Finally**, you’ll reinstall the Suricata application and confirm that both applications are installed.
 
+### Task 1. Ensure that APT is Installed
+
+### Task 2. Install and Uninstall the Suricata Application
+
+### Task 3. Install the tcpdump application
+
+### Task 4. List the Installed Applications
+
+### Task 5. Reinstall the Suricata Application
+
 # 2. Linux Commands to Manage File Permissions
 
 
