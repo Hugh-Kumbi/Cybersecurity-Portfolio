@@ -12,6 +12,9 @@ This folder contains exercises, solutions, and supporting materials related to f
 3. **Mastering Linux File Navigation and Analysis for Security Operations**
 - In this lab activity, I navigated the Linux file structure, located specific files, and read their contents using commands in the Linux shell. This exercise helped me develop essential skills for navigating, managing, and analyzing files remotely through a Linux shell, which is critical for my role as a security analyst.
 
+4. **Using grep and Piping for File Searching and Data Extraction**
+- In this lab, I used the grep command and piping to efficiently search through files and extract specific information. By working with various files, including server log files and user data files, I practiced retrieving targeted data. I completed these tasks using Linux commands in the Bash shell, enhancing my ability to analyze and process file contents as part of my skill set in Linux systems management.
+
 4. **Applying Filters to SQL Queries**
 - In this activity, I reviewed a scenario involving a social media organization that recently experienced a significant data breach caused by undetected vulnerabilities. To address this breach, I focused on identifying common network hardening tools that could enhance the organization’s overall security. I then selected a specific vulnerability within the company’s network and proposed several network hardening methods to mitigate it. Finally, I explained how these methods and tools would be effective in managing the vulnerability, preventing future breaches, and strengthening the organization's defenses against potential cyberattacks.
   
