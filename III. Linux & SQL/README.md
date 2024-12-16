@@ -9,7 +9,7 @@ This folder contains exercises, solutions, and supporting materials related to f
 2. **Examine Input and Output**
 - In this project, I tackled a scenario where a customer of the company I work for experienced a security issue while accessing the company's website. I identified the likely cause of the service interruption, analyzed how the attack occurred, and detailed the negative impact it had on the website's functionality and user trust. This hands-on analysis allowed me to demonstrate my ability to investigate network security issues and communicate findings effectively.
 
-3. **Managing File Permissions**
+3. **Linux Commands to Manage File Permissions**
 - In this activity, I took on the role of a cybersecurity analyst for a company that hosts the cooking website, yummyrecipesforme.com. When visitors attempted to load the main webpage, they encountered a security issue. My task was to investigate the problem, identify the root cause, document the findings, and recommend a solution to resolve the security issue. This involved analyzing traffic, examining potential vulnerabilities, and proposing steps to safeguard the website against similar incidents in the future.
 
 4. **Applying Filters to SQL Queries**
