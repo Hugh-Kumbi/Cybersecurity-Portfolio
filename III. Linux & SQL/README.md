@@ -3,7 +3,7 @@
 This folder contains exercises, solutions, and supporting materials related to foundational computing skills, focusing on using the Linux command line and querying databases with SQL. It showcases proficiency in navigating the Linux operating system for efficient system management and performing SQL queries to manage and analyze data.
 
 ## Contents
-1. **Install Software in a Linux Distribution**
+1. **Application Management in Linux Using APT and Sudo**
 - In this lab, I used the **Advanced Package Tool (APT)** and `sudo` commands to install and manage applications in a Debian-based Linux virtual machine, focusing on network security tools like Suricata and tcpdump. Suricata serves as an intrusion detection system, while tcpdump is a packet analyzer for examining network traffic. The use of a virtual machine ensured a safe testing environment with the ability to revert changes if needed. This activity highlighted the importance of mastering Linux application management, a crucial skill for configuring and utilizing security tools effectively as a security analyst.
   
 2. **Examine Input and Output**
