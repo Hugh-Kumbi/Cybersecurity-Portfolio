@@ -4,7 +4,7 @@ This folder contains exercises, solutions, and supporting materials related to f
 
 ## Contents
 1. **Install Software in a Linux Distribution**
-- In this activity, I analyzed DNS and ICMP traffic in transit using data captured from a network protocol analyzer tool. Through careful examination, I identified the specific network protocol utilized in the assessment of a cybersecurity incident. This process allowed me to gain insights into the nature of the incident and the role of these protocols in the broader context of network security.
+- In this lab, I used the Advanced Package Tool (APT) and sudo commands to install and manage applications in a Debian-based Linux virtual machine, focusing on network security tools like Suricata and tcpdump. Suricata serves as an intrusion detection system, while tcpdump is a packet analyzer for examining network traffic. The use of a virtual machine ensured a safe testing environment with the ability to revert changes if needed. This activity highlighted the importance of mastering Linux application management, a crucial skill for configuring and utilizing security tools effectively as a security analyst.
   
 2. **Examine Input and Output**
 - In this project, I tackled a scenario where a customer of the company I work for experienced a security issue while accessing the company's website. I identified the likely cause of the service interruption, analyzed how the attack occurred, and detailed the negative impact it had on the website's functionality and user trust. This hands-on analysis allowed me to demonstrate my ability to investigate network security issues and communicate findings effectively.
