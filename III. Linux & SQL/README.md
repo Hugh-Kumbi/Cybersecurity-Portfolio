@@ -20,9 +20,11 @@ This folder contains exercises, solutions, and supporting materials related to f
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
-- **1.1 File permissions in Linux.pdf:** [Exploring File Permissions in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/1.1%20Hugh_Cybersecurity%20Incident%20Report.md)
-- **2.1 SQL Queries.pdf:** [Optimizing Data Retrieval with SQL Filters](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/2.1%20Hugh_Network%20Attack%20Analysis.md)
+- **1.1 Install Software in a Linux Distribution:** [Exploring File Permissions in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/1.1%20Hugh_Cybersecurity%20Incident%20Report.md)
+- **2.1 Examine Input and Output:** [Optimizing Data Retrieval with SQL Filters](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/2.1%20Hugh_Network%20Attack%20Analysis.md)
 - **3.1 Using SQL joins.pdf:** [Using SQL Joins to Obtain the Precise Data](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/3.1%20Hugh_Security%20Incident%20Report.md)
+- **4.1 SQL Queries.pdf:** [Optimizing Data Retrieval with SQL Filters](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/2.1%20Hugh_Network%20Attack%20Analysis.md)
+- **5.1 Using SQL joins.pdf:** [Using SQL Joins to Obtain the Precise Data](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/3.1%20Hugh_Security%20Incident%20Report.md)
 
 ## Supporting Materials
 - **Network Attack Analysis Wireshark TCP_HTTP log.xlsx:** [TCP Log](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/Network%20Attack%20Analysis%20Wireshark%20TCP_HTTP%20log.xlsx)
