@@ -17,7 +17,7 @@ Here’s how you'll do this: **First**, you’ll confirm that APT is installed o
 
 ### Task 5. Reinstall the Suricata Application
 
-# 2. Linux Commands to Manage File Permissions
+# 2. Exploring Linux Shell Interactions: Understanding Input, Output, and Basic Calculations
 
 ## Scenario
 As a security professional, it’s important to understand the concept of communicating with your computer via the shell.
