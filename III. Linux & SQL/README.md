@@ -33,6 +33,16 @@ This folder contains exercises, solutions, and supporting materials related to f
 10. **Querying Databases with SQL: SELECT, FROM, and ORDER BY**
 - In this lab activity, I used SQL commands to retrieve and organize information from a database. I applied the `SELECT` and `FROM` statements to return specific data and used the `ORDER BY` keyword to sort the query results based on a designated column. As a security analyst, knowing how to query and analyze database information is essential for identifying patterns, improving security, and ensuring data integrity.
 
+11. **Filtering Numbers and Dates in SQL: Using Comparison Operators**
+In this lab activity, I worked with numeric and date-based data in SQL, using comparison operators to filter specific results effectively. I applied operators such as `=`, `>`, `<`, `<>`, `>=`, and `<=` to retrieve data based on precise conditions. For example, I filtered records to identify machines needing updates or login attempts occurring within a specific timeframe. As a security analyst, mastering these operators is critical for analyzing numerical and date-related data to identify vulnerabilities, investigate incidents, and maintain system security.
+
+
+
+
+
+
+
+
 
 
 
