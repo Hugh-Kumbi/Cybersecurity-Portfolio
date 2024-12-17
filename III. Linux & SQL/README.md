@@ -36,6 +36,14 @@ This folder contains exercises, solutions, and supporting materials related to f
 11. **Filtering Numbers and Dates in SQL: Using Comparison Operators**
 In this lab activity, I worked with numeric and date-based data in SQL, using comparison operators to filter specific results effectively. I applied operators such as `=`, `>`, `<`, `<>`, `>=`, and `<=` to retrieve data based on precise conditions. For example, I filtered records to identify machines needing updates or login attempts occurring within a specific timeframe. As a security analyst, mastering these operators is critical for analyzing numerical and date-related data to identify vulnerabilities, investigate incidents, and maintain system security.
 
+**Filtering Data with AND, OR, and NOT Operators in SQL**
+- In this lab activity, I practiced creating complex SQL queries by applying the `AND`, `OR`, and `NOT` operators to filter data based on multiple conditions. I used these logical operators to refine my queries, retrieving specific information while excluding data that didn’t meet certain criteria. This exercise demonstrated how combining multiple conditions helps in pinpointing precise results, a key skill for analyzing large datasets as a security analyst. Complex queries like these are essential for investigating incidents, identifying anomalies, and improving overall data security.
+
+
+
+
+
+
 
 
 
