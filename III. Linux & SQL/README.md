@@ -27,6 +27,14 @@ This folder contains exercises, solutions, and supporting materials related to f
 8. **Managing User Access in Linux**
 - In this lab activity, I used the  `useradd`, `usermod`, `userdel`, and `chown` commands to manage user access in the Linux Bash shell. By utilizing these commands, I was able to add, modify, and delete user accounts, as well as change file ownership to control access. Since these tasks require root (superuser) privileges, I used sudo to execute the commands. Proper management of users and their access to resources is a critical skill for a security analyst, as it helps maintain control over who can access and modify system files and data.
 
+9. **Exploring Linux Command Documentation**
+- In this lab activity, I explored how to get help and find information directly through the Linux command line. I used the `man` and `whatis` commands to retrieve details about specific Linux commands and their functions. Additionally, I used the `apropos` command to search manual pages for commands that match a specified string. As a security analyst, it’s essential to know how to efficiently discover relevant commands and understand their usage, ensuring I can troubleshoot issues and find solutions quickly when working in a Linux environment.
+
+10. **Querying Databases with SQL: SELECT, FROM, and ORDER BY**
+- In this lab activity, I used SQL commands to retrieve and organize information from a database. I applied the `SELECT` and `FROM` statements to return specific data and used the `ORDER BY` keyword to sort the query results based on a designated column. As a security analyst, knowing how to query and analyze database information is essential for identifying patterns, improving security, and ensuring data integrity.
+
+
+
 
 4. **Applying Filters to SQL Queries**
 - In this activity, I reviewed a scenario involving a social media organization that recently experienced a significant data breach caused by undetected vulnerabilities. To address this breach, I focused on identifying common network hardening tools that could enhance the organization’s overall security. I then selected a specific vulnerability within the company’s network and proposed several network hardening methods to mitigate it. Finally, I explained how these methods and tools would be effective in managing the vulnerability, preventing future breaches, and strengthening the organization's defenses against potential cyberattacks.
