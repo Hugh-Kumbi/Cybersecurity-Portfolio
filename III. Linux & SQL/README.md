@@ -16,7 +16,16 @@ This folder contains exercises, solutions, and supporting materials related to f
 - In this lab, I used the grep command and piping to efficiently search through files and extract specific information. By working with various files, including server log files and user data files, I practiced retrieving targeted data. I completed these tasks using Linux commands in the Bash shell, enhancing my ability to analyze and process file contents as part of my skill set in Linux systems management.
 
 5. **Managing Directory Structures and File Editing in Linux**
-In this lab, I used Linux commands to modify a directory structure and manage the files it contains. I also utilized the nano text editor to add text to a file. This activity reinforced the importance of organizing directories and files to streamline data management. As a security analyst, being able to create, remove, and edit directories and files is a crucial skill for detecting issues and maintaining data security effectively.
+- In this lab, I used Linux commands to modify a directory structure and manage the files it contains. I also utilized the nano text editor to add text to a file. This activity reinforced the importance of organizing directories and files to streamline data management. As a security analyst, being able to create, remove, and edit directories and files is a crucial skill for detecting issues and maintaining data security effectively.
+
+6. **Configuring Authorization and Managing Permissions in Linux**
+- In this lab activity, I used Linux commands to configure authorization and manage access to system resources. I explored the concept of file and directory permissions, learning how to change ownership to control access to specific files and directories. By setting appropriate access permissions, I helped mitigate security risks by limiting unauthorized access to sensitive information. This task is a crucial skill for a security analyst, ensuring that only authorized users can access and modify critical system files, thereby maintaining the overall security of the system. 
+
+7. **Demonstrating File Permission Management in Linux**
+- In this activity, I created a new portfolio document showcasing my experience using Linux commands to manage file permissions. This document highlights my ability to control access to files and directories, an essential skill for ensuring system security.
+
+8. **Managing User Access in Linux**
+- In this lab activity, I used the  `useradd`, `usermod`, `userdel`, and `chown` commands to manage user access in the Linux Bash shell. By utilizing these commands, I was able to add, modify, and delete user accounts, as well as change file ownership to control access. Since these tasks require root (superuser) privileges, I used sudo to execute the commands. Proper management of users and their access to resources is a critical skill for a security analyst, as it helps maintain control over who can access and modify system files and data.
 
 
 4. **Applying Filters to SQL Queries**
