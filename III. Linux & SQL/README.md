@@ -43,4 +43,6 @@ This folder contains exercises, solutions, and supporting materials related to f
 - **5.1 Using SQL joins.pdf:** [Using SQL Joins to Obtain the Precise Data](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/3.1%20Hugh_Security%20Incident%20Report.md)
 
 ## Supporting Materials
-- **Network Attack Analysis Wireshark TCP_HTTP log.xlsx:** [TCP Log](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/Network%20Attack%20Analysis%20Wireshark%20TCP_HTTP%20log.xlsx)
+- **Current file Permissions.pdf:** [Current file Permissions](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Current%20file%20Permissions.pdf)
+- **File Permissions in Linux.pdf:** [File Permissions in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/File%20Permissions%20in%20Linux.pdf)
+- **Instructions for Including Linux Commands.pdf:** [Instructions for Including Linux Commands](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Instructions%20for%20Including%20Linux%20Commands.pdf)
