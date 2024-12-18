@@ -21,7 +21,7 @@ This folder contains exercises, solutions, and supporting materials related to f
 1.6 **Configuring Authorization and Managing Permissions in Linux**
 - In this lab activity, I used Linux commands to configure authorization and manage access to system resources. I explored the concept of file and directory permissions, learning how to change ownership to control access to specific files and directories. By setting appropriate access permissions, I helped mitigate security risks by limiting unauthorized access to sensitive information. This task is a crucial skill for a security analyst, ensuring that only authorized users can access and modify critical system files, thereby maintaining the overall security of the system. 
 
-1.7 **Demonstrating File Permission Management in Linux**
+1.7 **Portfolio Document: Demonstrating File Permission Management in Linux**
 - In this activity, I created a new portfolio document showcasing my experience using Linux commands to manage file permissions. This document highlights my ability to control access to files and directories, an essential skill for ensuring system security.
 
 1.8 **Managing User Access in Linux**
@@ -48,22 +48,21 @@ This folder contains exercises, solutions, and supporting materials related to f
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
-- **1.1 Install Software in a Linux Distribution:** [1]()
-- **2.1 Examine Input and Output:** [1]()
-- **3.1 Using SQL joins.pdf:** [1]()
-- **4.1 SQL Queries.pdf:** [1]()
-- **5.1 Using SQL joins.pdf:** [1]()
-- **1.1 Install Software in a Linux Distribution:** [1]()
-- **2.1 Examine Input and Output:** [1]()
-- **3.1 Using SQL joins.pdf:** [1]()
-- **4.1 SQL Queries.pdf:** [1]()
-- **5.1 Using SQL joins.pdf:** [1]()
-- **1.1 Install Software in a Linux Distribution:** [1]()
-- **2.1 Examine Input and Output:** [1]()
-- **3.1 Using SQL joins.pdf:** [1]()
-- **4.1 SQL Queries.pdf:** [1]()
-- **5.1 Using SQL joins.pdf:** [1]()
-- **5.1 Using SQL joins.pdf:** [1]()
+- **1.1 Exercise 1:** [Hugh_Application Management in Linux Using APT and Sudo](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/1.1%20Hugh_Application%20Management%20in%20Linux%20Using%20APT%20and%20Sudo.md)
+- **1.2 Exercise 2:** [Hugh_Exploring Linux Shell Interactions: Understanding Input, Output, and Basic Calculations](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/1.2%20Hugh_Exploring%20Linux%20Shell%20Interactions%3A%20Understanding%20Input%2C%20Output%2C%20and%20Basic%20Calculations.md)
+- **1.3 Exercise 3:** [Hugh_Mastering Linux File Navigation and Analysis for Security Operations](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/1.3%20Hugh%20Mastering%20Linux%20File%20Navigation%20and%20Analysis%20for%20Security%20Operations.md)
+- **1.4 Exercise 4:** [Hugh_Using grep and Piping for File Searching and Data Extraction](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/1.4%20Hugh_Using%20grep%20and%20Piping%20for%20File%20Searching%20and%20Data%20Extraction.md)
+- **1.5 Exercise 5:** [1.5 Hugh_Managing Directory Structures and File Editing in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/1.5%20Hugh_Managing%20Directory%20Structures%20and%20File%20Editing%20in%20Linux.md)
+- **1.6 Exercise 6:** [Hugh_Configuring Authorization and Managing Permissions in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/1.6%20Hugh_Configuring%20Authorization%20and%20Managing%20Permissions%20in%20Linux.md)
+- **1.7 Exercise 7:** [Hugh_Demonstrating File Permission Management in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/1.7%20Hugh_Demonstrating%20File%20Permission%20Management%20in%20Linux.pdf)
+- **1.8 Exercise 8:** [Hugh_Managing User Access in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/1.8%20Hugh_Managing%20User%20Access%20in%20Linux.md)
+- **1.9 Exercise 9:** [Hugh_Exploring Linux Command Documentation](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/1.9%20Hugh_Exploring%20Linux%20Command%20Documentation.md)
+- **2.1 Exercise 10:** [Hugh_Querying Databases with SQL: SELECT, FROM, and ORDER BY](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/2.1%20%20Hugh_Querying%20Databases%20with%20SQL%3A%20SELECT%2C%20FROM%2C%20and%20ORDER%20BY.md)
+- **2.2 Exercise 11:** [Hugh_Filtering Data in SQL: Applying Basic Query Filters](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/2.2%20Hugh_Filtering%20Data%20in%20SQL%3A%20Applying%20Basic%20Query%20Filters.md)
+- **2.3 Exercise 12:** [Hugh_Filtering Data with AND, OR, and NOT Operators in SQL](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/2.3%20Hugh_Filtering%20Data%20with%20AND%2C%20OR%2C%20and%20NOT%20Operators%20in%20SQL.md)
+- **2.4 Exercise 13:** [Hugh_Filtering Numbers and Dates in SQL: Using Comparison Operators](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/2.4%20Hugh_Filtering%20Numbers%20and%20Dates%20in%20SQL%3A%20Using%20Comparison%20Operators.md)
+- **2.5 Exercise 14:** [Hugh_Demonstrating SQL Query Skills](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/2.5%20Hugh_Demonstrating%20SQL%20Query%20Skills.pdf)
+- **2.6 Exercise 15:** [Hugh_Using SQL Joins to Connect Tables and Retrieve Information](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/2.6%20Hugh_Using%20SQL%20Joins%20to%20Connect%20Tables%20and%20Retrieve%20Information.pdf)
 
 ## Supporting Materials
 - **Apply filters to SQL queries.pdf:** [Apply filters to SQL queries](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Apply%20filters%20to%20SQL%20queries.pdf)
@@ -71,4 +70,3 @@ This folder contains exercises, solutions, and supporting materials related to f
 - **File Permissions in Linux.pdf:** [File Permissions in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/File%20Permissions%20in%20Linux.pdf)
 - **Instructions for Including Linux Commands.pdf:** [Instructions for Including Linux Commands](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Instructions%20for%20Including%20Linux%20Commands.pdf)
 - **Instructions for including SQL queries.pdf:** [Instructions for including SQL queries](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Instructions%20for%20including%20SQL%20queries.pdf)
-
