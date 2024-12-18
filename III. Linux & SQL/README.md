@@ -40,28 +40,10 @@ In this lab activity, I worked with numeric and date-based data in SQL, using co
 - In this lab activity, I practiced creating complex SQL queries by applying the `AND`, `OR`, and `NOT` operators to filter data based on multiple conditions. I used these logical operators to refine my queries, retrieving specific information while excluding data that didn’t meet certain criteria. This exercise demonstrated how combining multiple conditions helps in pinpointing precise results, a key skill for analyzing large datasets as a security analyst. Complex queries like these are essential for investigating incidents, identifying anomalies, and improving overall data security.
 
 13. **Portfolio Document: Demonstrating SQL Query Skills**
-In this activity, I created a portfolio document showcasing my experience with SQL, specifically focusing on using the `AND`, `OR`, and `NOT` operators to filter and retrieve data based on multiple conditions. I explained the queries I performed during the lab, detailing how I combined conditions to extract specific information while excluding irrelevant results. This document serves as evidence of my SQL skills and will help me prepare for job interviews and other steps in the hiring process, demonstrating my ability to analyze data effectively as a security analyst.
+- In this activity, I created a portfolio document showcasing my experience with SQL, specifically focusing on using the `AND`, `OR`, and `NOT` operators to filter and retrieve data based on multiple conditions. I explained the queries I performed during the lab, detailing how I combined conditions to extract specific information while excluding irrelevant results. This document serves as evidence of my SQL skills and will help me prepare for job interviews and other steps in the hiring process, demonstrating my ability to analyze data effectively as a security analyst.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Using SQL Joins to Connect Tables and Retrieve Information**
+- As part of this lab activity, I used SQL joins to combine data from multiple related tables within a relational database. By leveraging shared columns, I retrieved information that spanned across different tables, enabling me to connect and analyze data efficiently. This skill is crucial for a security analyst, as it allows for a more comprehensive understanding of datasets and provides insights into patterns or issues that might not be apparent when analyzing individual tables in isolation.
 
 
 4. **Applying Filters to SQL Queries**
