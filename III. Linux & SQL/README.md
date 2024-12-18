@@ -34,7 +34,7 @@ This folder contains exercises, solutions, and supporting materials related to f
 - In this lab activity, I used SQL commands to retrieve and organize information from a database. I applied the `SELECT` and `FROM` statements to return specific data and used the `ORDER BY` keyword to sort the query results based on a designated column. As a security analyst, knowing how to query and analyze database information is essential for identifying patterns, improving security, and ensuring data integrity.
 
 2.2 **Filtering Numbers and Dates in SQL: Using Comparison Operators**
-In this lab activity, I worked with numeric and date-based data in SQL, using comparison operators to filter specific results effectively. I applied operators such as `=`, `>`, `<`, `<>`, `>=`, and `<=` to retrieve data based on precise conditions. For example, I filtered records to identify machines needing updates or login attempts occurring within a specific timeframe. As a security analyst, mastering these operators is critical for analyzing numerical and date-related data to identify vulnerabilities, investigate incidents, and maintain system security.
+- In this lab activity, I worked with numeric and date-based data in SQL, using comparison operators to filter specific results effectively. I applied operators such as `=`, `>`, `<`, `<>`, `>=`, and `<=` to retrieve data based on precise conditions. For example, I filtered records to identify machines needing updates or login attempts occurring within a specific timeframe. As a security analyst, mastering these operators is critical for analyzing numerical and date-related data to identify vulnerabilities, investigate incidents, and maintain system security.
 
 2.3 **Filtering Data with AND, OR, and NOT Operators in SQL**
 - In this lab activity, I practiced creating complex SQL queries by applying the `AND`, `OR`, and `NOT` operators to filter data based on multiple conditions. I used these logical operators to refine my queries, retrieving specific information while excluding data that didn’t meet certain criteria. This exercise demonstrated how combining multiple conditions helps in pinpointing precise results, a key skill for analyzing large datasets as a security analyst. Complex queries like these are essential for investigating incidents, identifying anomalies, and improving overall data security.
@@ -48,13 +48,27 @@ In this lab activity, I worked with numeric and date-based data in SQL, using co
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
-- **1.1 Install Software in a Linux Distribution:** [Exploring File Permissions in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/1.1%20Hugh_Cybersecurity%20Incident%20Report.md)
-- **2.1 Examine Input and Output:** [Optimizing Data Retrieval with SQL Filters](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/2.1%20Hugh_Network%20Attack%20Analysis.md)
-- **3.1 Using SQL joins.pdf:** [Using SQL Joins to Obtain the Precise Data](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/3.1%20Hugh_Security%20Incident%20Report.md)
-- **4.1 SQL Queries.pdf:** [Optimizing Data Retrieval with SQL Filters](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/2.1%20Hugh_Network%20Attack%20Analysis.md)
-- **5.1 Using SQL joins.pdf:** [Using SQL Joins to Obtain the Precise Data](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/II.%20Network%20Security/3.1%20Hugh_Security%20Incident%20Report.md)
+- **1.1 Install Software in a Linux Distribution:** [1]()
+- **2.1 Examine Input and Output:** [1]()
+- **3.1 Using SQL joins.pdf:** [1]()
+- **4.1 SQL Queries.pdf:** [1]()
+- **5.1 Using SQL joins.pdf:** [1]()
+- **1.1 Install Software in a Linux Distribution:** [1]()
+- **2.1 Examine Input and Output:** [1]()
+- **3.1 Using SQL joins.pdf:** [1]()
+- **4.1 SQL Queries.pdf:** [1]()
+- **5.1 Using SQL joins.pdf:** [1]()
+- **1.1 Install Software in a Linux Distribution:** [1]()
+- **2.1 Examine Input and Output:** [1]()
+- **3.1 Using SQL joins.pdf:** [1]()
+- **4.1 SQL Queries.pdf:** [1]()
+- **5.1 Using SQL joins.pdf:** [1]()
+- **5.1 Using SQL joins.pdf:** [1]()
 
 ## Supporting Materials
+- **Apply filters to SQL queries.pdf:** [Apply filters to SQL queries](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Apply%20filters%20to%20SQL%20queries.pdf)
 - **Current file Permissions.pdf:** [Current file Permissions](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Current%20file%20Permissions.pdf)
 - **File Permissions in Linux.pdf:** [File Permissions in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/File%20Permissions%20in%20Linux.pdf)
 - **Instructions for Including Linux Commands.pdf:** [Instructions for Including Linux Commands](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Instructions%20for%20Including%20Linux%20Commands.pdf)
+- **Instructions for including SQL queries.pdf:** [Instructions for including SQL queries](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Instructions%20for%20including%20SQL%20queries.pdf)
+
