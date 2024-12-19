@@ -46,9 +46,9 @@ By completing this activity, you will:
 
 1. Gain hands-on experience using the APT package manager.
 2. Learn to:
-  * Install applications.
-  * Uninstall applications.
-  * List installed applications.
+   * Install applications.
+   * Uninstall applications.
+   * List installed applications.
 3. Develop a key skill for managing installed applications in Linux, essential for any security analyst.
 
 # 2. Exploring Linux Shell Interactions: Understanding Input, Output, and Basic Calculations
