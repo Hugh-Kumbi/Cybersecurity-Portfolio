@@ -1,6 +1,7 @@
 # 1. Install Software in a Linux Distribution
 
 ## Scenario
+
 Your role as a security analyst requires that you have the Suricata and tcpdump network security applications installed on your system.
 
 In this scenario, you have to install, uninstall, and reinstall these applications on your Linux Bash shell. You also need to confirm that you’ve installed them correctly.
@@ -8,6 +9,7 @@ In this scenario, you have to install, uninstall, and reinstall these applicatio
 Here’s how you'll do this: **First**, you’ll confirm that APT is installed on your Linux Bash shell. **Next**, you’ll use APT to install the Suricata application and confirm that it is installed. **Then**, you’ll uninstall the Suricata application and confirm this as well. **Next**, you’ll install the tcpdump application and list the applications currently installed. **Finally**, you’ll reinstall the Suricata application and confirm that both applications are installed.
 
 ### Task 1. Ensure that APT is Installed
+
 First, you’ll check that the APT application is installed so that you can use it to manage applications. The simplest way to do this is to run the apt command in the Bash shell and check the response.
 
 The Bash shell is the command-line interpreter currently open on the left side of the screen. You’ll use the Bash shell by typing commands after the prompt. The prompt is represented by a dollar sign ($) followed by the input cursor.
@@ -15,6 +17,7 @@ The Bash shell is the command-line interpreter currently open on the left side o
 * Confirm that the APT package manager is installed in your Linux environment.
 
 ### Task 2. Install and Uninstall the Suricata Application
+
 In this task, you must install Suricata, a network analysis tool used for intrusion detection, and verify that it installed correctly. Then, you’ll uninstall the application.
 
 1. Use the APT package manager to install the Suricata application.
@@ -23,17 +26,20 @@ In this task, you must install Suricata, a network analysis tool used for intrus
 4. Verify that Suricata has been uninstalled by running the application command again.
 
 ### Task 3. Install the tcpdump application
+
 In this task, you must install the tcpdump application. This is a command-line tool that can be used to capture network traffic in a Linux Bash shell.
 
 * Use the APT package manager to install tcpdump.
 
 ### Task 4. List the Installed Applications
+
 Next, you need to confirm that you’ve installed the required applications. It's important to be able to validate that the correct applications are installed. Often you may want to check that the correct versions are installed as well.
 
 1. Use the APT package manager to list all installed applications.
 2. Search through the list to find the tcpdump application you installed.
 
 ### Task 5. Reinstall the Suricata Application
+
 In this task, you must reinstall the Suricata application and verify that it has installed correctly.
 
 1. Run the command to install the Suricata application.
@@ -41,6 +47,7 @@ In this task, you must reinstall the Suricata application and verify that it has
 3. Search through the list to confirm that the Suricata application has been installed.
 
 ### Expectations
+
 By completing this activity, you will:
 
 1. Gain hands-on experience using the APT package manager.
@@ -53,6 +60,7 @@ By completing this activity, you will:
 # 2. Examine Input and Output in the Linux Shell
 
 ## Scenario
+
 As a security professional, it’s important to understand the concept of communicating with your computer via the shell.
 
 In this scenario, you have to input a specified string of text that you want the shell to return as output. You'll also need to input a few mathematical calculations so the OS (operating system) can return the result.
@@ -78,6 +86,7 @@ In this task, you’ll use the `clear` command to clear the Bash shell of all ex
 When you work in a shell environment, the screen can fill with previous input and output data. This can make it difficult to process what you’re working on. Clearing the screen allows you to create a clutter-free text environment to allow you to focus on what is important at that point in time.
 
 ## Optional task: Perform more calculations with the expr command
+
 You have the opportunity to explore input and output further using the `echo` and `expr` commands.
 
 1. Generate at least one new output using the `echo` command.
@@ -88,6 +97,7 @@ You have the opportunity to explore input and output further using the `echo` an
 The mathematical operators you can use with the `expr` command for **adding, subtracting, dividing,** and **multiplying** are `+`, `-`, `/` and `*`.
 
 ## Expectations
+
 By completing this activity, you will:
 
 1. Gain practical experience in using basic Linux Bash shell commands.
@@ -114,12 +124,14 @@ In this task, you must use the commands you learned about to check the current w
 2. Display the names of the files and directories in the current working directory.
 
 ## Task 2. Change Directory and List the Subdirectories
+
 In this task, you must navigate to a new directory and determine the subdirectories it contains.
 
 1. Navigate to the `/home/analyst/reports` directory.
 2. Display the files and subdirectories in the `/home/analyst/reports` directory.
 
 ## Task 3. Locate and Read the Contents of a File
+
 In this task, you must navigate to a subdirectory and read the contents of a file it contains.
 
 1. Navigate to the `/home/analyst/reports/users` directory.
@@ -127,13 +139,15 @@ In this task, you must navigate to a subdirectory and read the contents of a fil
 3. Display the contents of the `Q1_added_users.txt` file.
 
 ## Task 4. Navigate to a directory and locate a file
+
 In this task, you must navigate to a new directory, locate a file, and examine the contents of the file.
 
 1. Navigate to the `/home/analyst/logs` directory.
 2. Display the name of the file it contains.
 3. Display the first **10** lines of this file.
 
-##Expectations
+## Expectations
+
 By completing this activity, you will:
 
 1. Gain practical experience in using basic Linux Bash shell commands.
@@ -144,17 +158,38 @@ By completing this activity, you will:
 * Display the contents of files with the cat and head commands.
 3. Understand that navigating through directories and reading file contents are fundamental skills essential for shell communication.
 
+# 4. Exemplar: Filter with Grep
 
+## Scenario
 
+In this scenario, you need to obtain information contained in server log and user data files. You also need to find files with specific names.
 
+Here’s how you’ll do this: **First**, you’ll navigate to the logs directory and return the error messages in the server_logs.txt file. **Next**, you’ll navigate to the users directory and search for files that contain a specific string in their names. **Finally**, you’ll search for information contained in user files.
 
+With that in mind, you’re ready to practice what you've learned.
 
+## Task 1. Search for Error Messages in a Log File
 
+In this task, you must navigate to the `/home/analyst/logs` directory and report on the error messages in the `server_logs.txt file`. You’ll do this by using `grep` to search the file and output only the entries that are for errors.
 
+## Task 2. Find files containing specific strings
 
+In this task, you must navigate to the `/home/analyst/reports/users` directory and use the correct Linux commands and arguments to search for user data files that contain a specific string in their names.
 
+## Task 3. Search more file contents
 
+In this task, you must search for information contained in user files and report on users that were added and deleted from the system.
 
+## Expectations
+
+By completing this activity, you will:
+
+1Gain practical experience using grep to:
+Search for specific information contained in files.
+Find files containing specific strings that were piped into grep.
+Develop the ability to use fundamental Linux tools to filter the information you need.
+
+# 5. Linux Commands to Manage File Permissions   
 
 
 
