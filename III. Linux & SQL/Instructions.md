@@ -41,7 +41,7 @@ In this task, you must reinstall the Suricata application and verify that it has
 2. Use the APT package manager to list the installed applications.
 3. Search through the list to confirm that the Suricata application has been installed.
 
-### Outcomes
+### Expectations
 By completing this activity, you will:
 
 1. Gain hands-on experience using the APT package manager.
