@@ -61,7 +61,7 @@ Here’s how you’ll do this: **First**, you’ll use the `echo` command to gen
 
 ## Task 1. Generate output with the echo command
 
-1. The `echo` command in the Bash shell outputs a specified string of text. In this task, you’ll use the `echo` command to generate output in the Bash shell.
+The `echo` command in the Bash shell outputs a specified string of text. In this task, you’ll use the `echo` command to generate output in the Bash shell.
 
 ## Task 2. Generate output with the expr command
 
@@ -97,6 +97,66 @@ By completing this activity, you will:
     * Clear the Bash shell with the `clear` command.
 3. Understand the importance of input and output when communicating through the shell.
 4.Build confidence with these basic concepts, preparing you to work with additional commands in the future.
+
+# 3. Find Files with Linux Commands 
+
+## Scenario
+
+In this scenario, you have to locate and analyze the information of certain files located in the /home/analyst directory.
+
+Here’s how you’ll do this: **First**, you’ll get the information of the current working directory you’re in and display the contents of the directory. **Second**, you’ll navigate to the reports directory and list the subdirectories it contains. **Third**, you’ll navigate to the users subdirectory and display the contents of the Q1_added_users.txt file. **Finally**, you’ll navigate to the logs directory and display the first 10 lines of a file it contains.
+
+## Task 1. Get the current directory information
+
+In this task, you must use the commands you learned about to check the current working directory and list its contents.
+
+1. Display your working directory.
+2. Display the names of the files and directories in the current working directory.
+
+## Task 2. Change Directory and List the Subdirectories
+In this task, you must navigate to a new directory and determine the subdirectories it contains.
+
+1. Navigate to the `/home/analyst/reports` directory.
+2. Display the files and subdirectories in the `/home/analyst/reports` directory.
+
+## Task 3. Locate and Read the Contents of a File
+In this task, you must navigate to a subdirectory and read the contents of a file it contains.
+
+1. Navigate to the `/home/analyst/reports/users` directory.
+2. List the files in the current directory.
+3. Display the contents of the `Q1_added_users.txt` file.
+
+## Task 4. Navigate to a directory and locate a file
+In this task, you must navigate to a new directory, locate a file, and examine the contents of the file.
+
+1. Navigate to the `/home/analyst/logs` directory.
+2. Display the name of the file it contains.
+3. Display the first **10** lines of this file.
+
+##Expectations
+By completing this activity, you will:
+
+1. Gain practical experience in using basic Linux Bash shell commands.
+2. Learn to:
+* Navigate directory structures with the cd command.
+* Display the current working directory with the pwd command.
+* List the contents of a directory with the ls command.
+* Display the contents of files with the cat and head commands.
+3. Understand that navigating through directories and reading file contents are fundamental skills essential for shell communication.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 3. Linux Commands to Manage File Permissions   
