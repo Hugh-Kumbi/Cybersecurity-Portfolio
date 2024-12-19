@@ -70,3 +70,4 @@ This folder contains exercises, solutions, and supporting materials related to f
 - **File Permissions in Linux.pdf:** [File Permissions in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/File%20Permissions%20in%20Linux.pdf)
 - **Instructions for Including Linux Commands.pdf:** [Instructions for Including Linux Commands](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Instructions%20for%20Including%20Linux%20Commands.pdf)
 - **Instructions for including SQL queries.pdf:** [Instructions for including SQL queries](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Instructions%20for%20including%20SQL%20queries.pdf)
+- **Table formats.pdf:** [Table formats](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Table%20formats.pdf)
