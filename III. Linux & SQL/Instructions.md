@@ -8,14 +8,48 @@ In this scenario, you have to install, uninstall, and reinstall these applicatio
 Here’s how you'll do this: **First**, you’ll confirm that APT is installed on your Linux Bash shell. **Next**, you’ll use APT to install the Suricata application and confirm that it is installed. **Then**, you’ll uninstall the Suricata application and confirm this as well. **Next**, you’ll install the tcpdump application and list the applications currently installed. **Finally**, you’ll reinstall the Suricata application and confirm that both applications are installed.
 
 ### Task 1. Ensure that APT is Installed
+First, you’ll check that the APT application is installed so that you can use it to manage applications. The simplest way to do this is to run the apt command in the Bash shell and check the response.
+
+The Bash shell is the command-line interpreter currently open on the left side of the screen. You’ll use the Bash shell by typing commands after the prompt. The prompt is represented by a dollar sign ($) followed by the input cursor.
+
+* Confirm that the APT package manager is installed in your Linux environment.
 
 ### Task 2. Install and Uninstall the Suricata Application
+In this task, you must install Suricata, a network analysis tool used for intrusion detection, and verify that it installed correctly. Then, you’ll uninstall the application.
+
+1. Use the APT package manager to install the Suricata application.
+2. Verify that Suricata is installed by running the newly installed application.
+3. Use the APT package manager to uninstall Suricata.
+4. Verify that Suricata has been uninstalled by running the application command again.
 
 ### Task 3. Install the tcpdump application
+In this task, you must install the tcpdump application. This is a command-line tool that can be used to capture network traffic in a Linux Bash shell.
+
+* Use the APT package manager to install tcpdump.
 
 ### Task 4. List the Installed Applications
+Next, you need to confirm that you’ve installed the required applications. It's important to be able to validate that the correct applications are installed. Often you may want to check that the correct versions are installed as well.
+
+1. Use the APT package manager to list all installed applications.
+2. Search through the list to find the tcpdump application you installed.
+
 
 ### Task 5. Reinstall the Suricata Application
+In this task, you must reinstall the Suricata application and verify that it has installed correctly.
+
+1. Run the command to install the Suricata application.
+2. Use the APT package manager to list the installed applications.
+3. Search through the list to confirm that the Suricata application has been installed.
+
+### Outcomes
+By completing this activity, you will:
+
+Gain hands-on experience using the APT package manager.
+Learn to:
+Install applications.
+Uninstall applications.
+List installed applications.
+Develop a key skill for managing installed applications in Linux, essential for any security analyst.
 
 # 2. Exploring Linux Shell Interactions: Understanding Input, Output, and Basic Calculations
 
