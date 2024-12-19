@@ -1,4 +1,4 @@
-# 1. Application Management in Linux Using APT and Sudo
+# 1. Install Software in a Linux Distribution
 
 ## Scenario
 Your role as a security analyst requires that you have the Suricata and tcpdump network security applications installed on your system.
@@ -33,7 +33,6 @@ Next, you need to confirm that you’ve installed the required applications. It'
 1. Use the APT package manager to list all installed applications.
 2. Search through the list to find the tcpdump application you installed.
 
-
 ### Task 5. Reinstall the Suricata Application
 In this task, you must reinstall the Suricata application and verify that it has installed correctly.
 
@@ -51,7 +50,7 @@ By completing this activity, you will:
    * List installed applications.
 3. Develop a key skill for managing installed applications in Linux, essential for any security analyst.
 
-# 2. Exploring Linux Shell Interactions: Understanding Input, Output, and Basic Calculations
+# 2. Examine Input and Output in the Linux Shell
 
 ## Scenario
 As a security professional, it’s important to understand the concept of communicating with your computer via the shell.
@@ -60,7 +59,44 @@ In this scenario, you have to input a specified string of text that you want the
 
 Here’s how you’ll do this: **First**, you’ll use the `echo` command to generate some output in the shell. **Second**, you’ll use the `expr` command to perform basic mathematical calculations. **Next**, you’ll use the `clear` command to clear the Bash shell window. **Finally**, you’ll have an opportunity to explore the `echo` and `expr` commands further.
 
+## Task 1. Generate output with the echo command
 
+1. The `echo` command in the Bash shell outputs a specified string of text. In this task, you’ll use the `echo` command to generate output in the Bash shell.
+
+## Task 2. Generate output with the expr command
+
+In this task, you’ll use the `expr` command to generate some additional output in the Bash shell. The `expr` command performs basic mathematical calculations and can be useful when you need to quickly perform a calculation.
+
+Imagine that the system has shown you that you have 32 alerts, but only 8 required action. You want to calculate how many alerts are false positives so that you can provide feedback to the team that configures the alerts.
+
+To do this, you need to subtract the number of alerts that required action from the total number of alerts.
+
+## Task 3. Clear the Bash shell
+
+In this task, you’ll use the `clear` command to clear the Bash shell of all existing output. This allows you to start with the cursor at the top of the Bash shell window.
+
+When you work in a shell environment, the screen can fill with previous input and output data. This can make it difficult to process what you’re working on. Clearing the screen allows you to create a clutter-free text environment to allow you to focus on what is important at that point in time.
+
+## Optional task: Perform more calculations with the expr command
+You have the opportunity to explore input and output further using the `echo` and `expr` commands.
+
+1. Generate at least one new output using the `echo` command.
+    * (Remember the `echo "hello"` output you generated).
+
+2. Perform at least one new calculation using the `expr` command.
+
+The mathematical operators you can use with the `expr` command for **adding, subtracting, dividing,** and **multiplying** are `+`, `-`, `/` and `*`.
+
+## Expectations
+By completing this activity, you will:
+
+1. Gain practical experience in using basic Linux Bash shell commands.
+2. Learn to:
+    * Generate output with the `echo` command.
+    * Generate output with the `expr` command.
+    * Clear the Bash shell with the `clear` command.
+3. Understand the importance of input and output when communicating through the shell.
+4.Build confidence with these basic concepts, preparing you to work with additional commands in the future.
 
 
 # 3. Linux Commands to Manage File Permissions   
