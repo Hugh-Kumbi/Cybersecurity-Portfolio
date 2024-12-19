@@ -67,11 +67,11 @@ In this scenario, you have to input a specified string of text that you want the
 
 Here’s how you’ll do this: **First**, you’ll use the `echo` command to generate some output in the shell. **Second**, you’ll use the `expr` command to perform basic mathematical calculations. **Next**, you’ll use the `clear` command to clear the Bash shell window. **Finally**, you’ll have an opportunity to explore the `echo` and `expr` commands further.
 
-## Task 1. Generate output with the echo command
+### Task 1. Generate output with the echo command
 
 The `echo` command in the Bash shell outputs a specified string of text. In this task, you’ll use the `echo` command to generate output in the Bash shell.
 
-## Task 2. Generate output with the expr command
+### Task 2. Generate output with the expr command
 
 In this task, you’ll use the `expr` command to generate some additional output in the Bash shell. The `expr` command performs basic mathematical calculations and can be useful when you need to quickly perform a calculation.
 
@@ -79,13 +79,13 @@ Imagine that the system has shown you that you have 32 alerts, but only 8 requir
 
 To do this, you need to subtract the number of alerts that required action from the total number of alerts.
 
-## Task 3. Clear the Bash shell
+### Task 3. Clear the Bash shell
 
 In this task, you’ll use the `clear` command to clear the Bash shell of all existing output. This allows you to start with the cursor at the top of the Bash shell window.
 
 When you work in a shell environment, the screen can fill with previous input and output data. This can make it difficult to process what you’re working on. Clearing the screen allows you to create a clutter-free text environment to allow you to focus on what is important at that point in time.
 
-## Optional task: Perform more calculations with the expr command
+### Optional task: Perform more calculations with the expr command
 
 You have the opportunity to explore input and output further using the `echo` and `expr` commands.
 
@@ -96,7 +96,7 @@ You have the opportunity to explore input and output further using the `echo` an
 
 The mathematical operators you can use with the `expr` command for **adding, subtracting, dividing,** and **multiplying** are `+`, `-`, `/` and `*`.
 
-## Expectations
+### Expectations
 
 By completing this activity, you will:
 
@@ -106,7 +106,7 @@ By completing this activity, you will:
     * Generate output with the `expr` command.
     * Clear the Bash shell with the `clear` command.
 3. Understand the importance of input and output when communicating through the shell.
-4.Build confidence with these basic concepts, preparing you to work with additional commands in the future.
+4. Build confidence with these basic concepts, preparing you to work with additional commands in the future.
 
 # 3. Find Files with Linux Commands 
 
@@ -116,21 +116,21 @@ In this scenario, you have to locate and analyze the information of certain file
 
 Here’s how you’ll do this: **First**, you’ll get the information of the current working directory you’re in and display the contents of the directory. **Second**, you’ll navigate to the reports directory and list the subdirectories it contains. **Third**, you’ll navigate to the users subdirectory and display the contents of the Q1_added_users.txt file. **Finally**, you’ll navigate to the logs directory and display the first 10 lines of a file it contains.
 
-## Task 1. Get the current directory information
+### Task 1. Get the current directory information
 
 In this task, you must use the commands you learned about to check the current working directory and list its contents.
 
 1. Display your working directory.
 2. Display the names of the files and directories in the current working directory.
 
-## Task 2. Change Directory and List the Subdirectories
+### Task 2. Change Directory and List the Subdirectories
 
 In this task, you must navigate to a new directory and determine the subdirectories it contains.
 
 1. Navigate to the `/home/analyst/reports` directory.
 2. Display the files and subdirectories in the `/home/analyst/reports` directory.
 
-## Task 3. Locate and Read the Contents of a File
+### Task 3. Locate and Read the Contents of a File
 
 In this task, you must navigate to a subdirectory and read the contents of a file it contains.
 
@@ -138,7 +138,7 @@ In this task, you must navigate to a subdirectory and read the contents of a fil
 2. List the files in the current directory.
 3. Display the contents of the `Q1_added_users.txt` file.
 
-## Task 4. Navigate to a directory and locate a file
+### Task 4. Navigate to a directory and locate a file
 
 In this task, you must navigate to a new directory, locate a file, and examine the contents of the file.
 
@@ -146,7 +146,7 @@ In this task, you must navigate to a new directory, locate a file, and examine t
 2. Display the name of the file it contains.
 3. Display the first **10** lines of this file.
 
-## Expectations
+### Expectations
 
 By completing this activity, you will:
 
@@ -168,28 +168,96 @@ Here’s how you’ll do this: **First**, you’ll navigate to the logs director
 
 With that in mind, you’re ready to practice what you've learned.
 
-## Task 1. Search for Error Messages in a Log File
+### Task 1. Search for Error Messages in a Log File
 
 In this task, you must navigate to the `/home/analyst/logs` directory and report on the error messages in the `server_logs.txt file`. You’ll do this by using `grep` to search the file and output only the entries that are for errors.
 
-## Task 2. Find files containing specific strings
+### Task 2. Find files containing specific strings
 
 In this task, you must navigate to the `/home/analyst/reports/users` directory and use the correct Linux commands and arguments to search for user data files that contain a specific string in their names.
 
-## Task 3. Search more file contents
+### Task 3. Search more file contents
 
 In this task, you must search for information contained in user files and report on users that were added and deleted from the system.
 
-## Expectations
+### Expectations
 
 By completing this activity, you will:
 
-1Gain practical experience using grep to:
-Search for specific information contained in files.
-Find files containing specific strings that were piped into grep.
-Develop the ability to use fundamental Linux tools to filter the information you need.
+1. Gain practical experience using grep to:
+* Search for specific information contained in files.
+* Find files containing specific strings that were piped into grep.
+2. Develop the ability to use fundamental Linux tools to filter the information you need.
 
-# 5. Linux Commands to Manage File Permissions   
+# 5. Manage Files with Linux Commands  
+
+## Scenario
+
+In this scenario, you need to ensure that the `/home/analys`t directory is properly organized.
+
+You have to make a few changes to the `/home/analyst` directory and the files it contains.
+
+You also have to edit a file to record the changes or updates you make to the directory.
+
+When you start, the `/home/analyst` directory contains the following subdirectories and files:
+
+home
+└── analyst
+    ├── notes
+    │   ├── Q3patches.txt
+    │   └── tempnotes.txt
+    ├── reports
+    │   ├── Q1patches.txt
+    │   └── Q2patches.txt
+    └── temp
+You need to modify the `/home/analyst` directory to the following directory and file structure:
+
+home
+└── analyst
+    ├── logs
+    ├── notes
+    │   └── tasks.txt    
+    └── reports
+        ├── Q1patches.txt
+        └── Q2patches.txt
+        └── Q3patches.txt
+        
+Here’s how you’ll do this: **First**, you’ll create a new subdirectory called logs in the `/home/analyst` directory. **Next**, you’ll remove the temp subdirectory. Then, you’ll move the `Q3patches.txt` file to the reports subdirectory and delete the `tempnotes.txt` file. **Finally**, you’ll create a `new .txt` file called tasks in the notes subdirectory and add a note to the file describing the tasks you've performed.
+
+### Task 1. Create a new directory
+First, you must create a dedicated subdirectory called `logs`, which will be used to store all future log files.
+
+### Task 2. Remove a Directory
+Next, you must remove the temp directory, as you’ll no longer be placing items in it.
+
+### Task 3. Move a File
+
+The `Q3patches.txt` file contains notes taken on third-quarter patches and is now in the correct reporting format.
+
+You must move the  `Q3patches.txt` file from the `notes` directory to the `reports` directory.
+
+### Task 4. Remove a File
+Next, you must delete an unused file called `tempnotes.txt` from the `/home/analyst/notes` directory.
+
+### Task 5. Create a new file
+Now, you must create a file named `tasks.txt` in the `/home/analyst/notes` directory that you’ll use to document completed tasks.
+
+### Task 6. Edit a file
+Finally, you must use the nano text editor to edit the `tasks.txt` file and add a note describing the tasks you’ve completed.
+
+### Expectations
+By completing this activity, you will:
+
+1. Gain practical experience using basic Linux Bash shell commands to:
+* Create and remove directories.
+* Copy, move, and remove files.
+* Edit files with the nano text editor.
+2. Develop the skills needed to manage directories and files effectively in a Linux environment.
+
+# 6. Linux Commands to Manage File Permissions   
+
+
+
 
 
 
