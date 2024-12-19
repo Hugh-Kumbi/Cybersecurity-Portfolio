@@ -256,6 +256,57 @@ By completing this activity, you will:
 
 # 6. Linux Commands to Manage File Permissions   
 
+## Manage authorization
+
+### Scenario
+In this scenario, you must examine and manage the permissions on the files in the `/home/researcher2/projects` directory for the `researcher2` user.
+
+The `researcher2` user is part of the `research_team` group.
+
+You must check the permissions for all files in the directory, including any hidden files, to make sure that permissions align with the authorization that should be given. When it doesn't, you must change the permissions.
+
+Here’s how you’ll do this task: **First**, you’ll check the user and group permissions for all files in the `projects` directory. **Next**, you’ll check whether any files have incorrect permissions and change the permissions as needed. **Finally**, you’ll check the permissions of the `/home/researcher2/projects/drafts` directory and modify these permissions to remove any unauthorized access.
+
+#### Task 1. Check File and Directory Details
+In this task, you must explore the permissions of the `projects` directory and the files it contains. The lab starts with `/home/researcher2` as the current working directory. This is because you're changing permissions for files and directories belonging to the `researcher2` user.
+
+#### Task 2. Change File Permissions
+In this task, you must determine whether any files have incorrect permissions and then change the permissions as needed. This action will remove unauthorized access and strengthen security on the system.
+
+None of the files should allow the other users to write to files.
+
+#### Task 3. Change File Permissions on a Hidden File
+In this task, you must determine if a hidden file has incorrect permissions and then change the permissions as needed. This action will further remove unauthorized access and strengthen security on the system.
+
+The file `.project_x.txt` is a hidden file that has been archived and should not be written to by anyone. (The user and group should still be able to read this file.)
+
+##### Task 4. Change Directory Permissions
+In this task, you must change the permissions of a directory. First, you’ll check the group permissions of the `/home/researcher2/projects/drafts` directory and then modify the permissions as required. (You should be in the `projects` directory while managing the permissions of its subdirectory drafts.)
+
+Only the `researcher2` user should be allowed to access the `drafts` directory and its contents. (This means that only `researcher2` should have execute privileges.)
+
+#### Expectations
+By completing this activity, you will:
+
+1. Gain practical experience using basic Linux Bash shell commands to:
+* Examine file and directory permissions.
+* Change permissions on files.
+* Change permissions on directories.
+2. Achieve an important milestone in your journey toward managing authorization in Linux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
