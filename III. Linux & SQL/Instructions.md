@@ -201,44 +201,12 @@ You also have to edit a file to record the changes or updates you make to the di
 
 When you start, the `/home/analyst` directory contains the following subdirectories and files:
 
-home
+![image](https://github.com/user-attachments/assets/70dc1c4f-ced5-453f-9ed9-345571ed0cc3)
 
-└── analyst
-
-    ├── notes
-    
-    │   ├── Q3patches.txt
-    
-    │   └── tempnotes.txt
-    
-    ├── reports
-    
-    │   ├── Q1patches.txt
-    
-    │   └── Q2patches.txt
-    
-    └── temp
-    
 You need to modify the `/home/analyst` directory to the following directory and file structure:
 
-home
+![image](https://github.com/user-attachments/assets/a4ef22a1-634d-4d34-a226-7c05b08e413c)
 
-└── analyst
-
-    ├── logs
-    
-    ├── notes
-    
-    │   └── tasks.txt    
-    
-    └── reports
-    
-        ├── Q1patches.txt
-        
-        └── Q2patches.txt
-        
-        └── Q3patches.txt
-        
 Here’s how you’ll do this: **First**, you’ll create a new subdirectory called logs in the `/home/analyst` directory. **Next**, you’ll remove the temp subdirectory. Then, you’ll move the `Q3patches.txt` file to the reports subdirectory and delete the `tempnotes.txt` file. **Finally**, you’ll create a `new .txt` file called tasks in the notes subdirectory and add a note to the file describing the tasks you've performed.
 
 ### Task 1. Create a new directory
