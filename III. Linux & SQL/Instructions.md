@@ -44,12 +44,12 @@ In this task, you must reinstall the Suricata application and verify that it has
 ### Outcomes
 By completing this activity, you will:
 
-Gain hands-on experience using the APT package manager.
-Learn to:
-Install applications.
-Uninstall applications.
-List installed applications.
-Develop a key skill for managing installed applications in Linux, essential for any security analyst.
+1. Gain hands-on experience using the APT package manager.
+2. Learn to:
+  * Install applications.
+  * Uninstall applications.
+  * List installed applications.
+3. Develop a key skill for managing installed applications in Linux, essential for any security analyst.
 
 # 2. Exploring Linux Shell Interactions: Understanding Input, Output, and Basic Calculations
 
