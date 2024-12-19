@@ -3,13 +3,13 @@
 This folder contains exercises, solutions, and supporting materials related to foundational computing skills, focusing on using the Linux command line and querying databases with SQL. It showcases proficiency in navigating the Linux operating system for efficient system management and performing SQL queries to manage and analyze data.
 
 ## Contents
-1.1 **Application Management in Linux Using APT and Sudo**
+1.1 **: Install Software in a Linux Distribution**
 - In this lab, I used the **Advanced Package Tool (APT)** and `sudo` commands to install and manage applications in a Debian-based Linux virtual machine, focusing on network security tools like Suricata and tcpdump. Suricata serves as an intrusion detection system, while tcpdump is a packet analyzer for examining network traffic. The use of a virtual machine ensured a safe testing environment with the ability to revert changes if needed. This activity highlighted the importance of mastering Linux application management, a crucial skill for configuring and utilizing security tools effectively as a security analyst.
   
-1.2 **Exploring Linux Shell Interactions: Understanding Input, Output, and Basic Calculations**
+1.2 **Examine Input and Output in the Linux Shell**
 - In this lab, I used the `echo` command to explore how input is received and output is returned in the Linux shell, followed by the `expr` command to perform basic calculations and further understand input and output interactions. This activity provided foundational knowledge of communicating with the Linux operating system through the shell, an essential skill for a security analyst to execute commands effectively and interpret system responses, including error messages.
 
-1.3 **Mastering Linux File Navigation and Analysis for Security Operations**
+1.3 **Find Files with Linux Commands**
 - In this lab activity, I navigated the Linux file structure, located specific files, and read their contents using commands in the Linux shell. This exercise helped me develop essential skills for navigating, managing, and analyzing files remotely through a Linux shell, which is critical for my role as a security analyst.
 
 1.4 **Using grep and Piping for File Searching and Data Extraction**
