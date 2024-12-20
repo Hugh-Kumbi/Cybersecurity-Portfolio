@@ -1,5 +1,7 @@
 # 1. Install Software in a Linux Distribution
 
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
 ## Scenario
 
 Your role as a security analyst requires that you have the Suricata and tcpdump network security applications installed on your system.
@@ -59,6 +61,8 @@ By completing this activity, you will:
 
 # 2. Examine Input and Output in the Linux Shell
 
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
 ## Scenario
 
 As a security professional, it’s important to understand the concept of communicating with your computer via the shell.
@@ -110,6 +114,8 @@ By completing this activity, you will:
 
 # 3. Find Files with Linux Commands 
 
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
 ## Scenario
 
 In this scenario, you have to locate and analyze the information of certain files located in the /home/analyst directory.
@@ -160,6 +166,8 @@ By completing this activity, you will:
 
 # 4. Exemplar: Filter with Grep
 
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
 ## Scenario
 
 In this scenario, you need to obtain information contained in server log and user data files. You also need to find files with specific names.
@@ -190,6 +198,8 @@ By completing this activity, you will:
 2. Develop the ability to use fundamental Linux tools to filter the information you need.
 
 # 5. Manage Files with Linux Commands  
+
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
 ## Scenario
 
@@ -241,6 +251,8 @@ By completing this activity, you will:
 
 # 6. Linux Commands to Manage File Permissions   
 
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
 ## Manage authorization
 
 ### Scenario
@@ -279,26 +291,7 @@ By completing this activity, you will:
 * Change permissions on directories.
 2. Achieve an important milestone in your journey toward managing authorization in Linux.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 3. Linux Commands to Manage File Permissions   
+# 7. Use Linux Commands to Manage File Permissions
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
