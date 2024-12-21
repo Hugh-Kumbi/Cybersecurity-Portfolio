@@ -303,9 +303,24 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 **Note:** This scenario involves investigating and updating the same file permissions as the ones in the **Manage authorization lab.**  You can revisit the lab to get screenshots to include in your portfolio document. If you choose, it's also possible to complete this activity without revisiting the lab by typing your commands in the template.
 
+## Access Supporting Materials
+The following supporting materials will help you complete this activity. Keep them open as you proceed to the next steps. 
+
+To use the supporting materials for this course item, click the following links.
+
+The **Instructions for including Linux commands** document provides instructions and best practices for including samples of Linux commands in your portfolio activity.
+
+  * Link to supporting material: [Instructions for including Linux commands](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Instructions%20for%20Including%20Linux%20Commands.pdf)
+
+The **Current file permissions** document demonstrates how the file structure is built for this portfolio activity. The file permissions for each file or directory are also provided.
+
+  * Link to supporting material: [Current file permissions](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Current%20file%20Permissions.pdf)
+
+**Note:** It is recommended that you use the **Manage authorization** lab to complete this portfolio activity. If you’re revisiting the lab, using the **Current file permissions** document is optional because this file structure has already been created for you.
+
 ## Check File and Directory Details
 
-In the **Manage authorization** lab, check the permissions set for files and subdirectories in the **projects** directory. Make sure you display all permissions, including hidden files. Or, use the content of Current file permissions document to determine the current permissions. 
+In the **Manage authorization** lab, check the permissions set for files and subdirectories in the **projects** directory. Make sure you display all permissions, including hidden files. Or, use the content of [Current file permissions](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Current%20file%20Permissions.pdf) document to determine the current permissions. 
 
 Describe the command you can use to check permissions in the **Check file and directory details** section of the **File permissions in Linux** template. From the lab, take a screenshot of the Linux command you used. Or, type this command directly into the template.
 
@@ -327,9 +342,9 @@ The research team has archived **.project_x.txt**, which is why it’s a hidden 
 
 Describe the command you used and its output in the Change file permissions on a hidden file section of the File permissions in Linux template. In the **Manage authorization** lab, take a screenshot of the Linux command you used. Or, type this command directly into the template.
 
-## Change directory permissions
+## Change Directory Permissions
 
-The files and directories in the projects directory belong to the **researcher2** user. Only **researcher2** should be allowed to access the drafts directory and its contents. Use a Linux command to modify the permissions accordingly.
+The files and directories in the projects directory belong to the **researcher2** user. Only **researcher2** should be allowed to access the **drafts** directory and its contents. Use a Linux command to modify the permissions accordingly.
 
 Describe the command you used and its output in the **Change directory permissions** section of the **File permissions in Linux** template. In the **Manage authorization** lab, take a screenshot of the Linux command you used. Or, type this command directly into the template.
 
@@ -352,13 +367,90 @@ In the Summary section, provide a short summary of the previous tasks and connec
 
 * A summary at the end
 
-* Details on using chmod to update file permissions
+* Details on using **chmod** to update file permissions
 
-* Details on checking file permissions with ls -la
+* Details on checking file permissions with **ls -la**
 
 * Details on interpreting the 10-character string that represents file permissions
 
 * Details on hidden files and directories
+
+# 8. Add and Manage Users with Linux Commands
+
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
+## Scenario 
+
+In this scenario, a new employee with the username researcher9 joins an organization. You have to add them to the system and continue to manage their access during their time with the organization.
+
+Here’s how you’ll do this task: **First**, you’ll add a new employee to the system and then to their primary group. **Second**, you’ll make this employee the owner of a file related to a particular project. **Third**, you’ll add the new employee to a supplementary group. **Finally**, you’ll delete the employee from the system.
+
+### Task 1. Add a New User
+
+A new employee has joined the Research department. In this task, you must add them to the system. The username assigned to them is `researcher9`.
+
+### Task 2. Assign File Ownership
+The new employee, `researcher9`, will take responsibility for `project_r`. In this task, you must make them the owner of the `project_r.txt` file.
+
+The `project_r.txt` file is located in the `/home/researcher2/projects` directory, and owned by the `researcher2` user.
+
+### Task 3. Add the User to a Secondary Group
+A couple of months later, this employee's role at the organization has changed, and they are working in both the Research and the Sales departments.
+
+In this task, you must add `researcher9` to a secondary group (`sales_team`). Their primary group is still `research_team`.
+
+### Task 4. Delete a User
+A year later, `researcher9`, decided to leave the company. In this task, you must remove them from the system.
+
+### Expectations
+By completing this activity, you will:
+
+1. Gain practical experience using basic Linux Bash shell commands to:
+* Add a new user.
+* Add a user to a group.
+* Change user permissions on files.
+* Delete a user.
+2. Achieve an important milestone in your journey toward managing users in Linux.
+
+# 9. Get Help in the Command Line
+
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
+## Scenario 
+
+In this scenario, you have to find more information about commands that you need to use. You also need to discover which command to use to perform a certain task.
+
+Here’s how you’ll do this task: `First`, you’ll explore a few commands you can use in the shell to learn more about other commands. `Next`, you’ll find an option you need to add to a command. `Third`, you’ll use a command to get a brief description of commands so you can identify their differences. `Finally`, you’ll identify the command you need to perform a task.
+
+### Task 1. Learn More About Commands
+
+In this task, you need to explore a few commands you can use in the shell to learn more about the functionality of other commands.
+
+`First`, imagine you can’t quite remember what the `cat` command does and want a quick reminder.
+
+### Task 2. Explore the Useradd Command
+
+In this task, imagine that you want to set the expiration date for a temporary user account. You know that you need to use the `useradd` command for this, but you’re not quite sure how to complete the task. You realize it might involve adding an option to the command.
+
+### Task 3. Explore the Rm and Rmdir Commands
+
+In this task, you need to determine the difference between the `rm` and `rmdir` commands.
+
+Imagine that you’ve used these commands before, but you can’t remember how they’re different.
+
+### Task 4. Determine Which Command to Use
+
+In this task, imagine that you need to create a new group but you can’t remember what command to use. You need to identify a command that will do this by searching for it through keywords. In this case, use the keywords `create new group`.
+
+### Expectations
+By completing this activity, you will:
+
+1. Gain practical experience using basic Linux Bash shell commands to:
+ * Get a short description of a command.
+ * Display the man pages for a command.
+ * Find commands based on keywords about their function.
+2. Develop a valuable skill set for effectively navigating the Linux command line.
+
 
 # 4. Using Filters to SQL Queries  
 
