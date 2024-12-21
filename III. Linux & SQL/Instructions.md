@@ -451,6 +451,52 @@ By completing this activity, you will:
  * Find commands based on keywords about their function.
 2. Develop a valuable skill set for effectively navigating the Linux command line.
 
+# 10. Perform an SQL Query
+
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
+## Scenario 
+
+In this scenario, you have to determine which employee devices must be updated. You also need to investigate user login activity to explore if any unusual activity has occurred.
+
+The information you need is located in the `machines` and `login_attempts` tables in the `organization` database.
+
+Here’s how you’ll do this task: **First**, you’ll obtain information on the employee devices that must be updated. **Next**, you’ll examine the login attempts for unusual activity. **Finally**, you’ll use the `ORDER BY` keyword to sort the data returned by your SQL queries.
+
+### Task 1. Retrieve Employee Device Data
+
+In this task, you need to obtain information on employee devices because your team needs to update them. The information you need is in the `machines` table in the `organization` database.
+
+**First**, you need to retrieve all the information about the employee devices.
+**Next**, you want to focus on the email client running on various devices.
+**Finally**, you need information on the operating systems used on various devices and their last patch date.
+
+### Task 2. Investigate Login Activity
+
+In this task, you need to analyze the information from the log_in_attempts table to determine if any unusual activity has occurred.
+
+**First**, you need to investigate the locations where login attempts were made to ensure that they’re in expected areas (the United States, Canada, or Mexico).
+**Next**, you need to check if login attempts were made outside of the organization's working hours.
+**Finally**, you need to get a complete picture of all login attempts.
+
+### Task 3. Order Login Attempts Data
+
+In this task, you need to use the `ORDER` BY keyword. You'll sequence the data that your query returns according to the login date and time.
+
+**First**, you need to sort the information by date.
+**Next**, you need to further organize the previous results by ordering them by `login_time`.
+
+### Expectations
+
+By completing this activity, you will:
+
+1. Gain practical experience in running basic SQL queries to:
+* Select specific columns from a table.
+* Select all columns from a table using an asterisk (`*`).
+* Sort query results using the `ORDER BY` keyword.
+2. Build a strong foundation for running more advanced queries and applying filters in the future.
+
+
 
 # 4. Using Filters to SQL Queries  
 
