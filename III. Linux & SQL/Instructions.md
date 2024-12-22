@@ -536,6 +536,45 @@ By completing this activity, you will:
 * Use the `LIKE` operator to filter for patterns.
 2. Take an important step toward running SQL queries to extract specific data from a database.
 
+# 12. Apply More Filters in SQL
+
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
+## Scenario
+
+In this scenario, you’re investigating a recent security incident.
+
+You need to gather information about login attempts for certain dates and times. This will help in resolving a security incident.
+
+Here’s how you’ll do this task: **First**, you’ll retrieve login events made after a certain date. **Second**, you’ll narrow the focus of the search to filter logins in a date range. **Third**, you’ll investigate logins that were made at certain times. **Finally**, you’ll filter login attempts based on their event IDs.
+
+### Task 1. Retrieve Login Attempts After a Certain Date
+In this task, you need to investigate a recent security incident. To do this, you need to gather information about login attempts made after a certain date.
+
+**Now**, based on your first query, you find a need to expand the date range to include 2022-05-09 in your search.
+
+### Task 2. Retrieve Logins in a Date Range
+In this task, you need to narrow the focus of the search. Login attempts made after 2022-05-11 shouldn't be included. Use the `BETWEEN` and `AND` operators to return results between `'2022-05-09'` and `'2022-05-11'`.
+
+### Task 3. Investigate logins at certain times
+In this task, you need to investigate logins that were made at certain times. To do this, filter the data in the log_in_attempts table by login time (login_time).
+
+**First**, your organization's typical work hours begin at 07:00:00. Retrieve all login attempts made before 07:00:00 to learn more about the users who are logging in outside of typical hours.
+
+### Task 4. Investigate Logins by Event ID
+In this task, you need to investigate login attempts based on event ID numbers. With this query, you want to return only the event_id, username, and login_date fields from the log_in_attempts table.
+
+### Expectations
+By completing this activity, you will:
+
+1. Gain practical experience applying:
+* The `WHERE` keyword.
+* The `BETWEEN` and `AND` operators.
+* Operators for working with numeric or date and time data types (e.g., `=`, `>`, `>=`).
+2. Build the skills needed to filter data from a table effectively.
+3. Be ready to filter for numbers and dates to extract all sorts of useful information.
+
+
 # 4. Using Filters to SQL Queries  
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
