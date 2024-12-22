@@ -574,6 +574,53 @@ By completing this activity, you will:
 2. Build the skills needed to filter data from a table effectively.
 3. Be ready to filter for numbers and dates to extract all sorts of useful information.
 
+# 13. Filter with AND, OR, and NOT
+
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
+## Scenario
+
+In this scenario, you need to obtain specific information about employees, their machines, and the departments they belong to from the database.
+
+Your team needs data to investigate potential security issues and to update computers.
+
+You are responsible for filtering the required information from the database.
+
+Here’s how you’ll do this task: **First**, you’ll retrieve all failed login attempts after business hours. **Second**, you’ll retrieve all login attempts that occurred on specific dates. **Third**, you’ll retrieve logins that didn't originate in Mexico. **Fourth**, you’ll retrieve information about certain employees in the Marketing department. **Fifth**, you’ll retrieve information about employees in the Finance or the Sales department. **Finally**, you’ll obtain information about employees who are not in the Information Technology department.
+
+### Task 1. Retrieve After Hours Failed Login Attempts
+Your team is investigating failed login attempts that were made after business hours. You want to retrieve this information from the login activity. You’ll identify all unsuccessful attempts after 18:00.
+
+The `login_time` column in the `log_in_attempts` table contains information on when login attempts were made. Office hours end at `'18:00'`.
+
+The `success` column in the `log_in_attempts` table contains values of `TRUE` or `FALSE` to indicate whether the login was successful. MySQL stores Boolean values as `1` for `TRUE`, and `0` for `FALSE`. This means that `TRUE` is represented as `1`, and `FALSE` represented as `0` in the `success` column.
+
+### Task 2. Retrieve Login Attempts on Specific Dates
+Your team is investigating a suspicious event that occurred on `'2022-05-09'`. You want to retrieve all login attempts that occurred on this day and the day before (`'2022-05-08'`).
+
+The `login_date column` in the `log_in_attempts` table contains information on the dates when login attempts were made. 
+
+### Task 3. Retrieve Login Attempts Outside of Mexico
+Now, your team is investigating logins that did not originate in Mexico, and you need to find this information. Note that the country field includes entries with `'MEX'` and `'MEXICO'`. You should use the `NOT` and `LIKE` operators and the matching pattern `'MEX%'`.
+
+### Task 4. Retrieve Employees in Marketing
+For tasks 4, 5 and 6 you need to retrieve the information from the `department` and `office` columns in the `employees` table. 
+
+Your team is updating employee machines, and you need to obtain the information about employees in the `'Marketing'` department who are located in all offices in the East building (such as `'East-170'` or `'East-320'`).
+
+### Task 5. Retrieve Employees in Finance or Sales
+Now, your team needs to perform a different update to the computers of all employees in the Finance or the Sales department, and you need to locate information on these employees. 
+
+### Task 6. Retrieve All Employees not in IT
+Your team needs to make one more update. This update was already made to employee computers in the Information Technology department. The team needs information about employees who are not in that department. You should use the `NOT` operator to identify these employees. 
+
+### Expectations
+By completing this activity, you will:
+
+1. Gain practical experience in using SQL to:
+* Run SQL queries to retrieve information from a database.
+* Apply AND, OR, and NOT operators to filter SQL queries.
+2. Take an important step toward running complex SQL queries to extract specific data from a database.
 
 # 4. Using Filters to SQL Queries  
 
