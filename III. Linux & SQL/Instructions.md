@@ -496,7 +496,45 @@ By completing this activity, you will:
 * Sort query results using the `ORDER BY` keyword.
 2. Build a strong foundation for running more advanced queries and applying filters in the future.
 
+# 11. Filter a SQL query  
 
+> Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
+
+## Scenario
+
+In this scenario, you need to get specific information about employees, their machines, and the departments they’re in. Your team needs this data to perform various tasks, such as running updates, posting a privacy notice in certain departments, and sending an alert to an employee with an issue on a machine.
+
+You are responsible for finding the required information by querying a database. You’ll add filters to your queries to locate the information more quickly.
+
+Here’s how you’ll do this task: **First**, you’ll list all organization machines and their operating systems. **Second**, you’ll list all machines with the operating system OS 2. **Third**, you’ll list all the employees in the Finance and Sales departments. **Fourth**, you’ll obtain information about machines.
+
+### Task 1. List All Organization Machines
+
+In this task, you need to get a list of all organization machines and their operating systems. The data is contained in the `machines` table. You’ll need to use the `SELECT` keyword to return specific columns.
+
+### Task 2. Retrieve a List of the machines with OS 2
+
+In this task, you need to obtain a list of all machines with the `'OS 2'` operating system because these machines need an update. To get this information, you’ll run your first SQL query with a filter.
+
+### Task 3. List Employees in Specific Departments
+
+In this task, you need to retrieve a list of all the employees in the Finance and Sales departments to obtain their office numbers. A notice about handling confidential financial information will be posted to these offices.
+
+### Task 4. Identify Employee Machines
+
+Your team recently discovered that there are issues with machines in the South building. In this task, you need to obtain certain employee and computer information.
+
+A machine in `'South-109'` has an issue. You need to determine which employee uses that computer so you can send them an alert.
+
+Next, your team has determined that there is an issue with all the machines in the South building. Offices in the organization are named with the building name, a hyphen, and the office number in that building (for example, `'South-109'`).
+
+### Expectations
+By completing this activity, you will:
+
+1. Gain practical experience in using SQL to:
+* Apply the WHERE clause to filter query results.
+* Use the LIKE operator to filter for patterns.
+2. Take an important step toward running SQL queries to extract specific data from a database.
 
 # 4. Using Filters to SQL Queries  
 
