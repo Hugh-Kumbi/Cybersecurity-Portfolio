@@ -532,8 +532,8 @@ Next, your team has determined that there is an issue with all the machines in t
 By completing this activity, you will:
 
 1. Gain practical experience in using SQL to:
-* Apply the WHERE clause to filter query results.
-* Use the LIKE operator to filter for patterns.
+* Apply the `WHERE` clause to filter query results.
+* Use the `LIKE` operator to filter for patterns.
 2. Take an important step toward running SQL queries to extract specific data from a database.
 
 # 4. Using Filters to SQL Queries  
