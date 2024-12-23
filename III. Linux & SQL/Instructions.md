@@ -622,7 +622,7 @@ By completing this activity, you will:
 * Apply AND, OR, and NOT operators to filter SQL queries.
 2. Take an important step toward running complex SQL queries to extract specific data from a database.
 
-# 4. Using Filters to SQL Queries  
+# 14. Applying Filters to SQL Queries  
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -632,17 +632,35 @@ You are a security professional at a large organization. Part of your job is to 
 
 Your task is to examine the organization’s data in their **employees** and **log_in_attempts** tables. You’ll need to use SQL filters to retrieve records from different datasets and investigate the potential security issues.
 
-**Note:** This scenario involves the same queries as the ones the **Filter with AND, OR, and NOT** lab. You can revisit the lab to get screenshots to include in your portfolio document. If you choose, it's also possible to complete this activity without revisiting the lab by typing your queries in the template
+**Note:** This scenario involves the same queries as the ones the **Filter with AND, OR, and NOT** lab. You can revisit the lab to get screenshots to include in your portfolio document. If you choose, it's also possible to complete this activity without revisiting the lab by typing your queries in the template.
 
-## Retrieve After Hours Failed login Attempts
+### Step 1. Access the Template
 
-You recently discovered a potential security incident that occurred after business hours. To investigate this, you need to query the **log_in_attempts** table and review after hours login activity. Use filters in SQL to create a query that identifies all failed login attempts that occurred after 18:00. (The time of the login attempt is found in the **login_time** column. The success column contains a value of 0 when a login attempt failed; you can use either a value of **0** or **FALSE** in your query to identify failed login attempts.)
+To use the template for this course item:
+
+Click the following link and select Use Template: [Apply filters to SQL queries](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Apply%20filters%20to%20SQL%20queries.pdf) (In this step, you will just open the template. More instructions for how to use the template will be included in later steps.)
+
+### Step 2. Access Supporting Materials
+
+The following supporting materials will help you complete this activity. Keep them open as you proceed to the next steps. 
+
+***Note:**  It is recommended that you use the **Filter with AND, OR, and NOT** lab to complete this portfolio activity.*
+
+To use the supporting materials for this course item, click the following links:
+
+* The Instructions for including SQL queries document provides instructions and best practices for including samples of SQL queries in your portfolio activity: [Instructions for including SQL queries](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Instructions%20for%20including%20SQL%20queries.pdf)
+
+* The Table formats document describes how the tables used for this portfolio activity are organized: [Table formats](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Table%20formats.pdf)
+
+### Step 3. Retrieve After Hours Failed login Attempts
+
+You recently discovered a potential security incident that occurred after business hours. To investigate this, you need to query the **log_in_attempts** table and review after hours login activity. Use filters in SQL to create a query that identifies all failed login attempts that occurred after 18:00. (The time of the login attempt is found in the **login_time** column. The **success** column contains a value of **0** when a login attempt failed; you can use either a value of **0** or **FALSE** in your query to identify failed login attempts.)
 
 Describe your query and how it works in the Retrieve after hours failed login attempts section of the Apply filters to SQL queries template. 
 
 In the **Filter with AND, OR, and NOT** lab, take a screenshot of the SQL query you used and copy it into the template. Or, type this query directly into the template.
 
-## Retrieve Login Attempts on Specific Dates
+### Step 4. Retrieve Login Attempts on Specific Dates
 
 A suspicious event occurred on 2022-05-09. To investigate this event, you want to review all login attempts which occurred on this day and the day before. Use filters in SQL to create a query that identifies all login attempts that occurred on 2022-05-09 or 2022-05-08. (The date of the login attempt is found in the **login_date** column.)
 
@@ -650,7 +668,7 @@ Describe your query and how it works in the Retrieve login attempts on specific 
 
 In the **Filter with AND, OR, and NOT** lab, take a screenshot of the SQL query you used and copy it into the template. Or, type this query directly into the template.
 
-## Retrieve Login Attempts outside of Mexico
+### Step 5. Retrieve Login Attempts outside of Mexico
 
 There’s been suspicious activity with login attempts, but the team has determined that this activity didn't originate in Mexico. Now, you need to investigate login attempts that occurred outside of Mexico. Use filters in SQL to create a query that identifies all login attempts that occurred outside of Mexico. (When referring to Mexico, the **country** column contains values of both **MEX** and **MEXICO**, and you need to use the **LIKE** keyword with % to make sure your query reflects this.)
 
@@ -658,7 +676,7 @@ Describe your query and how it works in the Retrieve login attempts on specific 
 
 In the **Filter with AND, OR, and NOT** lab, take a screenshot of the SQL query you used and copy it into the template. Or, type this query directly into the template.
 
-## Retrieve employees in Marketing
+### Step 6. Retrieve Employees in Marketing
 
 Your team wants to perform security updates on specific employee machines in the Marketing department. You’re responsible for getting information on these employee machines and will need to query the **employees** table. Use filters in SQL to create a query that identifies all employees in the Marketing department for all offices in the East building.
 
@@ -668,7 +686,7 @@ Describe your query and how it works in the Retrieve employees in Marketing sect
 
 In the **Filter with AND, OR, and NOT** lab, take a screenshot of the SQL query you used and copy it into the template. Or, type this query directly into the template.
 
-## Retrieve employees in Finance or Sales
+### Step 7. Retrieve Employees in Finance or Sales
 
 Your team now needs to perform a different security update on machines for employees in the Sales and Finance departments. Use filters in SQL to create a query that identifies all employees in the Sales or Finance departments. (The department of the employee is found in the **department** column, which contains values that include **Sales** and **Finance**.)
 
@@ -676,7 +694,7 @@ Describe your query and how it works in the Retrieve employees in Finance or Sal
 
 In the **Filter with AND, OR, and NOT** lab, take a screenshot of the SQL query you used and copy it into the template. Or, type this query directly into the template.
 
-## Retrieve all employees not in IT
+### Step 8. Retrieve all Employees not in IT
 
 Your team needs to make one more update to employee machines. The employees who are in the Information Technology department already had this update, but employees in all other departments need it. Use filters in SQL to create a query which identifies all employees not in the IT department. (The department of the employee is found in the **department** column, which contains values that include **Information Technology**.)
 
@@ -684,14 +702,15 @@ Describe your query and how it works in the Retrieve all employees not in IT sec
 
 In the **Filter with AND, OR, and NOT** lab, take a screenshot of the SQL query you used and copy it into the template. Or, type this query directly into the template.
 
-## Summary
+### Step 9. Finalize your Document
+
 To finalize the document and make its purpose clear to potential employers, be sure to complete the Project description and Summary sections of the Apply filters to SQL queries template. 
 
 In the Project description section, give a general overview of the scenario and what you accomplish through SQL. Write two to four sentences.
 
 In the Summary section, provide a short summary of the previous tasks and connect them to the scenario. Write approximately two to four sentences.
 
-## What to Include in Your Response
+### What to Include in Your Response
 
 * Be sure to include the following in your completed activity:
 
@@ -711,42 +730,43 @@ In the Summary section, provide a short summary of the previous tasks and connec
 
 * Details on using **NOT** in filters
 
-# 5. Using SQL Joins to Obtain Precise Data   
+# 15. Using SQL Joins to Obtain Precise Data   
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
 ## Scenario 
 
+In this scenario, you’ll investigate a recent security incident that compromised some machines.
+
 You are a security professional at a large organization. You’ll investigate a recent security incident that compromised some machines.
 
 You are responsible for getting the required information from the database for the investigation.
 
-Here’s how you’ll do this task: First, you’ll use an inner join to identify which employees are using which machines. Second, you’ll use left and right joins to find machines that do not belong to any specific user and users who do not have any specific machine assigned to them. Finally, you’ll use an inner join to list all login attempts made by all employees.
+Here’s how you’ll do this task: **First**, you’ll use an inner join to identify which employees are using which machines. **Second**, you’ll use left and right joins to find machines that do not belong to any specific user and users who do not have any specific machine assigned to them. **Finally**, you’ll use an inner join to list all login attempts made by all employees.
 
-## Match Employees to their Machines
+### Task 1. Match Employees to their Machines
 
-First, you must identify which employees are using which machines. The data is located in the **machines** and **employees** tables.
+1. First, you must identify which employees are using which machines. The data is located in the **machines** and **employees** tables.
 
-You must use a SQL inner join to return the records you need based on a connecting column. In the scenario, both tables include the **device_id column**, which you’ll use to perform the join.
+2. Link the joined tables on a common column. In the case of the `employees` and `machine`s tables, the `device_id` column is common.
 
-Complete the query to perform an inner join between the **machines** and **employees** tables on the **device_id column**. 
-
-**Note:** Placing the **employees** table after **INNER JOIN makes** it the right table.
-
-To complete a join you need to link the joined tables on a common column. In the case of the **employees** and **machines** tables, the **device_id** column is common.
-
-## Return More Data
+### Task 2. Return More Data
 
 You now must return the information on all machines and the employees who have machines. Next, you must do the reverse and retrieve the information of all employees and any machines that are assigned to them.
 
 To achieve this, you’ll complete a left join and a right join on the **employees** and **machines** tables. The results will include all records from one or the other table. You must link these tables using the common **device_id column**.
 
-**Note:** In a left join, all records from the table referenced after **FROM** and before **LEFT JOIN** are included in the result. In this case, all records from the **machines** table are included, regardless of whether they are assigned to an employee or not.
+### Task 3. Retrieve Login Attempt Data
 
-**Note:** In a right join, all records from the table referenced after **RIGHT JOIN** are included in the result. In this case, all records from the **employees** table are included, regardless of whether they have a machine or not.
+To continue investigating the security incident, you must retrieve the information on all employees who have made login attempts. To achieve this, you’ll perform an inner join on the `employees` and `log_in_attempts` tables, linking them on the common `username` column.
 
-## Retrieve Login Attempt Data
+### Expectations
 
-To continue investigating the security incident, you must retrieve the information on all employees who have made login attempts. To achieve this, you’ll perform an inner join on the employees and log_in_attempts tables, linking them on the common username column.
+By completing this activity, you will:
 
-**Note:** You must specify the table name with the column name (table.column) when joining the tables.
+1. Develop the ability to use joins to combine data from multiple tables in a database.
+2. Gain practical experience in using:
+* `INNER JOIN`.
+* `LEFT JOIN`.
+* `RIGHT JOIN`.
+3. Build confidence in using SQL joins to obtain the precise data you need.
