@@ -134,7 +134,7 @@ By completing this activity, you will:
 * Display the contents of files with the `cat` and `head` commands.
 3. Understand that navigating through directories and reading file contents are fundamental skills essential for shell communication.
 
-# 4. Exemplar: Filter with Grep
+# 4. Filter with Grep
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -144,17 +144,15 @@ In this scenario, you need to obtain information contained in server log and use
 
 Here’s how you’ll do this: **First**, you’ll navigate to the logs directory and return the error messages in the server_logs.txt file. **Next**, you’ll navigate to the users directory and search for files that contain a specific string in their names. **Finally**, you’ll search for information contained in user files.
 
-With that in mind, you’re ready to practice what you've learned.
-
 ### Task 1. Search for Error Messages in a Log File
 
 In this task, you must navigate to the `/home/analyst/logs` directory and report on the error messages in the `server_logs.txt file`. You’ll do this by using `grep` to search the file and output only the entries that are for errors.
 
-### Task 2. Find files containing specific strings
+### Task 2. Find Files Containing Specific Strings
 
 In this task, you must navigate to the `/home/analyst/reports/users` directory and use the correct Linux commands and arguments to search for user data files that contain a specific string in their names.
 
-### Task 3. Search more file contents
+### Task 3. Search More File Contents
 
 In this task, you must search for information contained in user files and report on users that were added and deleted from the system.
 
@@ -162,9 +160,9 @@ In this task, you must search for information contained in user files and report
 
 By completing this activity, you will:
 
-1. Gain practical experience using grep to:
+1. Gain practical experience using `grep` to:
 * Search for specific information contained in files.
-* Find files containing specific strings that were piped into grep.
+* Find files containing specific strings that were piped into `grep`.
 2. Develop the ability to use fundamental Linux tools to filter the information you need.
 
 # 5. Manage Files with Linux Commands  
