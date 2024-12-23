@@ -55,11 +55,11 @@ In this scenario, you have to input a specified string of text that you want the
 
 Here’s how you’ll do this: **First**, you’ll use the `echo` command to generate some output in the shell. **Second**, you’ll use the `expr` command to perform basic mathematical calculations. **Next**, you’ll use the `clear` command to clear the Bash shell window. **Finally**, you’ll have an opportunity to explore the `echo` and `expr` commands further.
 
-### Task 1. Generate output with the echo command
+### Task 1. Generate Output With the `Echo` Command
 
 The `echo` command in the Bash shell outputs a specified string of text. In this task, you’ll use the `echo` command to generate output in the Bash shell.
 
-### Task 2. Generate output with the expr command
+### Task 2. Generate Output With the `Expr` Command
 
 In this task, you’ll use the `expr` command to generate some additional output in the Bash shell. The `expr` command performs basic mathematical calculations and can be useful when you need to quickly perform a calculation.
 
@@ -73,7 +73,7 @@ In this task, you’ll use the `clear` command to clear the Bash shell of all ex
 
 When you work in a shell environment, the screen can fill with previous input and output data. This can make it difficult to process what you’re working on. Clearing the screen allows you to create a clutter-free text environment to allow you to focus on what is important at that point in time.
 
-### Optional task: Perform more calculations with the expr command
+### Optional Task: Perform More Calculations With the `Expr` Command
 
 You have the opportunity to explore input and output further using the `echo` and `expr` commands.
 
@@ -96,7 +96,7 @@ By completing this activity, you will:
 3. Understand the importance of input and output when communicating through the shell.
 4. Build confidence with these basic concepts, preparing you to work with additional commands in the future.
 
-# 3. Find Files with Linux Commands 
+# 3. Find Files With Linux Commands 
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -106,7 +106,7 @@ In this scenario, you have to locate and analyze the information of certain file
 
 Here’s how you’ll do this: **First**, you’ll get the information of the current working directory you’re in and display the contents of the directory. **Second**, you’ll navigate to the `reports` directory and list the subdirectories it contains. **Third**, you’ll navigate to the `users` subdirectory and display the contents of the `Q1_added_users.txt file`. **Finally**, you’ll navigate to the `logs` directory and display the first 10 lines of a file it contains.
 
-### Task 1. Get the current directory information
+### Task 1. Get the Current Directory Information
 
 In this task, you must use the commands you learned about to check the current working directory and list its contents.
 
@@ -118,7 +118,7 @@ In this task, you must navigate to a new directory and determine the subdirector
 
 In this task, you must navigate to a subdirectory and read the contents of a file it contains.
 
-### Task 4. Navigate to a directory and locate a file
+### Task 4. Navigate to a Directory and Locate a File
 
 In this task, you must navigate to a new directory, locate a file, and examine the contents of the file.
 
@@ -134,7 +134,7 @@ By completing this activity, you will:
 * Display the contents of files with the `cat` and `head` commands.
 3. Understand that navigating through directories and reading file contents are fundamental skills essential for shell communication.
 
-# 4. Filter with Grep
+# 4. Filter With Grep
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -165,7 +165,7 @@ By completing this activity, you will:
 * Find files containing specific strings that were piped into `grep`.
 2. Develop the ability to use fundamental Linux tools to filter the information you need.
 
-# 5. Manage Files with Linux Commands  
+# 5. Manage Files With Linux Commands  
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
