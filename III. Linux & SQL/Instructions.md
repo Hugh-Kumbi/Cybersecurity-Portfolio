@@ -142,7 +142,7 @@ By completing this activity, you will:
 
 In this scenario, you need to obtain information contained in server log and user data files. You also need to find files with specific names.
 
-Here’s how you’ll do this: **First**, you’ll navigate to the logs directory and return the error messages in the server_logs.txt file. **Next**, you’ll navigate to the users directory and search for files that contain a specific string in their names. **Finally**, you’ll search for information contained in user files.
+Here’s how you’ll do this: **First**, you’ll navigate to the `logs` directory and return the error messages in the `server_logs.txt` file. **Next**, you’ll navigate to the `users` directory and search for files that contain a specific string in their names. **Finally**, you’ll search for information contained in user files.
 
 ### Task 1. Search for Error Messages in a Log File
 
@@ -185,13 +185,13 @@ You need to modify the `/home/analyst` directory to the following directory and 
 
 ![image](https://github.com/user-attachments/assets/a4ef22a1-634d-4d34-a226-7c05b08e413c)
 
-Here’s how you’ll do this: **First**, you’ll create a new subdirectory called logs in the `/home/analyst` directory. **Next**, you’ll remove the temp subdirectory. Then, you’ll move the `Q3patches.txt` file to the reports subdirectory and delete the `tempnotes.txt` file. **Finally**, you’ll create a `new .txt` file called tasks in the notes subdirectory and add a note to the file describing the tasks you've performed.
+Here’s how you’ll do this: **First**, you’ll create a new subdirectory called logs in the `/home/analyst` directory. **Next**, you’ll remove the `temp` subdirectory. **Then**, you’ll move the `Q3patches.txt` file to the `reports` subdirectory and delete the `tempnotes.txt` file. **Finally**, you’ll create a new `.txt` file called `tasks` in the `notes` subdirectory and add a note to the file describing the tasks you've performed.
 
-### Task 1. Create a new directory
+### Task 1. Create a New directory
 First, you must create a dedicated subdirectory called `logs`, which will be used to store all future log files.
 
 ### Task 2. Remove a Directory
-Next, you must remove the temp directory, as you’ll no longer be placing items in it.
+Next, you must remove the `temp` directory, as you’ll no longer be placing items in it.
 
 ### Task 3. Move a File
 
@@ -202,10 +202,10 @@ You must move the  `Q3patches.txt` file from the `notes` directory to the `r
 ### Task 4. Remove a File
 Next, you must delete an unused file called `tempnotes.txt` from the `/home/analyst/notes` directory.
 
-### Task 5. Create a new file
+### Task 5. Create a New File
 Now, you must create a file named `tasks.txt` in the `/home/analyst/notes` directory that you’ll use to document completed tasks.
 
-### Task 6. Edit a file
+### Task 6. Edit a File
 Finally, you must use the nano text editor to edit the `tasks.txt` file and add a note describing the tasks you’ve completed.
 
 ### Expectations
