@@ -221,9 +221,7 @@ By completing this activity, you will:
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
-## Manage authorization
-
-### Scenario
+## Scenario
 In this scenario, you must examine and manage the permissions on the files in the `/home/researcher2/projects` directory for the `researcher2` user.
 
 The `researcher2` user is part of the `research_team` group.
@@ -232,25 +230,25 @@ You must check the permissions for all files in the directory, including any hid
 
 Here’s how you’ll do this task: **First**, you’ll check the user and group permissions for all files in the `projects` directory. **Next**, you’ll check whether any files have incorrect permissions and change the permissions as needed. **Finally**, you’ll check the permissions of the `/home/researcher2/projects/drafts` directory and modify these permissions to remove any unauthorized access.
 
-#### Task 1. Check File and Directory Details
+### Task 1. Check File and Directory Details
 In this task, you must explore the permissions of the `projects` directory and the files it contains. The lab starts with `/home/researcher2` as the current working directory. This is because you're changing permissions for files and directories belonging to the `researcher2` user.
 
-#### Task 2. Change File Permissions
+### Task 2. Change File Permissions
 In this task, you must determine whether any files have incorrect permissions and then change the permissions as needed. This action will remove unauthorized access and strengthen security on the system.
 
 None of the files should allow the other users to write to files.
 
-#### Task 3. Change File Permissions on a Hidden File
+### Task 3. Change File Permissions on a Hidden File
 In this task, you must determine if a hidden file has incorrect permissions and then change the permissions as needed. This action will further remove unauthorized access and strengthen security on the system.
 
 The file `.project_x.txt` is a hidden file that has been archived and should not be written to by anyone. (The user and group should still be able to read this file.)
 
-##### Task 4. Change Directory Permissions
+### Task 4. Change Directory Permissions
 In this task, you must change the permissions of a directory. First, you’ll check the group permissions of the `/home/researcher2/projects/drafts` directory and then modify the permissions as required. (You should be in the `projects` directory while managing the permissions of its subdirectory drafts.)
 
 Only the `researcher2` user should be allowed to access the `drafts` directory and its contents. (This means that only `researcher2` should have execute privileges.)
 
-#### Expectations
+### Expectations
 By completing this activity, you will:
 
 1. Gain practical experience using basic Linux Bash shell commands to:
@@ -271,7 +269,14 @@ Your task is to examine existing permissions on the file system. You’ll need t
 
 **Note:** This scenario involves investigating and updating the same file permissions as the ones in the **Manage authorization lab.**  You can revisit the lab to get screenshots to include in your portfolio document. If you choose, it's also possible to complete this activity without revisiting the lab by typing your commands in the template.
 
-## Access Supporting Materials
+### Step 1. Access the Template
+
+To use the template for this course item, click the following link and select Use Template. (In this step, you will just open the template. More instructions for how to use the template will be included in later steps.)
+
+Link to template: [File permissions in Linux](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/File%20Permissions%20in%20Linux.pdf)
+
+### Step 2. Access Supporting Materials
+
 The following supporting materials will help you complete this activity. Keep them open as you proceed to the next steps. 
 
 To use the supporting materials for this course item, click the following links.
@@ -286,7 +291,7 @@ The **Current file permissions** document demonstrates how the file structure is
 
 **Note:** It is recommended that you use the **Manage authorization** lab to complete this portfolio activity. If you’re revisiting the lab, using the **Current file permissions** document is optional because this file structure has already been created for you.
 
-## Check File and Directory Details
+### Step 3. Check File and Directory Details
 
 In the **Manage authorization** lab, check the permissions set for files and subdirectories in the **projects** directory. Make sure you display all permissions, including hidden files. Or, use the content of [Current file permissions](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/III.%20Linux%20%26%20SQL/Current%20file%20Permissions.pdf) document to determine the current permissions. 
 
@@ -294,29 +299,29 @@ Describe the command you can use to check permissions in the **Check file and di
 
 Then, use either the output of this command in the lab or the content or the **Current file permissions** document to indicate the current permissions. If using the **Current file permissions** document, write these in the 10-character string that would be part of the command's output.
 
-## Describe the Permissions String
+### Step 4. Describe the Permissions String
 
 Choose one example from the output in the previous step. In the **Describe the permissions** string section of the **File permissions in Linux** template, write a short description that explains the 10-character string in the example. You should describe what the 10-character string is for and what each character represents.
 
-## Change File Permissions
+### Step 5. Change File Permissions
 
 The organization does not allow others to have write access to any files. Based on the permissions established in Step 3, identify which file needs to have its permissions modified. Use a Linux command to modify these permissions.
 
 Describe the command you used and its output in the **Change file permissions** section of the **File permissions in Linux** template. In the **Manage authorization** lab, take a screenshot of the Linux command you used. Or, type this command directly into the template.
 
-## Change File Permissions on a Hidden File
+### Step 6. Change File Permissions on a Hidden File
 
 The research team has archived **.project_x.txt**, which is why it’s a hidden file. This file should not have write permissions for anyone, but the user and group should be able to read the file. Use a Linux command to assign **.project_x.txt** the appropriate authorization.
 
 Describe the command you used and its output in the Change file permissions on a hidden file section of the File permissions in Linux template. In the **Manage authorization** lab, take a screenshot of the Linux command you used. Or, type this command directly into the template.
 
-## Change Directory Permissions
+### Step 7. Change Directory Permissions
 
 The files and directories in the projects directory belong to the **researcher2** user. Only **researcher2** should be allowed to access the **drafts** directory and its contents. Use a Linux command to modify the permissions accordingly.
 
 Describe the command you used and its output in the **Change directory permissions** section of the **File permissions in Linux** template. In the **Manage authorization** lab, take a screenshot of the Linux command you used. Or, type this command directly into the template.
 
-## Summary
+### Step 8. Finalize Your Document
 
 To finalize the document and make its purpose clear to potential employers, be sure to complete the **Project description** and **Summary** sections of the **File permissions in Linux** template. 
 
