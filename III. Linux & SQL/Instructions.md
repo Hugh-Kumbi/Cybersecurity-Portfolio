@@ -27,7 +27,7 @@ In this task, you must install Suricata, a network analysis tool used for intrus
 3. Use the APT package manager to uninstall Suricata.
 4. Verify that Suricata has been uninstalled by running the application command again.
 
-### Task 3. Install the tcpdump application
+### Task 3. Install the Tcpdump Application
 
 In this task, you must install the tcpdump application. This is a command-line tool that can be used to capture network traffic in a Linux Bash shell.
 
