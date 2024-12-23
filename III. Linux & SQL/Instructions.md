@@ -134,7 +134,7 @@ By completing this activity, you will:
 * Display the contents of files with the `cat` and `head` commands.
 3. Understand that navigating through directories and reading file contents are fundamental skills essential for shell communication.
 
-# 4. Filter With Grep
+# 4. Filter With `Grep`
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
