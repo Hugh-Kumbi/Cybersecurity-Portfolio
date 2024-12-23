@@ -22,31 +22,17 @@ The Bash shell is the command-line interpreter currently open on the left side o
 
 In this task, you must install Suricata, a network analysis tool used for intrusion detection, and verify that it installed correctly. Then, you’ll uninstall the application.
 
-1. Use the APT package manager to install the Suricata application.
-2. Verify that Suricata is installed by running the newly installed application.
-3. Use the APT package manager to uninstall Suricata.
-4. Verify that Suricata has been uninstalled by running the application command again.
-
 ### Task 3. Install the Tcpdump Application
 
 In this task, you must install the tcpdump application. This is a command-line tool that can be used to capture network traffic in a Linux Bash shell.
-
-* Use the APT package manager to install tcpdump.
 
 ### Task 4. List the Installed Applications
 
 Next, you need to confirm that you’ve installed the required applications. It's important to be able to validate that the correct applications are installed. Often you may want to check that the correct versions are installed as well.
 
-1. Use the APT package manager to list all installed applications.
-2. Search through the list to find the tcpdump application you installed.
-
 ### Task 5. Reinstall the Suricata Application
 
 In this task, you must reinstall the Suricata application and verify that it has installed correctly.
-
-1. Run the command to install the Suricata application.
-2. Use the APT package manager to list the installed applications.
-3. Search through the list to confirm that the Suricata application has been installed.
 
 ### Expectations
 
