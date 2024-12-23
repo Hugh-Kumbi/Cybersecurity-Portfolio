@@ -16,8 +16,6 @@ First, you’ll check that the APT application is installed so that you can use 
 
 The Bash shell is the command-line interpreter currently open on the left side of the screen. You’ll use the Bash shell by typing commands after the prompt. The prompt is represented by a dollar sign ($) followed by the input cursor.
 
-* Confirm that the APT package manager is installed in your Linux environment.
-
 ### Task 2. Install and Uninstall the Suricata Application
 
 In this task, you must install Suricata, a network analysis tool used for intrusion detection, and verify that it installed correctly. Then, you’ll uninstall the application.
