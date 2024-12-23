@@ -9,10 +9,10 @@ This folder contains exercises, solutions, and supporting materials related to f
 1.2 **Examine Input and Output in the Linux Shell**
 - In this lab, I used the `echo` command to explore how input is received and output is returned in the Linux shell, followed by the `expr` command to perform basic calculations and further understand input and output interactions. This activity provided foundational knowledge of communicating with the Linux operating system through the shell, an essential skill for a security analyst to execute commands effectively and interpret system responses, including error messages.
 
-1.3 **Find Files with Linux Commands**
+1.3 **Find Files With Linux Commands**
 - In this lab activity, I navigated the Linux file structure, located specific files, and read their contents using commands in the Linux shell. This exercise helped me develop essential skills for navigating, managing, and analyzing files remotely through a Linux shell, which is critical for my role as a security analyst.
 
-1.4 **Using grep and Piping for File Searching and Data Extraction**
+1.4 **Using `Grep` and `Piping` for File Searching and Data Extraction**
 - In this lab, I used the `grep` command and piping to efficiently search through files and extract specific information. By working with various files, including server log files and user data files, I practiced retrieving targeted data. I completed these tasks using Linux commands in the Bash shell, enhancing my ability to analyze and process file contents as part of my skill set in Linux systems management.
 
 1.5 **Managing Directory Structures and File Editing in Linux**
