@@ -33,16 +33,19 @@ This folder contains exercises, solutions, and supporting materials related to f
 2.1 **Querying Databases with SQL: SELECT, FROM, and ORDER BY**
 - In this lab activity, I used SQL commands to retrieve and organize information from a database. I applied the `SELECT` and `FROM` statements to return specific data and used the `ORDER BY` keyword to sort the query results based on a designated column. As a security analyst, knowing how to query and analyze database information is essential for identifying patterns, improving security, and ensuring data integrity.
 
-2.2 **Filtering Numbers and Dates in SQL: Using Comparison Operators**
+2.2 **Filtering Data in SQL: Applying Basic Query Filters**
+- In this lab activity, I practiced applying basic filters to SQL queries to retrieve specific information from a MariaDB database. By using MariaDB, a widely used open-source relational database compatible with MySQL, I honed my ability to extract targeted data effectively. This exercise was an excellent opportunity to strengthen my SQL skills by adding filters to queries, which is an essential capability for efficiently identifying security-related information and supporting data-driven decision-making as a security analyst.
+
+2.3 **Filtering Numbers and Dates in SQL: Using Comparison Operators**
 - In this lab activity, I worked with numeric and date-based data in SQL, using comparison operators to filter specific results effectively. I applied operators such as `=`, `>`, `<`, `<>`, `>=`, and `<=` to retrieve data based on precise conditions. For example, I filtered records to identify machines needing updates or login attempts occurring within a specific timeframe. As a security analyst, mastering these operators is critical for analyzing numerical and date-related data to identify vulnerabilities, investigate incidents, and maintain system security.
 
-2.3 **Filtering Data with AND, OR, and NOT Operators in SQL**
+2.4 **Filtering Data with AND, OR, and NOT Operators in SQL**
 - In this lab activity, I practiced creating complex SQL queries by applying the `AND`, `OR`, and `NOT` operators to filter data based on multiple conditions. I used these logical operators to refine my queries, retrieving specific information while excluding data that didn’t meet certain criteria. This exercise demonstrated how combining multiple conditions helps in pinpointing precise results, a key skill for analyzing large datasets as a security analyst. Complex queries like these are essential for investigating incidents, identifying anomalies, and improving overall data security.
 
-2.4 **Portfolio Document: Demonstrating SQL Query Skills**
+2.5 **Portfolio Document: Demonstrating SQL Query Skills**
 - In this activity, I created a portfolio document showcasing my experience with SQL, specifically focusing on using the `AND`, `OR`, and `NOT` operators to filter and retrieve data based on multiple conditions. I explained the queries I performed during the lab, detailing how I combined conditions to extract specific information while excluding irrelevant results. This document serves as evidence of my SQL skills and will help me prepare for job interviews and other steps in the hiring process, demonstrating my ability to analyze data effectively as a security analyst.
 
-2.5 **Using SQL Joins to Connect Tables and Retrieve Information**
+2.6 **Using SQL Joins to Connect Tables and Retrieve Information**
 - As part of this lab activity, I used SQL joins to combine data from multiple related tables within a relational database. By leveraging shared columns, I retrieved information that spanned across different tables, enabling me to connect and analyze data efficiently. This skill is crucial for a security analyst, as it allows for a more comprehensive understanding of datasets and provides insights into patterns or issues that might not be apparent when analyzing individual tables in isolation.
 
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
