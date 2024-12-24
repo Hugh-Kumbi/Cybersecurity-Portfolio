@@ -1,4 +1,4 @@
-# 1. Install Software in a Linux Distribution
+# 1.1 Application Management in Linux Using APT and Sudo
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -43,7 +43,7 @@ By completing this activity, you will:
    * List installed applications.
 3. Develop a key skill for managing installed applications in Linux, essential for any security analyst.
 
-# 2. Examine Input and Output in the Linux Shell
+# 1.2 Exploring Linux Shell Interactions: Understanding Input, Output, and Basic Calculations
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -96,7 +96,7 @@ By completing this activity, you will:
 3. Understand the importance of input and output when communicating through the shell.
 4. Build confidence with these basic concepts, preparing you to work with additional commands in the future.
 
-# 3. Find Files With Linux Commands 
+# 1.3 Mastering Linux File Navigation and Analysis for Security Operations 
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -134,7 +134,7 @@ By completing this activity, you will:
 * Display the contents of files with the `cat` and `head` commands.
 3. Understand that navigating through directories and reading file contents are fundamental skills essential for shell communication.
 
-# 4. Filter With `Grep`
+# 1.4 Using Grep and Piping for File Searching and Data Extraction
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -165,7 +165,7 @@ By completing this activity, you will:
 * Find files containing specific strings that were piped into `grep`.
 2. Develop the ability to use fundamental Linux tools to filter the information you need.
 
-# 5. Manage Files With Linux Commands  
+# 1.5 Managing Directory Structures and File Editing in Linux  
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -217,7 +217,7 @@ By completing this activity, you will:
 * Edit files with the nano text editor.
 2. Develop the skills needed to manage directories and files effectively in a Linux environment.
 
-# 6. Linux Commands to Manage File Permissions   
+# 1.6 Configuring Authorization and Managing Permissions in Linux   
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -257,7 +257,7 @@ By completing this activity, you will:
 * Change permissions on directories.
 2. Achieve an important milestone in your journey toward managing authorization in Linux.
 
-# 7. Use Linux Commands to Manage File Permissions
+# 1.7 Portfolio Document: Demonstrating File Permission Management in Linux
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -348,13 +348,13 @@ In the Summary section, provide a short summary of the previous tasks and connec
 
 * Details on hidden files and directories
 
-# 8. Add and Manage Users with Linux Commands
+# 1.8 Managing User Access in Linux
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
 ## Scenario 
 
-In this scenario, a new employee with the username researcher9 joins an organization. You have to add them to the system and continue to manage their access during their time with the organization.
+In this scenario, a new employee with the username `researcher9` joins an organization. You have to add them to the system and continue to manage their access during their time with the organization.
 
 Here’s how you’ll do this task: **First**, you’ll add a new employee to the system and then to their primary group. **Second**, you’ll make this employee the owner of a file related to a particular project. **Third**, you’ll add the new employee to a supplementary group. **Finally**, you’ll delete the employee from the system.
 
@@ -363,19 +363,23 @@ Here’s how you’ll do this task: **First**, you’ll add a new employee to th
 A new employee has joined the Research department. In this task, you must add them to the system. The username assigned to them is `researcher9`.
 
 ### Task 2. Assign File Ownership
+
 The new employee, `researcher9`, will take responsibility for `project_r`. In this task, you must make them the owner of the `project_r.txt` file.
 
 The `project_r.txt` file is located in the `/home/researcher2/projects` directory, and owned by the `researcher2` user.
 
 ### Task 3. Add the User to a Secondary Group
+
 A couple of months later, this employee's role at the organization has changed, and they are working in both the Research and the Sales departments.
 
 In this task, you must add `researcher9` to a secondary group (`sales_team`). Their primary group is still `research_team`.
 
 ### Task 4. Delete a User
+
 A year later, `researcher9`, decided to leave the company. In this task, you must remove them from the system.
 
 ### Expectations
+
 By completing this activity, you will:
 
 1. Gain practical experience using basic Linux Bash shell commands to:
@@ -385,7 +389,7 @@ By completing this activity, you will:
 * Delete a user.
 2. Achieve an important milestone in your journey toward managing users in Linux.
 
-# 9. Get Help in the Command Line
+# 1.9 Exploring Linux Command Documentation
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -393,7 +397,7 @@ By completing this activity, you will:
 
 In this scenario, you have to find more information about commands that you need to use. You also need to discover which command to use to perform a certain task.
 
-Here’s how you’ll do this task: `First`, you’ll explore a few commands you can use in the shell to learn more about other commands. `Next`, you’ll find an option you need to add to a command. `Third`, you’ll use a command to get a brief description of commands so you can identify their differences. `Finally`, you’ll identify the command you need to perform a task.
+Here’s how you’ll do this task: **First**, you’ll explore a few commands you can use in the shell to learn more about other commands. **Next**, you’ll find an option you need to add to a command. **Third**, you’ll use a command to get a brief description of commands so you can identify their differences. **Finally**, you’ll identify the command you need to perform a task.
 
 ### Task 1. Learn More About Commands
 
@@ -405,7 +409,7 @@ In this task, you need to explore a few commands you can use in the shell to lea
 
 In this task, imagine that you want to set the expiration date for a temporary user account. You know that you need to use the `useradd` command for this, but you’re not quite sure how to complete the task. You realize it might involve adding an option to the command.
 
-### Task 3. Explore the Rm and Rmdir Commands
+### Task 3. Explore the `Rm` and `Rmdir` Commands
 
 In this task, you need to determine the difference between the `rm` and `rmdir` commands.
 
@@ -424,7 +428,7 @@ By completing this activity, you will:
  * Find commands based on keywords about their function.
 2. Develop a valuable skill set for effectively navigating the Linux command line.
 
-# 10. Perform an SQL Query
+# 2.1 Querying Databases with SQL: SELECT, FROM, and ORDER BY
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -469,7 +473,7 @@ By completing this activity, you will:
 * Sort query results using the `ORDER BY` keyword.
 2. Build a strong foundation for running more advanced queries and applying filters in the future.
 
-# 11. Filter a SQL query  
+# 2.2 Filtering Data in SQL: Applying Basic Query Filters  
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -509,7 +513,7 @@ By completing this activity, you will:
 * Use the `LIKE` operator to filter for patterns.
 2. Take an important step toward running SQL queries to extract specific data from a database.
 
-# 12. Apply More Filters in SQL
+# 2.3 Filtering Numbers and Dates in SQL: Using Comparison Operators
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -547,7 +551,7 @@ By completing this activity, you will:
 2. Build the skills needed to filter data from a table effectively.
 3. Be ready to filter for numbers and dates to extract all sorts of useful information.
 
-# 13. Filter with AND, OR, and NOT
+# 2.4 Filter with AND, OR, and NOT
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -595,7 +599,7 @@ By completing this activity, you will:
 * Apply AND, OR, and NOT operators to filter SQL queries.
 2. Take an important step toward running complex SQL queries to extract specific data from a database.
 
-# 14. Applying Filters to SQL Queries  
+# 2.5 Portfolio Document: Demonstrating SQL Query Skills  
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -703,7 +707,7 @@ In the Summary section, provide a short summary of the previous tasks and connec
 
 * Details on using **NOT** in filters
 
-# 15. Using SQL Joins to Obtain Precise Data   
+# 2.6 Using SQL Joins to Connect Tables and Retrieve Information   
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
