@@ -108,6 +108,8 @@ A **risk register** is a central record of potential risks to an organization's 
 
 Your supervisor asks you to evaluate a set of risks that the cybersecurity team has recorded in the risk register. For each risk, you will first determine how likely that risk is to occur. Then, you will determine how severely that risk may impact the bank. Finally, you will calculate a score for the severity of that risk. You will then compare scores across all risks so your team can determine how to prioritize their attention for each risk.
 
+## Step-By-Step Instructions
+
 ### Step 1. Access the template
 To use the template for this course item, click the following link and select Use Template. 
 
