@@ -92,11 +92,17 @@ Find the **Sensitivity** column in the asset inventory. Type one of the four lev
 
 ### What to Include in Your Response 
 
-* Develop and implement custom rules in Suricata.
-* Analyze network traffic using packet capture (PCAP) files.
-* Review and interpret output logs, including `fast.log` and `eve.json`.
+Be sure to include the following elements in your completed activity: 
 
-# Conducting a Risk Assessment for Business Operations   
+* List of 3 devices on the home network
+
+* List network access, owner, and location for each device
+
+* 1–2 notes on network access
+
+* A sensitivity classification
+
+# 2.1 Conducting a Risk Assessment for Business Operations   
 
 > Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
 
@@ -210,3 +216,144 @@ Be sure to address the following criteria in your completed activity:
 * 5 severity scores
 
 * 5 overall risk scores
+
+# 3.1 Determining Appropriate Data Handling Practices
+
+> Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
+
+## Scenario 
+
+You work for an educational technology company that developed an application to help teachers automatically grade assignments. The application handles a wide range of data that it collects from academic institutions, instructors, parents, and students.
+
+Your team was alerted to a data leak of internal business plans on social media. An investigation by the team discovered that an employee accidentally shared those confidential documents with an external business partner. An audit into the leak is underway to determine how similar incidents can be avoided.
+
+A supervisor provided you with information regarding the leak. It appears that the principle of least privilege was not observed by employees at the company during a sales meeting. You have been asked to analyze the situation and find ways to prevent it from happening again.
+
+First, you'll need to evaluate details about the incident. Then, you'll review the controls in place to prevent data leaks. Next, you'll identify ways to improve information privacy at the company. Finally, you'll justify why you think your recommendations will make data handling at the company more secure.
+
+## Step-By-Step Instructions
+
+### Step 1. Access the Template
+
+To use the template for this course item, click the link and select Use Template.
+
+Link to template: [Data leak worksheet](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Activity%20Template_%20Data%20leak%20worksheet.pdf)
+
+### Step 2. Analyse the Situation
+
+The principle of least privilege is a fundamental security control that helps maintain information privacy. However, least privilege starts to lose its effectiveness when too many users are given access to information. Data leaks commonly happen as information gets passed between people without oversight.
+
+To start your analysis, review the following incident summary provided by your supervisor:
+
+*A customer success representative received access to a folder of internal documents from a manager. It contained files associated with a new product offering, including customer analytics and marketing materials. The manager forgot to unshare the folder. Later, the representative copied a link to the marketing materials to share with a business partner during a sales call. Instead, the representative shared a link to the entire folder. During the sales call, the business partner received the link to internal documents and posted it to their social media page.*
+
+After reviewing the summary, write **20-60 words (2-3 sentences)** in the **Issue(s)** row of the Data leak worksheet describing the factors that led to the data leak.  
+
+### Step 3.  Review Current Data Privacy Controls
+
+Data leaks are a major risk due to the amount of data handled by the application. The company used the NIST Cybersecurity Framework (CSF) to develop their plan for addressing their information privacy concerns.
+
+Review the **Security plan snapshot** resource of the worksheet. Then, review the **NIST SP 800-53: AC-6** resource of the worksheet.
+
+After, write **20-60 words (2-3 sentences)** in the **Review** row of the Data leak worksheet to summarize what you've learned about NIST SP 800-53: AC-6.
+
+### Step 4. Identify Control Enhancements
+
+The company's implementation of least privilege is based on NIST Special Publication 800-53 (SP 800-53). NIST developed SP 800-53 to provide businesses with a customizable information privacy plan. It's a comprehensive resource that describes a wide range of control categories, including least privilege.
+
+Use the **NIST SP 800-53: AC-6** resource to determine two control enhancements that might have prevented the data leak. List the **two improvements** in the **Recommendation(s)** row of the worksheet.
+
+### Step 5. Justify Your Recommendations
+
+At the end of your analysis, it's time to communicate your findings to your supervisor. It's important to justify your recommendations so that the supervisor can relay this information to other decision makers at the company.
+
+Consider the issues you identified earlier. Then, write **20-60 words (2-3 sentences)** in the **Justification** row describing why you think the control enhancements you recommend will reduce the likelihood of another data leak.
+
+### What to Include in Your Response 
+
+Be sure to address the following elements in your completed activity: 
+
+* 2-3 sentences analyzing the factors that led to the incident
+
+* 2-3 sentences summarizing NIST SP 800-53: AC-6
+
+* 2 control enhancement recommendations to improve least privilege 
+
+* 2-3 sentences justifying your recommendations
+
+# 4.1 Decrypting an Encrypted Message
+
+> Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
+
+## Scenario
+
+In this scenario, all of the files in your home directory have been encrypted. You’ll need to use Linux commands to break the Caesar cipher and decrypt the files so that you can read the hidden messages they contain.
+
+Here’s how you’ll do this task: **First**, you’ll explore the contents of the home directory and read the contents of a file. **Next**, you’ll find a hidden file and decrypt the Caesar cipher it contains. **Finally**, you’ll decrypt the encrypted data file to recover your data and reveal the hidden message.
+
+**Note:** *The lab starts with you logged in as user analyst, with your home directory, /home/analyst, as the current working directory.*
+
+### Task 1. Read the Contents of a File
+
+The lab starts in your home directory, `/home/analyst`, as the current working directory.
+
+In this task, you need to explore the contents of your home directory and read the contents of a file to get further instructions.
+
+### Task 2. Find a Hidden File
+
+In this task, you need to find a hidden file in your home directory and decrypt the Caesar cipher it contains. This task will enable you to complete the next task.
+
+### Task 3. Decrypt a File
+
+Now that you have solved the Caesar cipher, in this task you need to use the command revealed in `.leftshift3` to decrypt a file and recover your data so you can read the message it contains.
+
+### Expectations
+
+By completing this activity, you will:
+
+1. Gain practical experience in using basic Linux Bash shell commands to:
+* List hidden files.
+* Decrypt a Caesar cipher.
+* Decrypt an encrypted file.
+
+2. Achieve an important milestone on your journey toward understanding encryption and decryption.
+
+# 5.1 Comparing Hash Values: Identifying File Modifications
+
+> Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
+
+## Scenario
+
+In this scenario, you need to investigate whether two files are identical or different.
+
+Here’s how you'll do this task: **First**, you’ll display the contents of two files and create hashes for each file. **Next**, you’ll examine the hashes and compare them.
+
+### Task 1. Generate Hashes for Files
+
+The lab starts in your home directory, `/home/analyst`, as the current working directory. This directory contains two files `file1.txt` and `file2.txt`, which contain same data.
+
+In this task, you need to display the contents of each of these files. You’ll then generate a hash value for each of these files and send the values to new files, which you’ll use to examine the differences in these values later.
+
+### Task 2. Compare Hashes
+
+In this task, you’ll write the hashes to two separate files and then compare them to find the difference.
+
+### Expectations
+
+By completing this activity, you will:
+
+1. Gain practical experience in:
+* Computing hashes using sha256sum.
+* Displaying hashes using the cat command.
+* Comparing hashes using the cmp command.
+2. Develop valuable skills for validating data integrity, contributing to your organization’s security.
+
+
+
+
+
+
+
+
+
+
