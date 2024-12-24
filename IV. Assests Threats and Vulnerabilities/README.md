@@ -30,24 +30,6 @@ This folder contains exercises, solutions, and supporting materials related to m
 1.9  **Xxxxx**
 - xxxxxxxxxxxxx
 
-2.1  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.2  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.3  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.4  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.5  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.6 **Xxxxx**
-- xxxxxxxxxxxxx
-
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
@@ -60,12 +42,6 @@ This folder contains exercises, solutions, and supporting materials related to m
 - **Exercise 7:** []()
 - **Exercise 8:** []()
 - **Exercise 9:** []()
-- **Exercise 10:** []()
-- **Exercise 11:** []()
-- **Exercise 12:** []()
-- **Exercise 13:** []()
-- **Exercise 14:** []()
-- **Exercise 15:** []()
 
 ## Supporting Materials
 - **Home Asset Inventory:** [Home Asset Inventory](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Home%20Asset%20Inventory.xlsx)
