@@ -1,74 +1,96 @@
-# Intrusion Detection Systems (IDS) - Suricata
+# 1.1 Intrusion Detection Systems (IDS) - Suricata
 
-> Suricata is a powerful open-source tool that serves as an intrusion detection system (IDS), intrusion prevention system (IPS), and network analysis platform.
-
-> An IDS is a security application designed to monitor system and network activity, identifying and alerting on potential intrusions. These technologies enable organizations to detect signs of malicious activity, helping them safeguard their systems and networks effectively.
-
-## Overview
-There are three ways Suricata can be used: 
-1. **Intrusion detection system (IDS):** Monitor network traffic and alert on suspicious activities and intrusions. In a practical way, it can be a host-based IDS to monitor system and network activities of a single host like a computer.
-2. **Intrusion prevention system (IPS):** Detect and block malicious activity and traffic. It requires additional configuration such as enabling IPS mode.
-3. **Network security monitoring (NSM):** Produce and save relevant network logs (live network traffic, existing packet capture files, full or conditional packet captures). This is beneficial for forensics, incident response and for testing signatures.
-
-## Rules 
-Rules or signatures are used to identify specific patterns, behavior, and conditions of network traffic that might indicate malicious activity. The terms rule and signature are often used interchangeably in Suricata. Security analysts use **signatures**, or patterns associated with malicious activity, to detect and alert on specific malicious activity. Rules can also be used to provide additional context and visibility into systems and networks, helping to identify potential security threats or vulnerabilities. 
-
-Suricata uses **signatures analysis**, which is a detection method used to find events of interest. Signatures consist of three components:
-1. **Action:** The first component of a signature. It describes the action to take if network or system activity matches the signature. Examples include: alert, pass, drop, or reject.
-2. **Header:** The header includes network traffic information like source and destination IP addresses, source and destination ports, protocol, and traffic direction.
-3. **Rule options:** The rule options provide you with different options to customize signatures.
-
-![Suricata signature](https://github.com/user-attachments/assets/4f5f6188-b2fb-4a6e-a90c-edca0aeee97a)
+> Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
 
 ## Scenario
 
-In this scenario, you’re a security analyst who must monitor traffic on your employer's network. You’ll be required to configure Suricata and use it to trigger alerts.
+Review the following scenario. Then, complete the step-by-step instructions.
 
-Here’s how you'll do this task: **First**, you'll explore custom rules in Suricata. **Second**, you'll run Suricata with a custom rule in order to trigger it, and examine the output logs in the `fast.log` file. **Finally**, you’ll examine the additional output that Suricata generates in the standard `eve.json` log file.
+One of the most valuable assets in the world today is information. Most information is accessed over a network. There tend to be a variety of devices connected to a network and each is a potential entry point to other assets.
 
-For the purposes of the tests you’ll run in this lab activity, you’ve been supplied with a `sample.pcap` file and a `custom.rules` file. These reside in your home folder.
+An inventory of network devices can be a useful asset management tool. An inventory can highlight sensitive assets that require extra protection.
 
-Let’s define the files: 
+![Network devices](https://github.com/user-attachments/assets/8359b017-a3c6-4304-99a6-67b440457182)
 
-* The `sample.pcap` file is a packet capture file that contains an example of network traffic data, which you’ll use to test the Suricata rules. This will allow you to simulate and repeat the exercise of monitoring network traffic.
-  
-* The `custom.rules` file contains a custom rule when the lab activity starts. You’ll add rules to this file and run them against the network traffic data in the `sample.pcap` file.
+You’re operating a small business from your home and must create an inventory of your network devices. This will help you determine which ones contain sensitive information that require extra protection.
 
-* The `fast.log` file will contain the alerts that Suricata generates. The `fast.log` file is empty when the lab starts. Each time you test a rule, or set of rules, against the sample network traffic data, Suricata adds a new alert line to the `fast.log` file when all the conditions in any of the rules are met. The `fast.log` file can be located in the `/var/log/suricata` directory after Suricata runs.The `fast.log` file is considered to be a depreciated format and is not recommended for incident response or threat hunting tasks but can be used to perform quick checks or tasks related to quality assurance.
+To do this, you will start by identifying three devices that have access to your home network. This might include devices such as:
 
-* The `eve.json` file is the main, standard, and default log for events generated by Suricata. It contains detailed information about alerts triggered, as well as other network telemetry events, in JSON format. The `eve.json` file is generated when Suricate runs, and can also be located in the `/var/log/suricata` directory.
+* Desktop or laptop computers
 
-When you create a new rule, you'll need to test the rule to confirm whether or not it worked as expected. You can use the `fast.log` file to quickly compare the number of alerts generated each time you run Suricata to test a signature against the `sample.pcap` file.
+* Smartphones
 
-## Task 1. Examine a custom rule in Suricata
+* Smart home devices
 
-1. Use the `cat` command to display the rule in the `custom.rules` file
+* Game consoles
 
-## Task 2. Trigger a custom rule in Suricata
+* Storage devices or servers
 
-Now that you are familiar with the composition of the custom Suricata rule, you must trigger this rule and examine the alert logs that Suricata generates.
+* Video streaming devices
 
-1. List the files in the `/var/log/suricata` folder
+Then, you’ll list important characteristics of each device such as its owner, location, and type. Finally, you will assign each device a level of sensitivity based on how important it is to protect.
 
-2. Run suricata using the `custom.rules`  and `sample.pcap` files
+## Step-By-Step Instructions
 
-3. List the files in the `/var/log/suricata` folder again
+### Step 1. Access the Template
 
-4. Use the `cat` command to display the `fast.log` file generated by Suricata
+To use the template for this course item, click the link below and select Use Template. 
 
-## Task 3. Examine eve.json output
+Link to template: [Home asset inventory](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Home%20Asset%20Inventory.xlsx)
 
-1. Use the `cat` command to display the entries in the `eve.json` file
+### Step 2: Identify Assets
 
-2. Use the `jq` command to display the entries in an improved format
+In the asset inventory spreadsheet, find the **Asset** column header. Consider the devices that may be connected to the home network. Examine devices in the scenario graphic to help you brainstorm.
 
-3. Press **Q** to exit the `less` command and to return to the command-line prompt.
+Choose three devices that are not already listed in the spreadsheet and add them to the empty rows in the **Asset** column.
 
-4. Use the `jq` command to extract specific event data from the `eve.json` file
+***Note:** A few devices, like a network router, desktop, and a guest smartphone have already been added for your reference.*
 
-5. Use the `jq` command to display all event logs related to a specific `flow_id` from the `eve.json` file. The `flow_id` value is a 16-digit number and will vary for each of the log entries. 
+### Step 3: Fill in the Characteristics of Each Asset
 
-## Expectation 
+List important characteristics, including **Network access**, **Owner**, and **Location** for each asset that you’ve identified.
+
+Here’s an explanation of each characteristic: 
+
+* **Network access** describes how often the device is connected to the network.
+
+* **Owner** describes the person responsible for the device.
+
+* **Location** describes where the device is located in relation to the router.
+
+### Step 4: Evaluate the Access of Network Devices 
+
+Review the information that you’ve listed in the **Network access**, **Owner**, and **Location** columns.
+
+In the **Notes** column, record 1 or 2 details or characteristics of each device. Do this by asking yourself questions about each:
+
+* *What kind of information is stored on the device?*
+
+* *How does it connect to the network?*
+
+* *Is the owner careful about securing it?*
+
+For example, the desktop computer contains sensitive information, like photos, that only the owner should have access to. In contrast, the network router uses one frequency for smart home devices and another for all other devices.
+
+***Note:** Keep in mind that there might be some variation within each category. Try to identify details that could impact the confidentiality, integrity, or availability of information that’s connected to the network.*
+
+## Step 5: Classify the Sensitivity of Network Devices
+
+It’s time to classify assets based on the information you’ve collected. Do this by thinking about how an asset could impact your business if its security was compromised:
+
+* *What types of information would be disclosed or stolen?*
+
+* *Could an attacker alter information on the device?*
+
+* *What would happen to the business if this information were destroyed?*
+
+For example, the network router is classified as confidential because the owner has granted limited access to the device to specific users.
+
+Find the **Sensitivity** column in the asset inventory. Type one of the four levels of sensitivity you previously learned about.
+
+***Note:** You can use the Categories table as a guide for choosing an appropriate classification.*
+
+### Expectation 
 
 * Develop and implement custom rules in Suricata.
 * Analyze network traffic using packet capture (PCAP) files.
