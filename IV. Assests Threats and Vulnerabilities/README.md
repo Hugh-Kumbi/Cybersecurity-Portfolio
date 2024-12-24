@@ -12,8 +12,8 @@ This folder contains exercises, solutions, and supporting materials related to m
 3.1  **Reviewing a Data Risk Assessment**
 - In this activity, I reviewed the results of a data risk assessment to evaluate whether effective data handling processes were being implemented to protect information privacy. I analyzed the application of technical, operational, and managerial controls, focusing on the principle of least privilege as a key strategy for safeguarding sensitive data. This task highlighted the importance of protecting diverse assets, from intellectual property to network access, and reinforced best practices in data protection and privacy management.
 
-1.4  **Xxxxx**
-- xxxxxxxxxxxxx
+1.4  **Exploring Cryptography: Decrypting Files and Revealing Hidden Messages**
+- In this lab activity, I applied my knowledge of cryptography to secure and analyze data online. Using Linux commands, I performed basic cryptographic tasks, including decrypting files and uncovering hidden messages. This activity built on my understanding of encryption and decryption, which are essential tools for protecting information privacy. It also deepened my familiarity with foundational cryptographic techniques, such as the Caesar cipher, and reinforced the importance of implementing effective security controls to safeguard sensitive data.
 
 1.5  **Xxxxx**
 - xxxxxxxxxxxxx
