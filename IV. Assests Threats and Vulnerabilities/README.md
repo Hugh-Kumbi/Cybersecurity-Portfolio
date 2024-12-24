@@ -12,11 +12,11 @@ This folder contains exercises, solutions, and supporting materials related to m
 3.1  **Reviewing a Data Risk Assessment**
 - In this activity, I reviewed the results of a data risk assessment to evaluate whether effective data handling processes were being implemented to protect information privacy. I analyzed the application of technical, operational, and managerial controls, focusing on the principle of least privilege as a key strategy for safeguarding sensitive data. This task highlighted the importance of protecting diverse assets, from intellectual property to network access, and reinforced best practices in data protection and privacy management.
 
-1.4  **Exploring Cryptography: Decrypting Files and Revealing Hidden Messages**
+4.1  **Exploring Cryptography: Decrypting Files and Revealing Hidden Messages**
 - In this lab activity, I applied my knowledge of cryptography to secure and analyze data online. Using Linux commands, I performed basic cryptographic tasks, including decrypting files and uncovering hidden messages. This activity built on my understanding of encryption and decryption, which are essential tools for protecting information privacy. It also deepened my familiarity with foundational cryptographic techniques, such as the Caesar cipher, and reinforced the importance of implementing effective security controls to safeguard sensitive data.
 
-1.5  **Xxxxx**
-- xxxxxxxxxxxxx
+1.5  **Comparing Hash Values: Identifying File Modifications**
+- In this lab activity, I explored the use of hash functions to ensure file integrity and detect potential threats. By using Linux commands, I generated hash values for two files and manually compared them to identify differences. This hands-on approach emphasized the importance of hashing as a security control, as hash values serve as unique identifiers for files. It also highlighted how modifications, such as those in malicious programs, can be detected by comparing hash values. This lab reinforced my ability to use hashing to protect organizations against threats and maintain data integrity.
 
 1.6  **Xxxxx**
 - xxxxxxxxxxxxx 
