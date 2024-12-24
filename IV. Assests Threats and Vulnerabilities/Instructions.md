@@ -90,7 +90,7 @@ Find the **Sensitivity** column in the asset inventory. Type one of the four lev
 
 ***Note:** You can use the Categories table as a guide for choosing an appropriate classification.*
 
-### Expectation 
+### Expectations 
 
 * Develop and implement custom rules in Suricata.
 * Analyze network traffic using packet capture (PCAP) files.
