@@ -3,8 +3,8 @@
 This folder contains exercises, solutions, and supporting materials related to managing assets, threats, and vulnerabilities in cybersecurity. It highlights the importance of implementing security controls and adopting a threat actor mindset to safeguard an organization’s assets against risks, threats, and vulnerabilities.
 
 ## Contents
-1.1  **Xxxxx**
-- xxxxxxxxxxxxx
+1.1  **Classifying Assets on a Home Network**
+- In this activity, I classified assets connected to a home office network. I began by creating an asset inventory, cataloging all assets that require protection. Using asset management principles, I then classified these assets based on their importance and sensitivity to potential risks. This foundational task is essential for understanding and mitigating threats to critical resources. Completing this activity helped me strengthen my skills in asset management, a crucial aspect of any organization's security plan.
   
 1.2  **Xxxxx**
 - xxxxxxxxxxxxx
@@ -68,7 +68,7 @@ This folder contains exercises, solutions, and supporting materials related to m
 - **Exercise 15:** []()
 
 ## Supporting Materials
-- **Apply filters to SQL queries.pdf:** []()
+- **Home Asset Inventory:** [Home Asset Inventory](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Home%20Asset%20Inventory.xlsx)
 - **Current file Permissions.pdf:** []()
 - **File Permissions in Linux.pdf:** []()
 - **Instructions for Including Linux Commands.pdf:** []()
