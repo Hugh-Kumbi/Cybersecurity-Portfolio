@@ -32,7 +32,7 @@ Then, you’ll list important characteristics of each device such as its owner, 
 
 ## Step-By-Step Instructions
 
-### Step 1. Access the Template
+### Step 1: Access the Template
 
 To use the template for this course item, click the link below and select Use Template. 
 
@@ -116,12 +116,12 @@ Your supervisor asks you to evaluate a set of risks that the cybersecurity team 
 
 ## Step-By-Step Instructions
 
-### Step 1. Access the template
+### Step 1: Access the template
 To use the template for this course item, click the following link and select Use Template. 
 
 Link to template: [Risk register](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Risk%20Register.pdf)
 
-### Step 2. Understand the Operating Environment
+### Step 2: Understand the Operating Environment
 
 When conducting a risk assessment, it's important to consider the factors that could cause a security event. This often starts with understanding the operating environment.
 
@@ -129,7 +129,7 @@ In this scenario, your team has identified characteristics of the operating envi
 
 *The bank is located in a coastal area with low crime rates. Many people and systems handle the bank's data—100 on-premise employees and 20 remote employees. The customer base of the bank includes 2,000 individual accounts and 200 commercial accounts. The bank's services are marketed by a professional sports team and ten local businesses in the community. There are strict financial regulations that require the bank to secure their data and funds, like having enough cash available each day to meet Federal Reserve requirements.*
 
-### Step 3.  Consider Potential Risks to Assets
+### Step 3:  Consider Potential Risks to Assets
 
 Security events are possible when assets are at risk. The source of a risk can range from malicious attackers to accidental human errors. A risk source can even come from natural or environmental hazards, such as a structural failure or power outage.
 
@@ -147,7 +147,7 @@ The bank's funds are one of its key assets. Your team has listed five primary ri
 
 Consider these potential risks in relation to the bank's operating environment. Then, write **2-3 sentences (40-60 words)** in the **Notes** area of the template describing how security events are possible considering the risks facing the funds in this operating environment.
 
-### Step 4. Score Risks Based on their Likelihood
+### Step 4: Score Risks Based on their Likelihood
 
 As you might recall, risk can be calculated with this simple formula:
 
@@ -173,7 +173,7 @@ In this instance, the team is scoring the likelihood of an event on a scale of 1
 
 Review the **Risk(s)**, **Description**, and **Notes** of the risk register template. Refer to the risk matrix and use it to estimate a likelihood score for each risk. Then, enter a **score (1-3)** for each risk in the **Likelihood** column of the register.
 
-### Step 5.  Score Risks Based on their Severity
+### Step 5:  Score Risks Based on their Severity
 
 A severity score is an estimate of the overall impact that might occur as a result of an event. For example, damage can occur to a company's reputation or finances and there may be a loss of data, customers, or assets. Evaluating the severity of a risk helps businesses determine the level of risk they can tolerate and how assets might be affected. 
 
@@ -199,7 +199,7 @@ Use the top row of the risk matrix and consider the potential impact of each ris
 
 For example, a leak of financial records might lead to a loss of profits, a loss of customers, and heavy regulatory fines. A risk such as this might receive a severity score of 3 because it greatly impacts the bank's ability to operate.
 
-### Step 6.  Calculate on Overall Risk Score
+### Step 6:  Calculate on Overall Risk Score
 
 Ultimately, the goal of performing a risk assessment is to help security teams prioritize their efforts and resources.
 
@@ -233,13 +233,13 @@ First, you'll need to evaluate details about the incident. Then, you'll review t
 
 ## Step-By-Step Instructions
 
-### Step 1. Access the Template
+### Step 1: Access the Template
 
 To use the template for this course item, click the link and select Use Template.
 
 Link to template: [Data leak worksheet](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Activity%20Template_%20Data%20leak%20worksheet.pdf)
 
-### Step 2. Analyse the Situation
+### Step 2: Analyse the Situation
 
 The principle of least privilege is a fundamental security control that helps maintain information privacy. However, least privilege starts to lose its effectiveness when too many users are given access to information. Data leaks commonly happen as information gets passed between people without oversight.
 
@@ -249,7 +249,7 @@ To start your analysis, review the following incident summary provided by your s
 
 After reviewing the summary, write **20-60 words (2-3 sentences)** in the **Issue(s)** row of the Data leak worksheet describing the factors that led to the data leak.  
 
-### Step 3.  Review Current Data Privacy Controls
+### Step 3:  Review Current Data Privacy Controls
 
 Data leaks are a major risk due to the amount of data handled by the application. The company used the NIST Cybersecurity Framework (CSF) to develop their plan for addressing their information privacy concerns.
 
@@ -257,13 +257,13 @@ Review the **Security plan snapshot** resource of the worksheet. Then, review th
 
 After, write **20-60 words (2-3 sentences)** in the **Review** row of the Data leak worksheet to summarize what you've learned about NIST SP 800-53: AC-6.
 
-### Step 4. Identify Control Enhancements
+### Step 4: Identify Control Enhancements
 
 The company's implementation of least privilege is based on NIST Special Publication 800-53 (SP 800-53). NIST developed SP 800-53 to provide businesses with a customizable information privacy plan. It's a comprehensive resource that describes a wide range of control categories, including least privilege.
 
 Use the **NIST SP 800-53: AC-6** resource to determine two control enhancements that might have prevented the data leak. List the **two improvements** in the **Recommendation(s)** row of the worksheet.
 
-### Step 5. Justify Your Recommendations
+### Step 5: Justify Your Recommendations
 
 At the end of your analysis, it's time to communicate your findings to your supervisor. It's important to justify your recommendations so that the supervisor can relay this information to other decision makers at the company.
 
@@ -293,17 +293,17 @@ Here’s how you’ll do this task: **First**, you’ll explore the contents of 
 
 **Note:** *The lab starts with you logged in as user analyst, with your home directory, /home/analyst, as the current working directory.*
 
-### Task 1. Read the Contents of a File
+### Task 1: Read the Contents of a File
 
 The lab starts in your home directory, `/home/analyst`, as the current working directory.
 
 In this task, you need to explore the contents of your home directory and read the contents of a file to get further instructions.
 
-### Task 2. Find a Hidden File
+### Task 2: Find a Hidden File
 
 In this task, you need to find a hidden file in your home directory and decrypt the Caesar cipher it contains. This task will enable you to complete the next task.
 
-### Task 3. Decrypt a File
+### Task 3: Decrypt a File
 
 Now that you have solved the Caesar cipher, in this task you need to use the command revealed in `.leftshift3` to decrypt a file and recover your data so you can read the message it contains.
 
@@ -328,13 +328,13 @@ In this scenario, you need to investigate whether two files are identical or dif
 
 Here’s how you'll do this task: **First**, you’ll display the contents of two files and create hashes for each file. **Next**, you’ll examine the hashes and compare them.
 
-### Task 1. Generate Hashes for Files
+### Task 1: Generate Hashes for Files
 
 The lab starts in your home directory, `/home/analyst`, as the current working directory. This directory contains two files `file1.txt` and `file2.txt`, which contain same data.
 
 In this task, you need to display the contents of each of these files. You’ll then generate a hash value for each of these files and send the values to new files, which you’ll use to examine the differences in these values later.
 
-### Task 2. Compare Hashes
+### Task 2: Compare Hashes
 
 In this task, you’ll write the hashes to two separate files and then compare them to find the difference.
 
@@ -450,9 +450,9 @@ The **System Description** highlights the relevant components, architecture, and
 
 The **Scope** specifies the focus and boundaries of the assessment. For example, you might specify that the scope of this assessment only relates to the confidentiality, availability, and integrity of the data on the server — not the physical security of the server or its related IT systems.
 
-### Part 2 - Perform the Risk Assessment
+### Part 2: Perform the Risk Assessment
 
-### Step 1. Explain the Purpose of the Information System
+### Step 1: Explain the Purpose of the Information System
 
 Use the [NIST SP 800-30 Rev. 1](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/NIST%20SP%20800-30%20Rev.%201.pdf) resource to complete this activity.
 
@@ -468,19 +468,19 @@ Consider what you know about the server:
 
 In the **Purpose** section of the report, use the questions provided and write **3-5 sentences** (60-100 words) describing the reason(s) for conducting this vulnerability analysis.
 
-### Step 2. Identify Potential Threat Sources
+### Step 2: Identify Potential Threat Sources
 
 Explore the *Threat sources* section of the *[NIST SP 800-30 Rev. 1](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/NIST%20SP%20800-30%20Rev.%201.pdf)* resource. Using what you know about the vulnerable database server, notice the threat types and examples described.
 
 In the **Threat Source** column of the Risk Assessment table of your template, **identify three** potential threats. Choose the threats based on the information you have gathered from the system description, scope, purpose, and *[NIST SP 800-30 Rev. 1](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/NIST%20SP%20800-30%20Rev.%201.pdf)* resource.
 
-### Step 3. Identify Potential Threat Events
+### Step 3: Identify Potential Threat Events
 
 *[NIST SP 800-30 Rev. 1](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/NIST%20SP%20800-30%20Rev.%201.pdf)* provides a comprehensive list of possible security events that could compromise a vulnerable information system — labeled *Threat events*. This list covers what attackers from different groups typically try to achieve and how good they are at it. For example, a business competitor might have the technical capabilities needed to conduct a denial of service attack.
 
 Explore the *Threat events* section in the resource. Then, **identify three** threat events that could be initiated based on the threat sources you identified. Write the three threat events in the **Threat Event** column of the Risk Assessment table in your template.
 
-### Step 4. Calculate the Risk of Potential Threats
+### Step 4: Calculate the Risk of Potential Threats
 
 You may recall from an earlier reading about [Calculating Risk](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Calculating%20Risks.pdf) that potential threats and vulnerabilities are important factors to think about when evaluating the security of an asset.
  
@@ -496,9 +496,9 @@ Then, estimate a **Likelihood** score (1-3) and **Severity** score (1-3) for eac
 
 **Note:** The number of rows in a risk table can vary depending on the complexity and scope of the assessment. In general, it should provide stakeholders with a comprehensive overview of all significant risks.
 
-### Part 3 - Propose Security Recommendations
+### Part 3: Propose Security Recommendations
 
-### Step 1. Explain Your Approach
+### Step 1: Explain Your Approach
 
 Another section that's commonly included in a vulnerability assessment is an explanation of your approach. This helps stakeholders understand your thought process of evaluating the risks you've identified — adding valuable context for stakeholders.
 
@@ -506,7 +506,7 @@ You are conducting a *qualitative* vulnerability assessment, which relies on sub
 
 In the **Approach** section of your template, write **3-5 sentence** (60-100 words) explaining why you selected the 3 specific threat sources/events you chose and why you think they're significant business risks.
 
-### Step 2. Propose a Remediation Strategy
+### Step 2: Propose a Remediation Strategy
 
 After performing a vulnerability assessment, creating a well-defined remediation strategy is crucial for protecting your systems and data.  The remediation strategy should provide stakeholders with actionable steps that can be taken to remediate, or fix, vulnerabilities to avoid threats.
 
@@ -553,7 +553,6 @@ To use the template for this course item, click the link and select Use Template
 
 Link to template: [Parking Lot USB Exercise](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Parking%20Lot%20USB%20Exercise.pdf)
 
-
 ### Step 2: Inspect the Contents of the USB Stick
 
 You create a virtual environment and plug the USB drive into the workstation. The contents of the device appear to belong to Jorge Bailey, the human resource manager at Rhetorical Hospital.
@@ -575,7 +574,6 @@ For example, an attacker could have placed these files on the USB drive as a dis
 In the **Attacker mindset** row of the activity template, write **2-3 sentences** (40-60 words) about how this information could be used against Jorge or the hospital.
 
 ***Pro tip:** The Cybersecurity and Infrastructure Security Agency (CISA) provides some [security tips on using caution with USB drives](https://www.cisa.gov/news-events/news/using-caution-usb-drives), including keeping personal and business drives separate.*
-
 
 ### Step 4: Analyse the Risk of Finding a Parking Lot USB
 
@@ -604,8 +602,3 @@ Be sure to address the following criteria in your completed activity:
 * 2-3 sentences about how the information could be used against the owner and/or organization
 
 * 3-4 sentences analyzing the risks of USB baiting attacks
-
-
-
-
-
