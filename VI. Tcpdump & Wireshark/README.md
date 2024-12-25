@@ -1,10 +1,13 @@
-# XXXXXX
+# Securing Networks: Leveraging Tcpdump and Wireshark for Incident Response
 
-Xxxxx
+This folder contains exercises, solutions, and supporting materials focused on managing assets, threats, and vulnerabilities in cybersecurity. It highlights the use of tools like Tcpdump and Wireshark to analyze network traffic, detect anomalies, and respond to cybersecurity incidents, emphasizing practical applications within the incident response lifecycle.
 
 ## Contents
-1.1  **Xxxxx**
-- xxxxxxxxxxxxx
+1.1  **Analyzing Network Traffic with Wireshark**
+
+- In this lab activity, I explored network traffic analysis using Wireshark, a powerful network protocol analyzer.
+
+I worked with a sample packet capture file to inspect and interpret packet data. By applying filters within Wireshark, I was able to focus on specific network traffic relevant to security investigations, identifying patterns and key details. This exercise highlighted the importance of tools like Wireshark in examining complex network data and streamlining analysis for more effective security operations.
   
 1.2  **Xxxxx**
 - xxxxxxxxxxxxx
