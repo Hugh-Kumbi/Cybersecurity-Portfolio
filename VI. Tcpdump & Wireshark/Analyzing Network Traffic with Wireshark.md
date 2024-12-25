@@ -1,6 +1,8 @@
-## Packet Analysis 
+# Analyzing Network Traffic with Wireshark
 
-## Task 1. Explore Data with Wireshark
+## Proposed Resolution
+
+### Task 1. Explore Data with Wireshark
 1. To open the packet capture file, I double-clicked the sample file on the Windows desktop and this started Wireshark.
 
 ![Open the Packet Capture file](https://github.com/user-attachments/assets/37427b29-195f-4e45-a2f6-cb1000d44407)
@@ -22,9 +24,9 @@ An overview of the key property columns listed for each packet:
 * **Length**: The total length of the packet
 * **Info**: Some infomation about the data in the packet (the payload) as interpreted by Wireshark
 
-## Task 2. Apply a Basic Wireshark Filter and Inspect a Packet
+### Task 2. Apply a Basic Wireshark Filter and Inspect a Packet
 
-### In this task, I had to open a packet in Wireshark for a more detailed exploration and to filter the data in order to inspect the network layers and protocols contained in the packet.
+**In this task, I had to open a packet in Wireshark for a more detailed exploration and to filter the data in order to inspect the network layers and protocols contained in the packet.**
 
 2. After entering and applying `ip.addr == 142.250.1.139` into the search tab the list of packets displayed is now significantly reduced and contain only packets where either the source or the destination IP address matches the address I've entered. Now only two packet colors are used: **light pink** for `ICMP` protocol packets and **light green** for `TCP` (and `HTTP`, which is a subset of `TCP`) packets.
 
@@ -56,9 +58,9 @@ The upper section of the window above contains subtrees where Wireshark provides
 
 ![Transmission Control Protocol subtree Flags](https://github.com/user-attachments/assets/27f86a35-4763-41a7-93d6-d7eeb5efb01c)
 
-## Task 3. Using filters to select packets
+### Task 3. Using filters to select packets
 
-### In this task, I used filters to analyze specific network packets based on where the packets came from or where they were sent to. I also explored how to select packets using both their physical Ethernet Media Access Control (MAC) address and their Internet Protocol (IP) address.
+**In this task, I used filters to analyze specific network packets based on where the packets came from or where they were sent to. I also explored how to select packets using both their physical Ethernet Media Access Control (MAC) address and their Internet Protocol (IP) address.**
 
 1. After entering and applying `ip.src == 142.250.1.139` into the search tab a filtered list is returned with fewer entries than before. It contains only packets that came from `142.250.1.139`.
 
@@ -80,9 +82,9 @@ The upper section of the window above contains subtrees where Wireshark provides
 
 ![Internet Protocol Version 4](https://github.com/user-attachments/assets/76d1f8b7-c744-4b54-8b39-806b4a5f1fac)
 
-## Task 4. Using filters to explore DNS packets
+### Task 4. Using filters to explore DNS packets
 
-### In this task, I used filters to select and examine DNS traffic. Once I‘ve selected sample DNS traffic, I’ll drill down into the protocol to examine how the DNS packet data contains both queries (names of internet sites that are being looked up) and answers (IP addresses that are being sent back by a DNS server when a name is successfully resolved).
+**In this task, I used filters to select and examine DNS traffic. Once I‘ve selected sample DNS traffic, I’ll drill down into the protocol to examine how the DNS packet data contains both queries (names of internet sites that are being looked up) and answers (IP addresses that are being sent back by a DNS server when a name is successfully resolved).**
 
 1. By entering the filter `udp.port == 53` to select **UDP port 53** traffic will list traffic related to `DNS` queries and responses only because `DNS` traffic uses **UDP port 53**.
 
@@ -112,9 +114,9 @@ The upper section of the window above contains subtrees where Wireshark provides
 
 ![Answers](https://github.com/user-attachments/assets/8a288f41-9085-4bec-9ac9-adbe028b3287)
 
-## Task 5
+### Task 5
 
-### In this task, I’ll use additional filters to select and examine TCP packets. I’ll practice how to search for text that is present in payload data contained inside network packets. This will locate packets based on something such as a name or some other text that is of interest to me.
+**In this task, I’ll use additional filters to select and examine TCP packets. I’ll practice how to search for text that is present in payload data contained inside network packets. This will locate packets based on something such as a name or some other text that is of interest to me.**
 
 1. By entering the filter `tcp.port == 80` we can select **TCP port 80** traffic because **TCP port 80** is the default port that is associated with web traffic. Based on the information shown quite a few packets were created when the user accessed the web page `http://opensource.google.com`.
 
