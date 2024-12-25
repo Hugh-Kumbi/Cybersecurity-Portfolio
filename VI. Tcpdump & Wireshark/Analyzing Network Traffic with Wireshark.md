@@ -7,7 +7,7 @@
 
 ![Open the Packet Capture file](https://github.com/user-attachments/assets/37427b29-195f-4e45-a2f6-cb1000d44407)
 
-2. Once Wireshark started I double-clicked the Wireshark title bar next to the sample.pcap filename in order to maximize the Wireshark application window.
+2. Once Wireshark started I double-clicked the Wireshark title bar next to the `sample.pcap` filename in order to maximize the Wireshark application window.
 
 ***Note:** Not all the data packets are the same color. Coloring rules are used to provide high-level visual cues to help with quickly classifying the different types of data. Since network packet capture files can contain large amounts of data, we can use coloring rules to quickly identify the data that is relevant. The example packet below lists a group of **light blue** packets that all contain `DNS` traffic, followed by **green** packets that contain a mixture of `TCP` and `HTTP` protocol traffic.*
   
