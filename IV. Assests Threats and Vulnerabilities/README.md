@@ -15,11 +15,11 @@ This folder contains exercises, solutions, and supporting materials related to m
 4.1  **Exploring Cryptography: Decrypting Files and Revealing Hidden Messages**
 - In this lab activity, I applied my knowledge of cryptography to secure and analyze data online. Using Linux commands, I performed basic cryptographic tasks, including decrypting files and uncovering hidden messages. This activity built on my understanding of encryption and decryption, which are essential tools for protecting information privacy. It also deepened my familiarity with foundational cryptographic techniques, such as the Caesar cipher, and reinforced the importance of implementing effective security controls to safeguard sensitive data.
 
-1.5  **Comparing Hash Values: Identifying File Modifications**
+5.1  **Comparing Hash Values: Identifying File Modifications**
 - In this lab activity, I explored the use of hash functions to ensure file integrity and detect potential threats. By using Linux commands, I generated hash values for two files and manually compared them to identify differences. This hands-on approach emphasized the importance of hashing as a security control, as hash values serve as unique identifiers for files. It also highlighted how modifications, such as those in malicious programs, can be detected by comparing hash values. This lab reinforced my ability to use hashing to protect organizations against threats and maintain data integrity.
 
-1.6  **Xxxxx**
-- xxxxxxxxxxxxx 
+6.1  **Evaluating and Improving Access Controls**
+- In this activity, I evaluated the access controls implemented by a business to manage access, authorization, and accountability of information. I analyzed their current processes, identified potential security issues, and recommended improvements to enhance their security practices. This included distinguishing between authentication controls, which verify user identities, and authorization controls, which define user permissions and restrictions. By addressing gaps in access controls, I contributed to reducing the likelihood of security risks and ensuring robust protection of sensitive information. 
 
 1.7  **Xxxxx**
 - xxxxxxxxxxxxx
