@@ -15,7 +15,7 @@
 
 * A lot of network packet traffic is listed, and this requires the use of filters in order to find the information during an investigation.
 
-An overview of the key property columns listed for each packet: 
+**An overview of the key property columns listed for each packet:** 
 * **No.**: The index number of the packet in this packet capture file
 * **Time**: The timestamp of the packet
 * **Source**: The source IP address
