@@ -75,13 +75,13 @@ In this task, you will use `tcpdump` to save the captured network data to a pack
 
 In this task, use `tcpdump` to filter data from the packet capture file you saved previously.
 
+### Expectations
 
+By completing this activity, you will:
 
-
-
-
-
-
-
-
-
+1. Gain practical experience to:
+  * Identify network interfaces.
+  * Use the tcpdump command to capture network data for inspection.
+  * Interpret the information that tcpdump outputs about a packet.
+  * Save and load packet data for later analysis.
+2. Take an important step toward capturing and analyzing network packets effectively.
