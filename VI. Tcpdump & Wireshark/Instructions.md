@@ -1,5 +1,7 @@
 # 1.1 Analyzing Network Traffic with Wireshark
 
+> Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
+
 ## Scenario 
 
 In this scenario, you’re a security analyst investigating traffic to a website.
@@ -14,16 +16,6 @@ You must filter the data in order to:
 ### Task 1: Exploring Data With Wireshark
 
 In this task, you must open a network packet capture file that contains data captured from a system that made web requests to a site. You need to open this data with Wireshark to get an overview of how the data is presented in the application.
-
-#### An Overview of the Key Property Columns Listed for Each Packet:
-
-* `No` : The index number of the packet in this packet capture file.
-* `Time`: The timestamp of the packet.
-* `Source`: The source IP address.
-* `Destination`: The destination IP address.
-* `Protocol`: The protocol contained in the packet.
-* `Length`: The total length of the packet.
-* `Info`: Some infomation about the data in the packet (the payload) as interpreted by Wireshark.
 
 ### Task 2: Applying a Basic Wireshark Filter and Inspect a Packet
 
@@ -51,6 +43,37 @@ By completing this activity, you will:
   * Use filters to inspect detailed packet data.
 2. Achieve an important milestone on your journey toward understanding how to use network packet analysis tools to examine network traffic.
 
+# Capturing and Filtering Network Traffic with tcpdump
+
+> Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
+
+## Scenario 
+
+In this scenario, you’re a network analyst who needs to use `tcpdump` to capture and analyze live network traffic from a Linux virtual machine.
+
+The lab starts with your user account, called `analyst`, already logged in to a Linux terminal.
+
+Your Linux user's home directory contains a sample packet capture file that you will use at the end of the lab to answer a few questions about the network traffic that it contains.
+
+## Task 1: Identify Network Interfaces
+
+In this task, you must identify the network interfaces that can be used to capture network packet data.
+
+## Task 2: Inspect the Network Traffic of a Network Interface with Tcpdump
+
+In this task, you must use `tcpdump` to filter live network packet traffic on an interface.
+
+### Exploring network packet details 
+
+In this example, you’ll identify some of the properties that `tcpdump` outputs for the packet capture data you’ve just seen.
+
+## Task 3: Capture Network Traffic with Tcpdump
+
+In this task, you will use `tcpdump` to save the captured network data to a packet capture file.
+
+## Task 4: Filter the Captured Packet Data
+
+In this task, use `tcpdump` to filter data from the packet capture file you saved previously.
 
 
 
