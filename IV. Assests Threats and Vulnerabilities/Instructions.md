@@ -348,6 +348,72 @@ By completing this activity, you will:
 * Comparing hashes using the cmp command.
 2. Develop valuable skills for validating data integrity, contributing to your organization’s security.
 
+# 6.1 Evaluating and Improving Access Controls 
+
+> Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
+
+## Scenario 
+
+You’re the first cybersecurity professional hired by a growing business. Recently, a deposit was made from the business to an unknown bank account. The finance manager says they didn’t make a mistake. Fortunately, they were able to stop the payment. The owner has asked you to investigate what happened to prevent any future incidents.
+
+To do this, you’ll need to do some accounting on the incident to better understand what happened. First, you will review the access log of the incident. Next, you will take notes that can help you identify a possible threat actor. Then, you will spot issues with the access controls that were exploited by the user. Finally, you will recommend mitigations that can improve the business' access controls and reduce the likelihood that this incident reoccurs.
+
+## Step-By-Step Instructions
+
+### Step 1: Access the Template
+
+To use the template for this course item, click the link below and select Use Template. 
+
+Link to template: [Access Control Worksheet](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Access%20Control%20Worksheet.pdf) 
+
+### Step 2: Access Supporting Materials
+
+The following supporting materials will help you complete this activity. Keep them open as you proceed to the next steps. 
+
+To use the supporting materials for this course item, click the link below and select “Use Template.”
+
+**Note:** The spreadsheet for this supporting resource has two tabs.
+
+Link to template: [Accounting Exercise](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Accounting%20Exercise.xlsx)
+
+### Step 3: Review the Event Log of This Payroll Incident
+
+Event logs contain information related to the operation and usage of a system. They can be utilized to identify suspicious activity, detect vulnerabilities, and track users.
+
+Find the **Event log** tab of the *[Accounting Exercise Spreadsheet](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Accounting%20Exercise.xlsx)*. Carefully review the event log of this incident to start your investigation. Notice the *Event Type, Date, Time*, and *IP Address* of the user in the log details.
+
+Make **1-2 notes** of information that you learned about the user from reviewing the *Event log* details. Add your notes to the **Notes** column of the access control worksheet.
+
+### Step 4: Identify Access Control Issues That Led to the Incident
+
+Log details tell you a lot about a specific moment in time. You can find other useful details about an event by cross referencing that information with other sources.
+
+This business has a range of different employees. They all currently manage company resources using a shared cloud drive.
+
+Find the **Employee directory** tab of the *[Accounting Exercise Spreadsheet](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Accounting%20Exercise.xlsx)*. Compare the information found in the *Employee directory* tab with the information in the *Event log* tab. Notice any similarities between the details in the *Event log* and the details in the *Employee directory*.
+
+Then, list **1-2** issues that you discover with how the business handles employee access in the **Issues** column of the *[Access Control Worksheet](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Access%20Control%20Worksheet.pdf)*.
+
+### Step 5: Recommend Mitigations That can Prevent a Future Breach
+
+You’ve completed your accounting of the strange payment and discovered flaws with how the business handles their information.
+
+Find the **Recommendation(s)** column of the *[Access Control Worksheet](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Access%20Control%20Worksheet.pdf)*. Make **at least 2** recommendations of mitigations the business can implement to prevent incidents like this in the future.
+
+For example, one recommendation might be to have procedures in place to revoke access to files when an employee is no longer with the company.
+
+### What to Include in Your Response
+
+Be sure to include the following elements in your completed activity: 
+
+* 1-2 notes about the user
+
+* 1-2 access control issues
+
+* 2 recommendations for access control mitigations
+
+For example, one recommendation might be to have procedures in place to revoke access to files when an employee is no longer with the company.
+
 
 
 
