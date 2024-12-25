@@ -12,7 +12,16 @@ The attackers were able to gain access into the company's network by using targe
 
 Once the attackers gained access, they deployed their ransomware, which encrypted critical files. The company was unable to access critical patient data, causing major disruptions in their business operations. The company was forced to shut down their computer systems and contact several organizations to report the incident and receive technical assistance.
 
-## Scenario Review
+## Step-By-Step Instructions
+
+### Step 1: Access the Template
+To use the template for this course item, click the link and select Use Template. 
+
+Link to template: [Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/Incident%20Handler's%20Journal.pdf)
+
+### Step 2: Review the Scenario
+
+Review the details of the scenario. Consider the following key details:
 
 * A small U.S. health care clinic experienced a security incident on Tuesday at 9:00 a.m. which severely disrupted their business operations.
 
@@ -20,7 +29,8 @@ Once the attackers gained access, they deployed their ransomware, which encrypte
 
 * An organized group of unethical hackers left a ransom note stating that the company's files were encrypted and demanded money in exchange for the decryption key
 
-## Recording an entry in an incident handler's journal
+### Step 3: Record a Journal Entry 
+
 Use the incident handler's journal to document your first journal entry about the given scenario. Ensure that you fill in all of the fields:
 
 1. In the **Date** section, record the date of your journal entry. This should be the actual date that you record the entry, not a fictional date.
@@ -44,4 +54,27 @@ Use the incident handler's journal to document your first journal entry about th
   e. Why did the incident happen?
 
 6. In the **Additional notes** row, record any thoughts or questions you have about the given scenario.
+
+### What to Include in Your Response
+
+Be sure to include the following elements in your completed activity: 
+
+  * The journal entry date and number
+
+  * A description of the journal entry
+
+  * 1-2 sentences addressing each of the 5 W's of the scenario:
+
+    * Who caused the incident?
+
+    * What happened?
+
+    * When did the incident occur?
+
+    * Where did the incident happen?
+
+    * Why did the incident happen?
+
+* 1-2 sentences on any additional thoughts or questions about the scenario.
+
 
