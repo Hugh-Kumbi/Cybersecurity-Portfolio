@@ -424,7 +424,7 @@ You are tasked with completing a vulnerability assessment of the situation to co
 
 ## Step-By-Step Instructions
 
-## Part 1: Open a Report Template
+### Part 1: Open a Report Template
 
 ### Step 1: Access the template
 Use the following template to construct your written report. 
@@ -450,7 +450,7 @@ The **System Description** highlights the relevant components, architecture, and
 
 The **Scope** specifies the focus and boundaries of the assessment. For example, you might specify that the scope of this assessment only relates to the confidentiality, availability, and integrity of the data on the server — not the physical security of the server or its related IT systems.
 
-## Part 2 - Perform the Risk Assessment
+### Part 2 - Perform the Risk Assessment
 
 ### Step 1. Explain the Purpose of the Information System
 
@@ -496,7 +496,7 @@ Then, estimate a **Likelihood** score (1-3) and **Severity** score (1-3) for eac
 
 **Note:** The number of rows in a risk table can vary depending on the complexity and scope of the assessment. In general, it should provide stakeholders with a comprehensive overview of all significant risks.
 
-## Part 3 - Propose Security Recommendations
+### Part 3 - Propose Security Recommendations
 
 ### Step 1. Explain Your Approach
 
@@ -538,9 +538,72 @@ Be sure to address the following elements in your completed activity:
 
 * 3-5 sentences summarizing a *remediation and/or mitigation* strategy in the **Remediation** section
 
+# 8.1 Identify the attack vectors of a USB drive
+
+## Scenario
+
+You are part of the security team at Rhetorical Hospital and arrive to work one morning. On the ground of the parking lot, you find a USB stick with the hospital's logo printed on it. There’s no one else around who might have dropped it, so you decide to pick it up out of curiosity.
+
+You bring the USB drive back to your office where the team has virtualization software installed on a workstation. Virtualization software can be used for this very purpose because it’s one of the only ways to safely investigate an unfamiliar USB stick. The  software works by running a simulated instance of the computer on the same workstation. This simulation isn’t connected to other files or networks, so the USB drive can’t affect other systems if it happens to be infected with malicious software.
+
+## Step-By-Step Instructions
+
+### Step 1: Access the Template
+To use the template for this course item, click the link and select Use Template. 
+
+Link to template: [Parking Lot USB Exercise](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Parking%20Lot%20USB%20Exercise.pdf)
 
 
+### Step 2: Inspect the Contents of the USB Stick
 
+You create a virtual environment and plug the USB drive into the workstation. The contents of the device appear to belong to Jorge Bailey, the human resource manager at Rhetorical Hospital.
+
+![Picture32](https://github.com/user-attachments/assets/3464d156-5833-484d-ae94-ea8ed4fc436a)
+
+Jorge's drive contains a mix of personal and work-related files. For example, it contains folders that appear to store family and pet photos. There is also a new hire letter and an employee shift schedule.
+
+Review the types of information that Jorge has stored on this device. Then, in the **Contents** row of the activity template, write **2-3 sentences** (40-60 words) about the type of information that's stored on the USB drive.
+
+***Note:** USB drives often contain an assortment of personally identifiable information (PII). Attackers can easily use this sensitive information to target the data owner or others around them.*
+
+### Step 3: Apply an Attacker Mindset to the Contents of the USB Drive
+
+The flash drive appears to contain a mixture of personal and work-related files. Consider how an attacker might use this information if they obtained it. Also, consider whether this whole event was staged.
+
+For example, an attacker could have placed these files on the USB drive as a distraction. They might have targeted Jorge or someone he knows, hoping they would find the device and plug it into their workstation. In doing so, the attacker could establish a backdoor into the company's systems while the unsuspecting target browsed through the files.
+
+In the **Attacker mindset** row of the activity template, write **2-3 sentences** (40-60 words) about how this information could be used against Jorge or the hospital.
+
+***Pro tip:** The Cybersecurity and Infrastructure Security Agency (CISA) provides some [security tips on using caution with USB drives](https://www.cisa.gov/news-events/news/using-caution-usb-drives), including keeping personal and business drives separate.*
+
+
+### Step 4: Analyse the Risk of Finding a Parking Lot USB
+
+You have *not* opened any of the files on the device, which is best practice. 
+
+Attackers sometimes conduct USB baiting attacks to deliver malicious code that they've crafted.
+
+However, this USB drive was still a security risk even though it did not contain malicious code. It could have easily been found by an attacker who might have used its contents to plan a variety of attacks.
+
+Consider some of the risks associated with USB baiting attacks:
+
+* What types of malicious software could be hidden on these devices? What could have happened if the device were infected and discovered by another employee?
+
+* What sensitive information could a threat actor find on a device like this?
+
+* How might that information be used against an individual or an organization?
+
+In the **Risk analysis** row of the activity template, write **3 or 4** sentences (60-80 words) describing any technical, operational, or managerial controls that could mitigate USB baiting attacks.
+
+### What to Include in Your Response
+
+Be sure to address the following criteria in your completed activity: 
+
+* 2-3 sentences about the types of information stored on the USB drive
+
+* 2-3 sentences about how the information could be used against the owner and/or organization
+
+* 3-4 sentences analyzing the risks of USB baiting attacks
 
 
 
