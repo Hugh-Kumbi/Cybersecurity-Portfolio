@@ -36,7 +36,7 @@
 
 ![ip.addr == 142.250.1.139 Search TCP Protocol](https://github.com/user-attachments/assets/5eca4994-f9ad-412d-91d3-51fd99049bf6)
 
-The upper section of the window above contains subtrees where Wireshark provides an analysis of the various parts of the network packet. The lower section of the window contains the raw packet data displayed in hexadecimal and ASCII text. There is also placeholder text for fields where the character data does not apply, as indicated by the dot (“.”).
+The upper section of the window above contains subtrees where Wireshark provides an analysis of the various parts of the network packet. The lower section of the window contains the raw packet data displayed in hexadecimal and ASCII text. There is also placeholder text for fields where the character data does not apply, as indicated by the dot (“`.`”).
 
 4. Double-clicking on the first subtree in the upper section with the word **Frame** provides details about the overall network packet, or frame. The details include the **frame length** and the **arrival time** of the packet that is information about the entire packet of data.
 
