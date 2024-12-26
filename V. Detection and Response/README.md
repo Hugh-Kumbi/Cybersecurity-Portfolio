@@ -16,13 +16,13 @@ This folder contains exercises, solutions, and supporting materials related to m
 
 - I gained a foundational understanding of how these tools work and their key features. By using these packet sniffers, I learned how to capture and analyze network traffic, a critical skill for security analysts. These tools enable the examination of network traffic flows, aiding in identifying patterns and investigating potential security issues within a network.
 
-1.3  **Analyzing Artifacts with VirusTotal and the Pyramid of Pain**
+3.1  **Analyzing Artifacts with VirusTotal and the Pyramid of Pain**
 
-- In this activity, I analyzed an artifact using VirusTotal and documented its related Indicators of Compromise (IoCs) by referencing the Pyramid of Pain framework.
+- In this activity, I analyzed an artifact using **VirusTotal** and documented its related **Indicators of Compromise (IoCs)** by referencing the **Pyramid of Pain framework**.
 
-- VirusTotal provided me with the ability to scan a suspicious file or URL, gather threat intelligence, and identify any malicious activity associated with it. By leveraging this crowdsourced platform, I gained insights into the artifact's reported malicious properties and how the global cybersecurity community responds to such threats.
+- **VirusTotal** provided me with the ability to scan a suspicious file or URL, gather threat intelligence, and identify any malicious activity associated with it. By leveraging this crowdsourced platform, I gained insights into the artifact's reported malicious properties and how the global cybersecurity community responds to such threats.
 
-- I then categorized the IoCs using the Pyramid of Pain, which helped me evaluate how blocking these indicators affects adversaries. This exercise underscored the importance of understanding the difficulty level malicious actors face when IoCs are effectively mitigated.
+- I then categorized the IoCs using the **Pyramid of Pain**, which helped me evaluate how blocking these indicators affects adversaries. This exercise underscored the importance of understanding the difficulty level malicious actors face when IoCs are effectively mitigated.
 
 - This activity reinforced the role of IoCs in detecting and responding to security incidents and demonstrated how collaborative tools like VirusTotal enhance threat analysis and detection capabilities.
 
