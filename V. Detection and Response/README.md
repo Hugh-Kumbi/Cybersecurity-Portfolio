@@ -12,24 +12,59 @@ This folder contains exercises, solutions, and supporting materials related to m
 
 2.1  **Exploring Network Protocol Analyzers: Wireshark and Tcpdump**
 
-- In this activity, I explored the functionalities of two powerful network protocol analyzers: Wireshark and tcpdump.
+- In this activity, I explored the functionalities of two powerful network protocol analyzers: **Wireshark and tcpdump**.
 
 - I gained a foundational understanding of how these tools work and their key features. By using these packet sniffers, I learned how to capture and analyze network traffic, a critical skill for security analysts. These tools enable the examination of network traffic flows, aiding in identifying patterns and investigating potential security issues within a network.
 
 1.3  **Analyzing Artifacts with VirusTotal and the Pyramid of Pain**
 
-- This activity involved using VirusTotal to analyze a suspicious artifact and identifying its associated indicators of compromise (IoCs). I applied the Pyramid of Pain framework to understand the value and persistence of these IoCs for security analysis. By leveraging VirusTotal's crowdsourced intelligence and the insights from the Pyramid of Pain, I gained practical experience in threat intelligence analysis and improved my understanding of how to enhance security posture.
+- In this activity, I analyzed an artifact using VirusTotal and documented its related Indicators of Compromise (IoCs) by referencing the Pyramid of Pain framework.
+
+- VirusTotal provided me with the ability to scan a suspicious file or URL, gather threat intelligence, and identify any malicious activity associated with it. By leveraging this crowdsourced platform, I gained insights into the artifact's reported malicious properties and how the global cybersecurity community responds to such threats.
+
+- I then categorized the IoCs using the Pyramid of Pain, which helped me evaluate how blocking these indicators affects adversaries. This exercise underscored the importance of understanding the difficulty level malicious actors face when IoCs are effectively mitigated.
+
+- This activity reinforced the role of IoCs in detecting and responding to security incidents and demonstrated how collaborative tools like VirusTotal enhance threat analysis and detection capabilities.
 
 4.1  **Responding to a Phishing Incident with a Playbook**
 
-- This activity involves responding to a phishing incident involving a malicious file hash that was previously identified in **Analyzing Artifacts with VirusTotal and the Pyramid of Pain**. I utilized a playbook to guide my investigation and resolution of the incident alert ticket. By following the playbook's instructions, I gained practical experience in applying a structured approach to incident response, minimizing the impact of the incident and improving my overall incident response capabilities.
+- In this activity, I responded to a phishing incident involving a malicious **SHA256 file hash** that was previously verified as malicious during an earlier investigation.
+
+- Using a playbook, I followed a structured step-by-step process to investigate and resolve the incident's alert ticket. Playbooks are invaluable resources for guiding incident response efforts, as they ensure coordinated and effective actions are taken while minimizing the impact of the security incident.
+
+**Key steps included:**
+
+1. **Investigating the alert:** Reviewing the malicious file hash and gathering additional context from previously documented investigations.
+2. **Verifying IoCs:** Cross-referencing the file hash against security intelligence tools like VirusTotal to confirm its malicious nature.
+3. **Mitigating the threat:** Following predefined actions in the playbook to contain and remove the malicious file, such as isolating affected systems or blocking the hash across the organization.
+4. **Documenting the response:** Recording every step and outcome in the incident tracking system for future reference and improvement of security processes.
+
+This activity emphasized the importance of playbooks in ensuring a consistent and efficient response to phishing incidents and demonstrated how thorough documentation aids in enhancing organizational security.
 
 5.1  **Security Incident Report: Data Breach via Forced Browsing Attack**
-- In this activity, I reviewed an example of a final report. I had previously learned about the Post-incident Activity phase within the NIST Incident Response Lifecycle, which emphasizes the critical role of documentation in the form of a final report.
+- In this activity, I reviewed an example of a **final report** related to an incident and answered quiz questions to reinforce my understanding of its components and significance.
 
-- By carefully examining the provided final report, I demonstrated my understanding of the essential elements of a comprehensive incident report. These elements include a detailed timeline of events, a summary of actions taken during the incident response, and recommendations for improving future incident response capabilities.
+**Key learning points included:**
 
-- This activity provided valuable insights into the importance of thorough documentation in the post-incident activity phase. Through this analysis, I strengthened my understanding of how to effectively contribute to post-incident activities and enhance future incident response efforts within an organization.
+1. **Purpose of the Final Report:**
+
+  * The final report is a critical document created during the **Post-incident Activity phase** of the NIST Incident Response Lifecycle.
+  * It provides a **comprehensive review of the incident**, including timelines, the root cause, actions taken, and outcomes.
+  * The report also includes **recommendations** for future prevention and improving incident response capabilities.
+
+2. **Components of a Final Report:**
+
+  * **Executive Summary:** High-level overview of the incident for stakeholders.
+  * **Incident Details:** Timeline, systems affected, root cause, and attack vectors.
+  * **Actions Taken:** Steps for containment, eradication, recovery, and lessons learned.
+  * **Recommendations:** Strategies for preventing similar incidents in the future, such as patch management, security training, or system updates.
+
+3. **Post-Incident Activity:**
+
+  * Emphasizes learning from the incident to strengthen security processes.
+  * Involves stakeholder communication, process improvement, and sharing findings (if appropriate) with industry peers to strengthen collective security efforts.
+
+This activity reinforced the importance of creating detailed and actionable final reports to ensure organizations learn and adapt from incidents, strengthening their overall security posture.
 
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
