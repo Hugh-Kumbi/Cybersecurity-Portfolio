@@ -62,12 +62,10 @@ The eve.json file is the standard and main Suricata log file and contains a lot 
 
 #### Expectations 
 
-You’ve completed this activity and should be able to use Suricata to trigger alerts on network traffic.
+**By completing this activity, you will:**
 
-You now have practical experience in running Suricata to
-
-* create custom rules and run them in Suricata,
-* monitor traffic captured in a packet capture file, and
-* examine the fast.log and eve.json output.
-
-You’ve developed a key skill in your journey towards becoming a security analyst.
+1. Gain practical experience in running Suricata to:
+  * Create custom rules and execute them in Suricata.
+  * Monitor traffic captured in a packet capture file.
+  * Examine the fast.log and eve.json output.
+2. Develop a key skill essential for your journey toward becoming a security analyst.
