@@ -8,13 +8,13 @@ This folder contains exercises, solutions, and supporting materials related to m
 
 - In this activity, I reviewed the details of a security incident and documented the findings using an incident handler's journal. This exercise emphasized the critical role of documentation in the incident response process.
 
-I practiced recording key information about the incident, including timelines, actions taken, and outcomes. Maintaining an accurate and detailed incident handler's journal is essential for analyzing and responding to security incidents effectively. It also serves as a valuable resource for learning and improving future incident response processes.
+- I practiced recording key information about the incident, including timelines, actions taken, and outcomes. Maintaining an accurate and detailed incident handler's journal is essential for analyzing and responding to security incidents effectively. It also serves as a valuable resource for learning and improving future incident response processes.
 
 2.1  **Exploring Network Protocol Analyzers: Wireshark and Tcpdump**
 
 - In this activity, I explored the functionalities of two powerful network protocol analyzers: Wireshark and tcpdump.
 
-I gained a foundational understanding of how these tools work and their key features. By using these packet sniffers, I learned how to capture and analyze network traffic, a critical skill for security analysts. These tools enable the examination of network traffic flows, aiding in identifying patterns and investigating potential security issues within a network.
+- I gained a foundational understanding of how these tools work and their key features. By using these packet sniffers, I learned how to capture and analyze network traffic, a critical skill for security analysts. These tools enable the examination of network traffic flows, aiding in identifying patterns and investigating potential security issues within a network.
 
 1.3  **Analyzing Artifacts with VirusTotal and the Pyramid of Pain**
 
@@ -27,9 +27,9 @@ I gained a foundational understanding of how these tools work and their key feat
 5.1  **Security Incident Report: Data Breach via Forced Browsing Attack**
 - In this activity, I reviewed an example of a final report. I had previously learned about the Post-incident Activity phase within the NIST Incident Response Lifecycle, which emphasizes the critical role of documentation in the form of a final report.
 
-By carefully examining the provided final report, I demonstrated my understanding of the essential elements of a comprehensive incident report. These elements include a detailed timeline of events, a summary of actions taken during the incident response, and recommendations for improving future incident response capabilities.
+- By carefully examining the provided final report, I demonstrated my understanding of the essential elements of a comprehensive incident report. These elements include a detailed timeline of events, a summary of actions taken during the incident response, and recommendations for improving future incident response capabilities.
 
-This activity provided valuable insights into the importance of thorough documentation in the post-incident activity phase. Through this analysis, I strengthened my understanding of how to effectively contribute to post-incident activities and enhance future incident response efforts within an organization.
+- This activity provided valuable insights into the importance of thorough documentation in the post-incident activity phase. Through this analysis, I strengthened my understanding of how to effectively contribute to post-incident activities and enhance future incident response efforts within an organization.
 
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
