@@ -1,4 +1,4 @@
-# Exploring Suricata Alerts and Logs: A Hands-on Experience
+# 1.1 Exploring Suricata Alerts and Logs: A Hands-on Experience
 
 > Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
 
