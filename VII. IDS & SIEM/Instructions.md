@@ -22,7 +22,7 @@ Suricata uses **signatures analysis**, which is a detection method used to find 
 
 ![Suricata signature](https://github.com/user-attachments/assets/4f5f6188-b2fb-4a6e-a90c-edca0aeee97a)
 
-## Scenario
+### Scenario
 
 In this scenario, you’re a security analyst who must monitor traffic on your employer's network. You’ll be required to configure Suricata and use it to trigger alerts.
 
@@ -42,17 +42,17 @@ Let’s define the files:
 
 When you create a new rule, you'll need to test the rule to confirm whether or not it worked as expected. You can use the `fast.log` file to quickly compare the number of alerts generated each time you run Suricata to test a signature against the `sample.pcap` file.
 
-## Task 1. Examine a Custom Rule in Suricata
+#### Task 1. Examine a Custom Rule in Suricata
 
 The `/home/analyst` directory contains a `custom.rules` file that defines the network traffic rules, which Suricata captures.
 
 In this task, you’ll explore the composition of the Suricata rule defined in the custom.rules file.
 
-## Task 2. Trigger a Custom Rule in Suricata
+#### Task 2. Trigger a Custom Rule in Suricata
 
 Now that you are familiar with the composition of the custom Suricata rule, you must trigger this rule and examine the alert logs that Suricata generates.
 
-## Task 3. Examine eve.json Output
+#### Task 3. Examine eve.json Output
 
 In this task, you must examine the additional output that Suricata generates in the eve.json file.
 
@@ -60,7 +60,7 @@ As previously mentioned, this file is located in the /var/log/suricata/ director
 
 The eve.json file is the standard and main Suricata log file and contains a lot more data than the fast.log file. This data is stored in a JSON format, which makes it much more useful for analysis and processing by other applications.
 
-## Expectations 
+#### Expectations 
 
 You’ve completed this activity and should be able to use Suricata to trigger alerts on network traffic.
 
