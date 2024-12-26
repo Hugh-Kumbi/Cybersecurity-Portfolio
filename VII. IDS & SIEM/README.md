@@ -48,8 +48,19 @@ Understanding Suricata’s alerting and logging processes is essential for:
 
 This lab emphasized the critical role of tools like Suricata in monitoring and defending networks against cyber threats.
   
-1.2  **Xxxxx**
-- xxxxxxxxxxxxx
+1.2  **Introduction to Splunk and Search Processing Language (SPL)**
+- In this activity, I explored **Splunk Cloud**, a SIEM platform, and its querying language, **Search Processing Language (SPL)**. I set up a Splunk account, uploaded sample data, and performed basic searches to analyze logs.
+
+**Key tasks included:**
+  * Filtering and sorting data using SPL syntax, wildcards (`*`), and pipe operators (`|`).
+  * Executing time-based queries and statistical commands like `stats count by host` to group and summarize data.
+
+**Key Insights:**
+  * SIEM tools like Splunk streamline incident response and data analysis.
+  * SPL enables quick identification of patterns, anomalies, and trends.
+
+**Applications:**
+  * SPL enhances efficiency in incident response by helping analysts pinpoint affected systems, trace anomalies, and generate actionable insights from large datasets.
 
 1.3  **Xxxxx**
 - xxxxxxxxxxxxx
