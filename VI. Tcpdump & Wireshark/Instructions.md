@@ -8,7 +8,7 @@ In this scenario, you’re a security analyst investigating traffic to a website
 
 You’ll analyze a network packet capture file that contains traffic data related to a user connecting to an internet site. The ability to filter network traffic using packet sniffers to gather relevant information is an essential skill as a security analyst.
 
-You must filter the data in order to:
+**You must filter the data in order to:**
 1. Identify the source and destination IP addresses involved in this web browsing session.
 2. Examine the protocols that are used when the user makes the connection to the website.
 3. Analyze some of the data packets to identify the type of information sent and received by the systems that connect to each other when the network data is captured.
@@ -35,7 +35,7 @@ In this task, you’ll use additional filters to select and examine TCP packets.
 
 ### Expectations
 
-By completing this activity, you will:
+**By completing this activity, you will:**
 
 1. Gain practical experience using Wireshark to:
   * Open saved packet capture files.
@@ -73,7 +73,7 @@ In this task, use `tcpdump` to filter data from the packet capture file you save
 
 ### Expectations
 
-By completing this activity, you will:
+**By completing this activity, you will:**
 
 1. Gain practical experience to:
   * Identify network interfaces.
