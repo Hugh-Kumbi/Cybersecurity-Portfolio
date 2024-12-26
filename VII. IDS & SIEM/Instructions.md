@@ -1,4 +1,6 @@
-# Intrusion Detection Systems (IDS) - Suricata
+# Exploring Suricata Alerts and Logs: A Hands-on Experience
+
+> Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
 
 > Suricata is a powerful open-source tool that serves as an intrusion detection system (IDS), intrusion prevention system (IPS), and network analysis platform.
 
