@@ -26,12 +26,12 @@ This folder contains exercises, solutions, and supporting materials focused on d
 
 3. **Analyzing Alerts and Logs:**
    * **fast.log:**
-    * Provides a concise summary of triggered alerts.
-    * Useful for quick review of incident timelines.
+      * Provides a concise summary of triggered alerts.
+      * Useful for quick review of incident timelines.
 
    * **eve.json:**
-    * A JSON-formatted log file containing detailed information about events.
-    * Includes metadata like timestamp, source/destination IPs, ports, protocol, and payload details.
+      * A JSON-formatted log file containing detailed information about events.
+      * Includes metadata like timestamp, source/destination IPs, ports, protocol, and payload details.
 
 4. **Triggering Alerts:**
    * By generating specific types of traffic matching prewritten rules, I observed Suricata’s ability to identify and log alerts.
