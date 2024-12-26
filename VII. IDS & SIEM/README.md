@@ -9,42 +9,42 @@ This folder contains exercises, solutions, and supporting materials focused on d
 **Key Learnings:**
 
 1. **Suricata Overview:**
-  * Suricata monitors network interfaces and evaluates traffic against predefined rules.
-  * Rules can define actions like **alerting**, **dropping**, **rejecting**, or **allowing** packets.
-  * Configuration involves specifying **source and destination networks** to monitor.
+   * Suricata monitors network interfaces and evaluates traffic against predefined rules.
+   * Rules can define actions like **alerting**, **dropping**, **rejecting**, or **allowing** packets.
+   * Configuration involves specifying **source and destination networks** to monitor.
 
 2. **Rule Examination and Creation:**
-  * Rules consist of components like **action, protocol, source/destination IP and port**, and **conditions** (e.g., payload content).
-  * Example of a basic rule:
+   * Rules consist of components like **action, protocol, source/destination IP and port**, and **conditions** (e.g., payload content).
+   * Example of a basic rule:
     `alert tcp any any -> any 80 (msg:"HTTP traffic detected"; sid:100001; rev:1;)` 
-  * **Action: Alert.**
-  * **Protocol: TCP.**
-  * **Source/Destination: Any IP and port.**
-  * **Message: "HTTP traffic detected."**
-  * **SID (Signature ID): 100001.**
-  * **Revision Number: 1.**
+   * **Action: Alert.**
+   * **Protocol: TCP.**
+   * **Source/Destination: Any IP and port.**
+   * **Message: "HTTP traffic detected."**
+   * **SID (Signature ID): 100001.**
+   * **Revision Number: 1.**
 
 3. **Analyzing Alerts and Logs:**
-  * **fast.log:**
+   * **fast.log:**
     * Provides a concise summary of triggered alerts.
     * Useful for quick review of incident timelines.
 
-  * **eve.json:**
+   * **eve.json:**
     * A JSON-formatted log file containing detailed information about events.
     * Includes metadata like timestamp, source/destination IPs, ports, protocol, and payload details.
 
 4. **Triggering Alerts:**
-  * By generating specific types of traffic matching prewritten rules, I observed Suricata’s ability to identify and log alerts.
+   * By generating specific types of traffic matching prewritten rules, I observed Suricata’s ability to identify and log alerts.
 
 5. **Insights on IDS Rules:**
-  * Effective rule writing ensures accurate identification of suspicious traffic while minimizing false positives.
-  * Rules should balance detail and performance to avoid excessive system resource consumption.
+   * Effective rule writing ensures accurate identification of suspicious traffic while minimizing false positives.
+   * Rules should balance detail and performance to avoid excessive system resource consumption.
 
 **Practical Applications:**
 Understanding Suricata’s alerting and logging processes is essential for:
-  * Detecting suspicious network activity in real time.
-  * Investigating potential breaches using detailed logs.
-  * Fine-tuning IDS rules for optimal security and efficiency.
+   * Detecting suspicious network activity in real time.
+   * Investigating potential breaches using detailed logs.
+   * Fine-tuning IDS rules for optimal security and efficiency.
 
 This lab emphasized the critical role of tools like Suricata in monitoring and defending networks against cyber threats.
   
