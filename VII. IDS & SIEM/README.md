@@ -79,65 +79,36 @@ This lab emphasized the critical role of tools like Suricata in monitoring and d
 **Applications:**
   * Chronicle is a vital tool for identifying and mitigating phishing attacks and other incidents, enhancing an organization’s ability to detect threats and respond swiftly.
 
-1.4  **Xxxxx**
-- xxxxxxxxxxxxx
+3.2  **Performing a Query With Chronicle-Incident Handler's Journal**
 
-1.5  **Xxxxx**
-- xxxxxxxxxxxxx
+**Objective:**
+This report details an investigation into phishing activity targeting company employees. The primary focus is on:
+1. Identifying impacted assets**
+2. Determining employee interactions with the malicious domain
+3. Uncovering indicators of compromise (IoCs)
 
-1.6  **Xxxxx**
-- xxxxxxxxxxxxx 
+**Key Findings:**
+  * **Impacted Assets:** Devices and accounts that interacted with or accessed the malicious domain were identified as potentially compromised.
+  * **Employee Interaction:** Logs and SIEM data revealed instances of employee engagement with phishing emails or URLs, including clicks and file downloads.
+  * **Indicators of Compromise:** IoCs such as malicious file hashes, URLs, and domains were documented for further analysis and mitigation.
 
-1.7  **Xxxxx**
-- xxxxxxxxxxxxx
+**Next Steps:**
+  * **Containment:** Block the identified malicious domain and quarantine affected assets.
+  * **Eradication:** Remove malware or phishing artifacts from compromised systems.
+  * **Employee Awareness:** Provide phishing awareness training and reinforce email security best practices.
+  * **Continuous Monitoring:** Update detection rules to identify similar phishing patterns in the future.
 
-1.8  **Xxxxx**
-- xxxxxxxxxxxxx
-
-1.9  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.1  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.2  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.3  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.4  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.5  **Xxxxx**
-- xxxxxxxxxxxxx
-
-2.6 **Xxxxx**
-- xxxxxxxxxxxxx
+This investigation emphasizes the importance of proactive monitoring and employee vigilance in mitigating phishing threats
 
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
-- **Exercise 1:** []()
-- **Exercise 2:** []()
-- **Exercise 3:** []()
-- **Exercise 4:** []()
-- **Exercise 5:** []()
-- **Exercise 6:** []()
-- **Exercise 7:** []()
-- **Exercise 8:** []()
-- **Exercise 9:** []()
-- **Exercise 10:** []()
-- **Exercise 11:** []()
-- **Exercise 12:** []()
-- **Exercise 13:** []()
-- **Exercise 14:** []()
-- **Exercise 15:** []()
+- **Exercise 1:** [Exploring Suricata Alerts and Logs: A Hands-on Experience](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/1.1%20Exploring%20Suricata%20Alerts%20and%20Logs%3A%20A%20Hands-on%20Experience.md)
+- **Exercise 2:** [Introduction to Splunk and Search Processing Language (SPL)](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/2.1%20Introduction%20to%20Splunk%20and%20Search%20Processing%20Language%20(SPL).md)
+- **Exercise 3:** [Splunk Query-Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/2.2%20Splunk%20Query-Incident%20Handler's%20Journal.pdf)
+- **Exercise 4:** [Chronicle SIEM Activity Summary](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/3.1%20Chronicle%20SIEM%20Activity%20Summary.md)
+- **Exercise 5:** [Performing a Query with Chronicle-Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/3.2%20Performing%20a%20Query%20with%20Chronicle-Incident%20Handler's%20Journal.pdf)
 
 ## Supporting Materials
-- **Apply filters to SQL queries.pdf:** []()
-- **Current file Permissions.pdf:** []()
-- **File Permissions in Linux.pdf:** []()
-- **Instructions for Including Linux Commands.pdf:** []()
-- **Instructions for including SQL queries.pdf:** []()
-- **Table formats.pdf:** []()
+- **Splunk Sign-Up:** [Splunk Sign-Up](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/Splunk%20Sign-Up.pdf)
+- **Tutorialdata:** [Tutorialdata.](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/Tutorialdata.zip)
