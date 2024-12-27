@@ -55,8 +55,8 @@ This lab emphasized the critical role of tools like Suricata in monitoring and d
   * Executing time-based queries and statistical commands like `stats count by host` to group and summarize data.
 
 **Key Insights:**
-    * SIEM tools like Splunk streamline incident response and data analysis.
-    * SPL enables quick identification of patterns, anomalies, and trends.
+  * SIEM tools like Splunk streamline incident response and data analysis.
+  * SPL enables quick identification of patterns, anomalies, and trends.
 
 **Applications:**
     * SPL enhances efficiency in incident response by helping analysts pinpoint affected systems, trace anomalies, and generate actionable insights from large datasets.
