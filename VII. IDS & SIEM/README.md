@@ -48,7 +48,7 @@ Understanding Suricata’s alerting and logging processes is essential for:
 
 This lab emphasized the critical role of tools like Suricata in monitoring and defending networks against cyber threats.
   
-1.2  **Introduction to Splunk and Search Processing Language (SPL)**
+2.1  **Introduction to Splunk and Search Processing Language (SPL)**
 - In this activity, I explored **Splunk Cloud**, a SIEM platform, and its querying language, **Search Processing Language (SPL)**. I set up a Splunk account, uploaded sample data, and performed basic searches to analyze logs.
 
 **Key tasks included:**
@@ -62,8 +62,22 @@ This lab emphasized the critical role of tools like Suricata in monitoring and d
 **Applications:**
   * SPL enhances efficiency in incident response by helping analysts pinpoint affected systems, trace anomalies, and generate actionable insights from large datasets.
 
-1.3  **Xxxxx**
-- xxxxxxxxxxxxx
+3.1  **Chronicle SIEM Activity Summary**
+- In this activity, I investigated a **phishing security incident** using **Chronicle**, a cloud-native SIEM tool. Chronicle's platform aggregates, analyzes, and reports on data from multiple sources to aid in incident response.
+
+**Key steps included:**
+
+  * Leveraging Chronicle’s features to collect and interpret logs and alerts.
+  * Identifying indicators of compromise (IoCs) related to phishing.
+  * Responding to questions about the incident based on data insights from Chronicle.
+
+**Key Insights:**
+
+  * SIEM tools like Chronicle centralize security data for efficient analysis.
+  * Chronicle’s cloud-native approach simplifies investigation by automating data correlation and providing real-time threat insights.
+
+**Applications:**
+  * Chronicle is a vital tool for identifying and mitigating phishing attacks and other incidents, enhancing an organization’s ability to detect threats and respond swiftly.
 
 1.4  **Xxxxx**
 - xxxxxxxxxxxxx
