@@ -62,6 +62,42 @@ This lab emphasized the critical role of tools like Suricata in monitoring and d
 **Applications:**
   * SPL enhances efficiency in incident response by helping analysts pinpoint affected systems, trace anomalies, and generate actionable insights from large datasets.
 
+2.2  **Splunk Query-Incident Handler's Journal**
+
+This report examines failed SSH login attempts targeting the root account on the company's mail server to identify patterns or malicious behavior indicative of a brute-force attack.
+
+**Key Findings:**
+1. **Failed Login Attempts:** A high volume of failed SSH login attempts was detected, originating from multiple IP addresses.
+2. **Targeted Account:** The root account was exclusively targeted, indicating an attempt to gain privileged access to the mail server.
+3. **IP Address Analysis:**
+  * **Geolocation:** The majority of suspicious IPs were traced to regions known for hosting malicious activity.
+  * **Repetition:** Certain IPs showed repeated login attempts over short time intervals, consistent with brute-force tactics.
+4. **Timestamps:** Failed attempts occurred during off-hours, reducing the likelihood of legitimate login errors.
+  * 
+**Indicators of Compromise (IoCs):**
+  * IP addresses involved in failed login attempts.
+  * Timestamp patterns of access attempts.
+  * Unusual spikes in failed SSH authentications.
+
+**Next Steps:**
+1. **Immediate Actions:**
+  * Disable SSH root login on the mail server.
+  * Block the identified malicious IP addresses at the firewall.
+
+2. **Hardening Measures:**
+  * Implement key-based SSH authentication for all accounts.
+  * Enforce multi-factor authentication (MFA) for administrative access.
+  * Update server software and apply the latest security patches.
+
+3. **Monitoring and Detection:**
+  * Configure intrusion detection systems (IDS) to alert on anomalous login activity.
+  * Analyze logs regularly for patterns of unauthorized access attempts.
+
+4. **Preventative Training:**
+  * Educate administrators on secure access protocols and best practices.
+
+This investigation highlights the need for robust access control and proactive monitoring to mitigate brute-force attacks targeting critical infrastructure.
+
 3.1  **Chronicle SIEM Activity Summary**
 - In this activity, I investigated a **phishing security incident** using **Chronicle**, a cloud-native SIEM tool. Chronicle's platform aggregates, analyzes, and reports on data from multiple sources to aid in incident response.
 
