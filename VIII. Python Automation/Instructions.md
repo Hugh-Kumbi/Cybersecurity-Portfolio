@@ -27,7 +27,7 @@
 
 ### Task X
 
-# 1.2 Using Variables in Python for Security Analysis
+# 1.2 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -56,7 +56,7 @@
 
 ### Task X
 
-# 1.3 Using Variables in Python for Security Analysis
+# 1.3 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -85,7 +85,7 @@
 
 ### Task X
 
-# 1.4 Using Variables in Python for Security Analysis
+# 1.4 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -114,7 +114,7 @@
 
 ### Task X
 
-# 1.5 Using Variables in Python for Security Analysis
+# 1.5 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -143,7 +143,7 @@
 
 ### Task X
 
-# 1.6 Using Variables in Python for Security Analysis
+# 1.6 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -172,7 +172,7 @@
 
 ### Task X
 
-# 1.7 Using Variables in Python for Security Analysis
+# 1.7 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -201,7 +201,7 @@
 
 ### Task X
 
-# 1.8 Using Variables in Python for Security Analysis
+# 1.8 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -230,7 +230,7 @@
 
 ### Task X
 
-# 1.9 Using Variables in Python for Security Analysis
+# 1.9 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -259,7 +259,7 @@
 
 ### Task X
 
-# 2.1 Using Variables in Python for Security Analysis
+# 2.1 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -288,7 +288,7 @@
 
 ### Task X
 
-# 2.2 Using Variables in Python for Security Analysis
+# 2.2 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -317,7 +317,7 @@
 
 ### Task X
 
-# 2.3 Using Variables in Python for Security Analysis
+# 2.3 Xxxxxx
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -345,10 +345,3 @@
 ### Task X
 
 ### Task X
-
-
-
-
-
-
-
