@@ -59,7 +59,7 @@ This lab emphasized the critical role of tools like Suricata in monitoring and d
   * SPL enables quick identification of patterns, anomalies, and trends.
 
 **Applications:**
-    * SPL enhances efficiency in incident response by helping analysts pinpoint affected systems, trace anomalies, and generate actionable insights from large datasets.
+  * SPL enhances efficiency in incident response by helping analysts pinpoint affected systems, trace anomalies, and generate actionable insights from large datasets.
 
 2.2  **Splunk Query-Incident Handler's Journal**
 This report examines failed SSH login attempts targeting the root account on the company's mail server to identify patterns or malicious behavior indicative of a brute-force attack.
