@@ -77,23 +77,38 @@ The eve.json file is the standard and main Suricata log file and contains a lot 
 > Splunk is a platform that empowers organizations to prevent major issues, detect threats, restore services, and drive transformation by providing the visibility and insights they require.
 
 ## Overview 
-SIEM, such as an Splunk, is an important part of a security analyst's toolbox because it provides a platform for storing, analyzing, and reporting on data from different sources. The Splunk's querying language, called Search Processing Language (SPL), includes the use of pipes and wildcards. In addition, the effective search helps us efficiently identify patterns, trends, and anomalies within data. 
+SIEM, such as an Splunk, is an important part of a security analyst's toolbox because it provides a platform for storing, analyzing, and reporting on data from different sources. The Splunk's querying language, called **Search Processing Language (SPL)**, includes the use of **pipes** and **wildcards**. In addition, the effective search helps us efficiently identify patterns, trends, and anomalies within data. 
 
 ## Scenario 
 You are a security analyst working at the e-commerce store Buttercup Games. You've been tasked with identifying whether there are any possible security issues with the mail server. To do so, you must explore any failed SSH logins for the root account.  
 
-## Task 1: Create a Splunk Cloud Account
-To use Splunk Cloud, you must create an account.
+## Step-By-Step Instructions
 
-## Task 2: Signup for a Free Splunk Cloud Trial
-Sign up for a free Splunk Cloud trial.
+Follow the instructions and answer the following questions to complete the activity.
 
-## Task 3: Upload Data into Splunk
+### Step 1: Access Supporting Materials
+
+The following supporting materials will help you complete this activity. The data contains log and event information from Buttercup Games' mail servers and web accounts. This includes information like access and authentication logs, email logs, and more.
+
+Link to supporting materials: [Tutorialdata.zip](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/Tutorialdata.zip) file
+
+## Step 2: Create a Splunk Cloud Account
+
+To use Splunk Cloud, you must create an account. Follow *Part 1 - Create a Splunk Cloud account and Part 2 - Verify your email* in the 
+Follow-along guide for [Splunk sign-up](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/Splunk%20Sign-Up.pdf) to create an account.
+ 
+## Step 3: Signup for a Free Splunk Cloud Trial
+
+After you've created your Splunk account, you'll need to sign up for a free Splunk Cloud trial. Follow Part 3 - Activate a Splunk Cloud trial in the 
+Follow-along guide for [Splunk sign-up](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/Splunk%20Sign-Up.pdf).
+
+## Step 4: Upload Data into Splunk
+
 To operate effectively, it's essential that SIEM tools ingest and index data. SIEM tools collect and process data so that it becomes searchable events that can be queried, viewed, and analyzed.
 
 So far, you've created a Splunk account and activated and accessed the Splunk Cloud free trial, but your Splunk Cloud instance does not contain any data. Next, you'll need to upload data into Splunk to start querying. Complete the following steps to upload data into Splunk:
 
-1. Select and upload the file `tutorialdata.zip`. Please visit this [link](https://drive.google.com/file/d/1nDz_DZB4ADbD4tvaDa54_l1FoT_jtVy4/view) to download the file.
+1. If you haven't already, download the data file from **Step 1:** [Tutorialdata.zip](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/Tutorialdata.zip). Click the link then click the download icon. Do not uncompress the file.
 2. Navigate to Splunk Home from your Splunk Cloud free trial instance. You might need to log in again using your credentials from Step 3.
 3. On the Splunk bar, click **Settings**. Then click the **Add Data** icon.
 4. Click **Upload**.
@@ -105,7 +120,7 @@ So far, you've created a Splunk account and activated and accessed the Splunk Cl
 
     * Input Type: Uploaded File
   
-    * File Name: tutorialdata.zip
+    * File Name: Tutorialdata.zip
   
     * Source Type: Automatic
   
@@ -115,7 +130,8 @@ So far, you've created a Splunk account and activated and accessed the Splunk Cl
   
 11. Click **Submit**. Once Splunk has ingested the data, you will receive confirmation that the file was successfully uploaded.
 
-## Task 4: Perform a Basic Search
+## Step 5: Perform a Basic Search
+
 Take a moment to examine the Splunk Cloud interface by locating the app panel, the Explore Splunk panel, and the Splunk bar.
 
 ![Basic Search](https://github.com/user-attachments/assets/06de1e85-82df-49bd-9aed-2ecca6b98733)
@@ -125,17 +141,18 @@ Now that you've uploaded the data into Splunk, perform your first query to confi
 1. Navigate to Splunk Home. (To return to Splunk Home, click the Splunk Cloud logo on the Splunk Cloud page.)
 2. Click **Search & Reporting**. You may close any pop ups that appear.
 3. In the search bar,  enter your search query:
-**`index="main"`**
-This search term specifies the index. An **index** is a repository for data. Here, the index is a single dataset containing events from an index named main.
+    **`index="main"`**
+    This search term specifies the index. An **index** is a repository for data. Here, the index is a single dataset containing events from an index named main.
 4. Select **All Time** from the time range dropdown to search for all the events across all time.
 5. Click the search button. Note that the search button is represented by the magnifying glass icon. Your search should retrieve thousands of events.
 
 ![Basic Search](https://github.com/user-attachments/assets/cc69b84b-00da-4543-9cdf-d915d14b5c51)
 
-## Task 5: Evaluate the Fields
+## Step 6: Evaluate the Fields
+
 When Splunk indexes data, it attaches fields to each event. These fields become part of the searchable index event data. This helps security analysts easily search for and find the specific data they need. Now that you've run your first query, examine the search results and the fields.
 
-For each event the fields are `host`, `source`, and `sourcetype`. Under **SELECTED FIELDS**, examine the same fields.
+For each event the fields are **`host`, `source`,** and **`sourcetype`**. Under **SELECTED FIELDS**, examine the same fields.
 
 ![Select Fields](https://github.com/user-attachments/assets/4e45e776-3711-48a7-ac66-3e268a294265)
 
@@ -157,14 +174,15 @@ Examine the field values by clicking on the field under **SELECTED FIELDS**. You
 
 * **sourcetype:** The sourcetype determines how data is formatted. You should observe three sourcetypes. Examine **`secure-2`**.
 
-## Task 6: Narrow your Search
+## Step 7: Narrow Your Search
+
 Because you've been tasked with exploring any failed SSH logins for the root account on the mail server, you'll need to narrow the search results for events from the mail server.
 
 Under **SELECTED FIELDS**, click **host** and click **mailsv**.
 
 Notice that a new term has been added to the search bar: **`index=main host=mailsv`**. The search results have narrowed to over 9000 events that are generated by the mail server.
 
-## Task 7: Search for a Failed Login for Root
+## Step 8: Search for a Failed Login for Root
 Now that you've narrowed your search results to events generated by the mail server, continue to narrow the search to locate any failed SSH logins for the **root** account. 
 
 1. Clear the search bar.
@@ -173,14 +191,16 @@ Now that you've narrowed your search results to events generated by the mail ser
 
 Click **search**.
 
-## Task 8: Evaluate the Search Results
+## Step 9: Evaluate the Search Results
 
 Your search from the previous task should have retrieved search results for over 300 events. Navigate to other pages of the search results to observe the events not listed on the first page of results.
 
 ### Expectation
-* Upload and process sample log data.
-* Perform searches on indexed data.
-* Analyze and evaluate search results.
-* Identify and differentiate between various data sources.
-* Detect failed SSH login attempts for the root account.
 
+**By completing this activity, you will:**
+
+  * Upload and process sample log data.
+  * Perform effective searches on indexed data.
+  * Analyze and evaluate search results.
+  * Identify and differentiate between various data sources.
+  * Detect failed SSH login attempts for the root account.
