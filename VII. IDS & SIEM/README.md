@@ -115,20 +115,20 @@ This investigation highlights the need for robust access control and proactive m
 
 **Objective:**
 This report details an investigation into phishing activity targeting company employees. The primary focus is on:
-1. Identifying impacted assets**
+1. Identifying impacted assets
 2. Determining employee interactions with the malicious domain
 3. Uncovering indicators of compromise (IoCs)
 
 **Key Findings:**
-    * **Impacted Assets:** Devices and accounts that interacted with or accessed the malicious domain were identified as potentially compromised.
-    * **Employee Interaction:** Logs and SIEM data revealed instances of employee engagement with phishing emails or URLs, including clicks and file downloads.
-    * **Indicators of Compromise:** IoCs such as malicious file hashes, URLs, and domains were documented for further analysis and mitigation.
+  * **Impacted Assets:** Devices and accounts that interacted with or accessed the malicious domain were identified as potentially compromised.
+  * **Employee Interaction:** Logs and SIEM data revealed instances of employee engagement with phishing emails or URLs, including clicks and file downloads.
+  * **Indicators of Compromise:** IoCs such as malicious file hashes, URLs, and domains were documented for further analysis and mitigation.
 
 **Next Steps:**
-    * **Containment:** Block the identified malicious domain and quarantine affected assets.
-    * **Eradication:** Remove malware or phishing artifacts from compromised systems.
-    * **Employee Awareness:** Provide phishing awareness training and reinforce email security best practices.
-    * **Continuous Monitoring:** Update detection rules to identify similar phishing patterns in the future.
+  * **Containment:** Block the identified malicious domain and quarantine affected assets.
+  * **Eradication:** Remove malware or phishing artifacts from compromised systems.
+  * **Employee Awareness:** Provide phishing awareness training and reinforce email security best practices.
+  * **Continuous Monitoring:** Update detection rules to identify similar phishing patterns in the future.
 
 This investigation emphasizes the importance of proactive monitoring and employee vigilance in mitigating phishing threats
 
