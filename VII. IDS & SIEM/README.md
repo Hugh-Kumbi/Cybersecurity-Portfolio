@@ -55,11 +55,11 @@ This lab emphasized the critical role of tools like Suricata in monitoring and d
   * Executing time-based queries and statistical commands like `stats count by host` to group and summarize data.
 
 **Key Insights:**
-  * SIEM tools like Splunk streamline incident response and data analysis.
-  * SPL enables quick identification of patterns, anomalies, and trends.
+    * SIEM tools like Splunk streamline incident response and data analysis.
+    * SPL enables quick identification of patterns, anomalies, and trends.
 
 **Applications:**
-  * SPL enhances efficiency in incident response by helping analysts pinpoint affected systems, trace anomalies, and generate actionable insights from large datasets.
+    * SPL enhances efficiency in incident response by helping analysts pinpoint affected systems, trace anomalies, and generate actionable insights from large datasets.
 
 2.2  **Splunk Query-Incident Handler's Journal**
 This report examines failed SSH login attempts targeting the root account on the company's mail server to identify patterns or malicious behavior indicative of a brute-force attack.
@@ -68,31 +68,31 @@ This report examines failed SSH login attempts targeting the root account on the
 1. **Failed Login Attempts:** A high volume of failed SSH login attempts was detected, originating from multiple IP addresses.
 2. **Targeted Account:** The root account was exclusively targeted, indicating an attempt to gain privileged access to the mail server.
 3. **IP Address Analysis:**
-  * **Geolocation:** The majority of suspicious IPs were traced to regions known for hosting malicious activity.
-  * **Repetition:** Certain IPs showed repeated login attempts over short time intervals, consistent with brute-force tactics.
+    * **Geolocation:** The majority of suspicious IPs were traced to regions known for hosting malicious activity.
+    * **Repetition:** Certain IPs showed repeated login attempts over short time intervals, consistent with brute-force tactics.
 4. **Timestamps:** Failed attempts occurred during off-hours, reducing the likelihood of legitimate login errors.
 
 **Indicators of Compromise (IoCs):**
-  * IP addresses involved in failed login attempts.
-  * Timestamp patterns of access attempts.
-  * Unusual spikes in failed SSH authentications.
+    * IP addresses involved in failed login attempts.
+    * Timestamp patterns of access attempts.
+    * Unusual spikes in failed SSH authentications.
 
 **Next Steps:**
 1. **Immediate Actions:**
-  * Disable SSH root login on the mail server.
-  * Block the identified malicious IP addresses at the firewall.
+    * Disable SSH root login on the mail server.
+    * Block the identified malicious IP addresses at the firewall.
 
 2. **Hardening Measures:**
-  * Implement key-based SSH authentication for all accounts.
-  * Enforce multi-factor authentication (MFA) for administrative access.
-  * Update server software and apply the latest security patches.
+    * Implement key-based SSH authentication for all accounts.
+    * Enforce multi-factor authentication (MFA) for administrative access.
+    * Update server software and apply the latest security patches.
 
 3. **Monitoring and Detection:**
-  * Configure intrusion detection systems (IDS) to alert on anomalous login activity.
-  * Analyze logs regularly for patterns of unauthorized access attempts.
+    * Configure intrusion detection systems (IDS) to alert on anomalous login activity.
+    * Analyze logs regularly for patterns of unauthorized access attempts.
 
 4. **Preventative Training:**
-  * Educate administrators on secure access protocols and best practices.
+    * Educate administrators on secure access protocols and best practices.
 
 This investigation highlights the need for robust access control and proactive monitoring to mitigate brute-force attacks targeting critical infrastructure.
 
@@ -100,16 +100,16 @@ This investigation highlights the need for robust access control and proactive m
 - In this activity, I investigated a **phishing security incident** using **Chronicle**, a cloud-native SIEM tool. Chronicle's platform aggregates, analyzes, and reports on data from multiple sources to aid in incident response.
 
 **Key steps included:**
-  * Leveraging Chronicle’s features to collect and interpret logs and alerts.
-  * Identifying indicators of compromise (IoCs) related to phishing.
-  * Responding to questions about the incident based on data insights from Chronicle.
+    * Leveraging Chronicle’s features to collect and interpret logs and alerts.
+    * Identifying indicators of compromise (IoCs) related to phishing.
+    * Responding to questions about the incident based on data insights from Chronicle.
 
 **Key Insights:**
-  * SIEM tools like Chronicle centralize security data for efficient analysis.
-  * Chronicle’s cloud-native approach simplifies investigation by automating data correlation and providing real-time threat insights.
+    * SIEM tools like Chronicle centralize security data for efficient analysis.
+    * Chronicle’s cloud-native approach simplifies investigation by automating data correlation and providing real-time threat insights.
 
 **Applications:**
-  * Chronicle is a vital tool for identifying and mitigating phishing attacks and other incidents, enhancing an organization’s ability to detect threats and respond swiftly.
+    * Chronicle is a vital tool for identifying and mitigating phishing attacks and other incidents, enhancing an organization’s ability to detect threats and respond swiftly.
 
 3.2  **Performing a Query With Chronicle-Incident Handler's Journal**
 
@@ -120,15 +120,15 @@ This report details an investigation into phishing activity targeting company em
 3. Uncovering indicators of compromise (IoCs)
 
 **Key Findings:**
-  * **Impacted Assets:** Devices and accounts that interacted with or accessed the malicious domain were identified as potentially compromised.
-  * **Employee Interaction:** Logs and SIEM data revealed instances of employee engagement with phishing emails or URLs, including clicks and file downloads.
-  * **Indicators of Compromise:** IoCs such as malicious file hashes, URLs, and domains were documented for further analysis and mitigation.
+    * **Impacted Assets:** Devices and accounts that interacted with or accessed the malicious domain were identified as potentially compromised.
+    * **Employee Interaction:** Logs and SIEM data revealed instances of employee engagement with phishing emails or URLs, including clicks and file downloads.
+    * **Indicators of Compromise:** IoCs such as malicious file hashes, URLs, and domains were documented for further analysis and mitigation.
 
 **Next Steps:**
-  * **Containment:** Block the identified malicious domain and quarantine affected assets.
-  * **Eradication:** Remove malware or phishing artifacts from compromised systems.
-  * **Employee Awareness:** Provide phishing awareness training and reinforce email security best practices.
-  * **Continuous Monitoring:** Update detection rules to identify similar phishing patterns in the future.
+    * **Containment:** Block the identified malicious domain and quarantine affected assets.
+    * **Eradication:** Remove malware or phishing artifacts from compromised systems.
+    * **Employee Awareness:** Provide phishing awareness training and reinforce email security best practices.
+    * **Continuous Monitoring:** Update detection rules to identify similar phishing patterns in the future.
 
 This investigation emphasizes the importance of proactive monitoring and employee vigilance in mitigating phishing threats
 
