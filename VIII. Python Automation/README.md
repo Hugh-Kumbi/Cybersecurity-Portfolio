@@ -1,5 +1,6 @@
-# Xxxxxxxx
-Xxxxxx
+# Python for Cybersecurity: Streamlining Detection and Response
+
+This folder contains exercises, solutions, and supporting materials focused on detection and incident response in cybersecurity. It highlights the use of Python to automate key cybersecurity tasks, enabling efficient detection, analysis, and response to incidents while aligning with the incident response lifecycle.
 
 ## Contents
 1.1  **Xxxx** 
