@@ -1,2 +1,2 @@
 
-> Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
+> Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
