@@ -1,5 +1,4 @@
 # Building Resilience: Detection and Incident Response
-
 This folder contains exercises, solutions, and supporting materials focused on detection and incident response in cybersecurity. It emphasizes understanding the incident response lifecycle and utilizing tools like Intrusion Detection Systems (IDS) and Security Information and Event Management (SIEM) platforms to detect, analyze, and respond to cybersecurity incidents effectively.
 
 ## Contents
@@ -63,7 +62,6 @@ This lab emphasized the critical role of tools like Suricata in monitoring and d
   * SPL enhances efficiency in incident response by helping analysts pinpoint affected systems, trace anomalies, and generate actionable insights from large datasets.
 
 2.2  **Splunk Query-Incident Handler's Journal**
-
 This report examines failed SSH login attempts targeting the root account on the company's mail server to identify patterns or malicious behavior indicative of a brute-force attack.
 
 **Key Findings:**
@@ -73,7 +71,7 @@ This report examines failed SSH login attempts targeting the root account on the
   * **Geolocation:** The majority of suspicious IPs were traced to regions known for hosting malicious activity.
   * **Repetition:** Certain IPs showed repeated login attempts over short time intervals, consistent with brute-force tactics.
 4. **Timestamps:** Failed attempts occurred during off-hours, reducing the likelihood of legitimate login errors.
-  * 
+
 **Indicators of Compromise (IoCs):**
   * IP addresses involved in failed login attempts.
   * Timestamp patterns of access attempts.
@@ -102,13 +100,11 @@ This investigation highlights the need for robust access control and proactive m
 - In this activity, I investigated a **phishing security incident** using **Chronicle**, a cloud-native SIEM tool. Chronicle's platform aggregates, analyzes, and reports on data from multiple sources to aid in incident response.
 
 **Key steps included:**
-
   * Leveraging Chronicle’s features to collect and interpret logs and alerts.
   * Identifying indicators of compromise (IoCs) related to phishing.
   * Responding to questions about the incident based on data insights from Chronicle.
 
 **Key Insights:**
-
   * SIEM tools like Chronicle centralize security data for efficient analysis.
   * Chronicle’s cloud-native approach simplifies investigation by automating data correlation and providing real-time threat insights.
 
