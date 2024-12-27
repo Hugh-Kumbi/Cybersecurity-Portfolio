@@ -100,16 +100,16 @@ This investigation highlights the need for robust access control and proactive m
 - In this activity, I investigated a **phishing security incident** using **Chronicle**, a cloud-native SIEM tool. Chronicle's platform aggregates, analyzes, and reports on data from multiple sources to aid in incident response.
 
 **Key steps included:**
-    * Leveraging Chronicle’s features to collect and interpret logs and alerts.
-    * Identifying indicators of compromise (IoCs) related to phishing.
-    * Responding to questions about the incident based on data insights from Chronicle.
+  * Leveraging Chronicle’s features to collect and interpret logs and alerts.
+  * Identifying indicators of compromise (IoCs) related to phishing.
+  * Responding to questions about the incident based on data insights from Chronicle.
 
 **Key Insights:**
-    * SIEM tools like Chronicle centralize security data for efficient analysis.
-    * Chronicle’s cloud-native approach simplifies investigation by automating data correlation and providing real-time threat insights.
+  * SIEM tools like Chronicle centralize security data for efficient analysis.
+* Chronicle’s cloud-native approach simplifies investigation by automating data correlation and providing real-time threat insights.
 
 **Applications:**
-    * Chronicle is a vital tool for identifying and mitigating phishing attacks and other incidents, enhancing an organization’s ability to detect threats and respond swiftly.
+  * Chronicle is a vital tool for identifying and mitigating phishing attacks and other incidents, enhancing an organization’s ability to detect threats and respond swiftly.
 
 3.2  **Performing a Query With Chronicle-Incident Handler's Journal**
 
