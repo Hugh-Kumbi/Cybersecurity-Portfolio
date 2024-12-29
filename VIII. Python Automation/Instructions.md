@@ -789,23 +789,102 @@ Afterwards, display the contents of `text` and run the cell to explore the resul
 
 ## Scenario
 
-### Task X
+In this lab, you're working as a security analyst and you're responsible for developing an algorithm that parses a file containing IP addresses that are allowed to access restricted content and removes addresses that no longer have access.
 
-### Task X
+### Task 1
 
-### Task X
+Your eventual goal is to develop an algorithm that parses a series of IP addresses that can access restricted information and removes the addresses that are no longer allowed. Python can automate this process.
 
-### Task X
+You're given a text file called `"allow_list.txt"` that contains a series of IP addresses that are allowed to access restricted information. 
 
-### Task X
+There are IP addresses that should no longer have access to this information, and their IP addresses need to be removed from the text file. You're given a variable named `remove_list` that contains the list of IP addresses to be removed.
 
-### Task X
+Display both variables to explore their contents, and run the cell. Be sure to replace each `### YOUR CODE HERE ###` with your own code before running the following cell.
 
-### Task X
+#### **Question 1**
+**What do you observe about the output above?**
 
-### Task X
+### Task 2
 
-### Task X
+In this task, start by opening the text file using the `import_file` variable, the `with` keyword, and the `open()` function with the `"r"` parameter. Be sure to replace the `### YOUR CODE HERE ###` with your own code.
+
+For now, you'll write the first line of the `with` statement. Running this code will produce an error because it will only contain the first line of the `with` statement; you'll complete this `with` statement in the task after this.
+
+### Task 3
+Now, use the `.read()` method to read the imported file and store it in a variable named `ip_addresses`. 
+
+Afterwards, display `ip_addresses` to examine the data in its current format. 
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 2**
+**Do you notice any IP addresses in the allow list that are also in the `remove_list`?**
+
+### Task 4
+
+After reading the file, reassign the `ip_addresses` variable so its data type is updated from a string to a list. Use the `.split()` method to achieve this. Adding this step will allow you to iterate through each of the IP addresses in the allow list instead of navigating a large string that contains all the addresses merged together. 
+
+Afterwards, display the `ip_addresses` variable to verify that the update took place.
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 5
+
+Now, you'll write code that removes the elements of `remove_list` from the `ip_addresses` list. This will require both an iterative statement and a conditional statement. 
+
+First, build the iterative statement. Name the loop variable `element`, loop through `ip_addresses`, and display each element. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 6
+
+Now, build a conditional statement to remove the elements of `remove_list` from the `ip_addresses` list. The conditional statement should be placed inside the iterative statement that loops through `ip_addresses`. In every iteration, if the current element in the `ip_addresses` list is in the `remove_list`, the `remove()` method should be used to remove that element. 
+
+Afterwards, display the updated `ip_addresses` list to verify that the elements of remove_list are no longer in the `ip_addresses`. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 7
+
+The next step is to update the original file that was used to create the `ip_addresses` list. A line of code containing the `.join()` method has been added to the code so that the file can be updated. This is necessary because `ip_addresses` must be in string format when used inside the `with` statement to rewrite the file.
+
+The `.join()` method takes in an iterable (such as a list) and concatenates every element of it into a string. The `.join()` method is applied to a string consisting of the character that will be used to separate every element in the iterable once its converted into a string. In the code below, the method is applied to the string `" "`, which contains just a space character. The argument of the `.join()` method is the iterable you want to convert, and in this case, that's `ip_addresses`. As a result, it converts `ip_addresses` from a list back into a string with a space between each element and the next.
+
+After this line with the `.join()` method, build the `with` statement that rewrites the original file. Use the `"w"` parameter when calling the `open()` function to delete the contents in the original file and replace it with what you want to write. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell. This code cell will not produce an output.
+
+### Task 8
+
+In this task, you'll verify that the original file was rewritten using the correct list. 
+
+Write another `with` statement, this time to read in the updated file. Start by opening the file. Then read the file and store its contents in the `text` variable. 
+
+Afterwards, display the `text` variable to examine the result.
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 9
+
+The next step is to bring all of the code you've written leading up to this point and put it all into one function. 
+
+Define a function named `update_file()` that takes in two parameters. The first parameter is the name of the text file that contains IP addresses (call this parameter `import_file`). The second parameter is a list that contains IP addresses to be removed (call this parameter `remove_list`).
+
+Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell. Note that this code cell will not produce an output.
+
+#### **Question 3**
+**What are the benefits of incorporating the algorithm into a single function?**
+
+### Task 10
+
+Finally, call the `update_file()` that you defined. Apply the function to `"allow_list.txt"` and pass in a list of IP addresses as the second argument.
+
+Use the following list of IP addresses as the second argument: 
+
+`["192.168.25.60", "192.168.140.81", "192.168.203.198"]`
+
+After the function call, use a `with` statement to read the contents of the allow list. Then display the contents of the allow list. Run it to verify that the file has been updated by the function.
+
+Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Conclusion
+
+**What are your key takeaways from this lab?**
+
 
 # 2.2 Updating a File Through a Python Algorithm
 
@@ -817,23 +896,99 @@ Afterwards, display the contents of `text` and run the cell to explore the resul
 
 ## Scenario
 
-### Task X
+You are a security professional working at a health care company. As part of your job, you're required to regularly update a file that identifies the employees who can access restricted content. The contents of the file are based on who is working with personal patient records. Employees are restricted access based on their IP address. There is an allow list for IP addresses permitted to sign into the restricted subnetwork. There's also a remove list that identifies which employees you must remove from this allow list.
 
-### Task X
+Your task is to create an algorithm that uses Python code to check whether the allow list contains any IP addresses identified on the remove list. If so, you should remove those IP addresses from the file containing the allow list.
 
-### Task X
+Note: This scenario involves developing the same algorithm that is developed in Tasks 2-7 of the [Creating Another Algorithm Lab](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VIII.%20Python%20Automation/2.1%20Creating%20Another%20Algorithm.ipynb). (You do not need to reference Task 1 and Tasks 8-10 of the lab to complete this portfolio activity.) You should revisit the lab to get screenshots to include in your portfolio document. 
 
-### Task X
+## Step-By-Step Instructions
 
-### Task X
+Follow the instructions to complete each step of the activity. 
 
-### Task X
+### Step 1: Access the Template
 
-### Task X
+To use the template for this course item, click the link and select Use Template. (In this step, you will just open the template. More instructions for how to use the template will be included in later steps.)
 
-### Task X
+Link to template: [Algorithm for File Updates in Python](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VIII.%20Python%20Automation/Algorithm%20for%20File%20Updates%20in%20Python.pdf)
 
-### Task X
+### Step 2: Access Supporting Materials
+
+The following supporting material will help you complete this activity. The document Instructions for including Python code provides instructions and best practices for including samples of Python code in your portfolio activity. Keep it open as you proceed to the next steps. 
+
+To use the supporting material for this course item, click the link and select Use Template. 
+
+Link to supporting material: [Instructions for Including Python Code](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VIII.%20Python%20Automation/Instructions%20for%20Including%20Python%20Code.pdf)
+
+### Step 3: Open the File That Contains the Allow List
+
+The file that you want to open is called **`"allow_list.txt"`**. Assign a string containing this file name to the **`import_file variable`**. Then, use a **`with`** statement to open it. Use the variable **`file`** to store the file while you work **`with`** it inside the with statement.
+  
+Describe the Python syntax, functions, and keywords you need to accomplish this in the **Open the File That Contains the Allow List** section of the **Algorithm for File Updates in Python** template. In the **Task 2** section of **Creating Another Algorithm** lab, take a screenshot of this portion of your code. Or, type this code directly into the template.
+
+### Step 4: Read the File Contents 
+
+Next, use the **`.read()`** method to convert the contents of the allow list file into a string so that you can read them. Store this string in a variable called **`ip_addresses`**.
+
+Describe the Python syntax, functions, and keywords you need to accomplish this in the **Read the File Contents** section of the **Algorithm for File Updates in Python** template. In the **Task 3** section of the **Creating Another Algorithm** lab, take a screenshot of this portion of your code. Or, type this code directly into the template.
+
+### Step 5: Convert the String into a List
+
+In order to remove individual IP addresses from the allow list, the IP addresses need to be in a list format. Therefore, use the **`.split()`** method to convert the **`ip_addresses`** string into a list.
+
+Describe the Python syntax, functions, and keywords you need to accomplish this in the **Convert the String into a List** section of the **Algorithm for File Updates in Python** template. In the **Task 4** section of the **Creating Another Algorithm** lab, take a screenshot of this portion of your code. Or, type this code directly into the template.
+
+### Step 6: Iterate through the Remove List
+
+A second list called **`remove_list`** contains all of the IP addresses that should be removed from the **`ip_addresses`** list. Set up the header of a **`for`** loop that will iterate through the **`remove_list`**. Use **`element`** as the loop variable.
+
+Describe the Python syntax, functions, and keywords you need to accomplish this in the **Iterate Through the Remove List** section of the **Algorithm for File Updates in Python** template. In the **Task 5** section of the **Creating Another Algorithm** lab, take a screenshot of this portion of your code. Or, type this code directly into the template.
+
+### Step 7: Remove IP Addresses That are on the Remove List
+
+In the body of your iterative statement, add code that will remove all the IP addresses from the allow list that are also on the remove list. First, create a conditional that evaluates if the loop variable **`element`** is part of the **`ip_addresses`** list. Then, within that conditional, apply the **`.remove()`** method to the **`ip_addresses`** list and remove the IP addresses identified in the loop variable **`element`**. 
+
+Describe the Python syntax, functions, and keywords you need to accomplish this in the **Remove IP Addresses That are on the Remove List** section of the **Algorithm for File Updates in Python** template. In the **Task 6** section of the **Creating Another Algorithm** lab, take a screenshot of this portion of your code. Or, type this code directly into the template.
+
+In addition, include a sentence that explains that applying the **`.remove()`** method in this way is possible because there are no duplicates in the **`ip_addresses`** list. 
+
+### Step 8: Update the File With the Revised List of IP Addresses
+
+Now that you have removed these IP addresses from the **`ip_address`** variable, you can complete the algorithm by updating the file with this revised list. To do this, you must first convert the **`ip_addresses`** list back into a string using the **`.join()`** method. Apply **`.join()`** to the string **`"\n"`** in order to separate the elements in the file by placing them on a new line.
+
+Then, use another **`with`** statement and the **`.write()`** method to write over the file assigned to the **`import_file`** variable.
+
+Describe the Python syntax, functions, and keywords you need to accomplish this in the **Update the File With the Revised List of IP Addresses** section of the **Algorithm for File Updates in Python** template. In the **Task 7** section of the **Creating Another Algorithm** lab, take a screenshot of this portion of your code. Or, type this code directly into the template.
+
+### Step 8: Finalize Your Document
+
+To finalize the document and make its purpose clear to potential employers, be sure to complete the **Project Description** and **Summary** sections of the **Algorithm for File Updates in Python** template. 
+
+In the Project description section, give a general overview of the scenario and what you accomplished in Python. Write three to five sentences.
+
+In the Summary section, provide a short summary of the algorithm by highlighting its main components. Write four to six sentences.
+
+### What to Include in Your Response
+
+**Be sure to address the following in your completed activity:** 
+
+  * Screenshots of your Python code or typed versions of the code
+
+  * Explanations of the syntax, functions, and keywords in the code
+
+  * A project description at the beginning
+
+  * A summary at the end
+
+  * Details on using a with statement and the **`open()`** function in your algorithm
+
+  * Details on using the **`.read()`** and **`.write()`** methods in your algorithm
+
+  * Details on using the **`.split()`** method in your algorithm
+
+  * Details on using a **`for`** loop in your algorithm
+
+  * Details on using the **`.remove()`** method in your algorithm
 
 # 2.3 Debugging Python Code
 
@@ -845,20 +1000,63 @@ Afterwards, display the contents of `text` and run the cell to explore the resul
 
 ## Scenario
 
-### Task X
+In your work as a security analyst, you need to apply debugging strategies to ensure your code works properly.
 
-### Task X
+Throughout this lab, you'll work with code that is similar to what you've written before, but now it has some errors that need to be fixed. You'll need to read code cells, run them, identify the errors, and adjust the code to resolve the errors.
 
-### Task X
+### Task 1
 
-### Task X
+The following code cell contains a syntax error. In this task, you'll run the code, identify why the error is occuring, and modify the code to resolve it. (To ensure that it has been resolved, run the code again to check if it now functions properly.)
 
-### Task X
+#### **Question 1**
+**What happens when you run the code before modifying it? How can you fix this?**
 
-### Task X
+### Task 2
 
-### Task X
+In the following code cell, you're provided a list of usernames. There is an issue with the syntax. In this task, you'll run the cell, observe what happens, and modify the code to fix the issue.
 
-### Task X
+#### **Question 2**
+**What happens when you run the code before modifying it? How can you fix it?**
 
-### Task X
+### Task 3
+
+In the following code cell, there is a syntax error. Your task is to run the cell, identify what is causing the error, and fix it.
+
+#### **Question 3**
+**What happens when you run the code before modifying it? What is causing the syntax error? How can you fix it?**
+
+### Task 4
+
+In the following code cell, you're provided a `usernames_list`, a `username`, and code that determines whether the username is approved. There are two syntax errors and one exception. Your task is to find them and fix the code. A helpful debugging strategy is to focus on one error at a time and run the code after fixing each one.
+
+#### **Question 4**
+**What happens when you run the code before modifying it? What is causing the errors? How can you fix it?**
+
+### Task 5
+
+In this task, you'll examine the following code and identify the type of error that occurs. Then, you'll adjust the code to fix the error.
+
+#### **Question 5**
+**What happens when you run the code before modifying it? What type of error is this? How can you fix it?**
+
+### Task 6
+
+In this task, you'll examine the following code. The code imports a text file into Python, reads its contents, and stores the contents as a list in a variable named `ip_addresses`. It then removes elements from `ip_addresses` if they are in `remove_list`. There are two errors in the code: first a syntax error and then an exception related to a string method. Your goal is to find these errors and fix them.
+
+#### **Question 6**
+**What happens when you run the code before modifying it? What is causing the errors? How can you fix them?**
+
+### Task 7
+
+In this final task, there are three operating systems: OS 1, OS 2, and OS 3. Each operating system needs a security patch by a specific date. The patch date for OS 1 is `"March 1st"`, the patch date for OS 2 is `"April 1st"`, and the patch date for OS 3 is `"May 1st"`. 
+
+The following code stores one of these operating systems in a variable named `system`. Then, it uses conditionals to output the patch date for this operating system. 
+
+However, this code has logic errors. Your goal is to assign the `system` variable to different values, run the code to examine the output, identify the error, and fix it.
+
+#### **Question 7**
+**What happens when you run the code before modifying it? What is causing the logic errors? How can you fix them?**
+
+### T## Conclusion
+
+**What are your key takeaways from this lab?**
