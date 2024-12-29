@@ -263,23 +263,84 @@ Be sure to replace the ### YOUR CODE HERE ### with your own code before you run 
 
 ## Scenario
 
-### Task X
+Writing functions in Python is a useful skill in your work as a security analyst. In this lab, you'll define and a call a function that displays an alert about a potential security issue. Also, you'll work with a list of employee usernames, creating a function that converts the list into one string.
 
-### Task X
+### Task 1
 
-### Task X
+The following code cell contains a user-defined function named `alert()`. 
 
-### Task X
+For this task, analyze the function definition, and make note of your observations. 
 
-### Task X
+You won't need to run the cell in order to answer the question that follows. But if you do run the cell, note that it will not produce an output because the function is just being defined here.
 
-### Task X
+#### **Question 1**
+Summarize what the user-defined function above does in your own words. Think about what the output would be if this function were called.
 
-### Task X
+### Task 2
 
-### Task X
+For this task, call the `alert()` function that was defined earlier and analyze the output. 
 
-### Task X
+Be sure to replace the `### YOUR CODE HERE ###` with your own code before running the following cell.
+
+#### **Question 2**
+What are the advantages of placing this code in a function rather than running it directly?
+
+### Task 3
+
+Functions can include other components that you've already worked with. The following code cell contains a variation of the `alert()` function that now uses a `for` loop to display the alert message multiple times.
+
+For this task, call the new `alert()` function and observe the output. 
+
+Be sure to replace the `### YOUR CODE HERE ###` with your own code before running the following cell.
+
+#### **Question 3**
+How does the output above compare to the output from calling the previous version of the `alert()` function? How are the two definitions of the function different?
+
+### Task 4
+
+In the next part of your work, you're going to work with a list of approved usernames, representing users who can enter a system. You'll be developing a function that helps you convert the list of approved usernames into one big string. Structuring this data differently enables you to work with it in different ways. For example, structuring the usernames as a list allows you to easily add or remove a username from it. In contrast, structuring it as a string allows you to easily place its contents into a text file.  
+
+For this task, start defining a function named `list_to_string()`. Write the function header. 
+
+Be sure to replace the `### YOUR CODE HERE ###` with your own code. Note that running this cell will produce an error since this cell will just contain the function header; you'll write the function body and complete the function definition in a later task.
+
+### Task 5
+
+Now you'll begin to develop the body of the `list_to_string()` function.  
+
+In the following code cell, you're provided a list of approved usernames, stored in a variable named `username_list`. Your task is to complete the body of the `list_to_string()` function. Recall that the body of a function must be indented. To complete the function body, write a loop that iterates through the elements of the `username_list` and displays each element. Then, call the function and run the cell to observe what happens. 
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before running the following cell.
+
+#### **Question 4**
+What do you observe from the output above?
+
+### Task 6
+
+String concatenation is a powerful concept in coding. It allows you to combine multiple strings together to form one large string, using the addition operator (`+`). Sometimes analysts need to merge individual pieces of data into a single string value. In this task, you'll use string concatenation to modify how the `list_to_string()` function is defined.
+
+In the following code cell, you're provided a variable named `sum_variable` that initially contains an empty string. Your task is to use string concatenation to combine the usernames from the `username_list` and store the result in `sum_variable`.
+
+In each iteration of the `for` loop, add the current element of `username_list` to `sum_variable`. At the end of the function definition, write a `print()` statement to display the value of `sum_variable` at that stage of the process. Then, run the cell to call the `list_to_string()` function and examine its output.
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before running the following cell.
+
+#### **Question 5**
+What do you observe from the output above?
+
+### Task 7
+
+In this final task, you'll modify the code you wrote previously to improve the readability of the output. 
+
+This time, in the definition of the `list_to_string()` function, add a comma and a space (`", "`) after each username. This will prevent all the usernames from running into each other in the output. Adding a comma helps clearly separate one username from the next in the output. Adding a space following the comma as an additional separator between one username and the next makes it easier to read the output. Then, call the function and run the cell to observe the output.
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before running the following cell.
+
+#### **Question 6**
+What do you notice about the output from the function call this time?
+
+### Conclusion
+**What are your key takeaways from this lab?**
 
 # 1.5 Creating More Functions
 
@@ -291,23 +352,86 @@ Be sure to replace the ### YOUR CODE HERE ### with your own code before you run 
 
 ## Scenario
 
-### Task X
+In your work as a security analyst, you're responsible for working with a list that contains the number of failed attempts that occurred each month. You'll identify any patterns that might indicate malicious activity. You're also responsible for defining a function that compares the logins for the current day to an average and improving it by adding a `return` statement.
 
-### Task X
+### Task 1
+In your work as an analyst, imagine that you're provided a list of the number of failed login attempts per month, as follows: 
 
-### Task X
+`119`, `101`, `99`, `91`, `92`, `105`, `108`, `85`, `88`, `90`, `264`, and `223`.
 
-### Task X
+This list is organized in chronological order of months (January, February, March, April, May, June, July, August, September, October, November, and December).
 
-### Task X
+This list is stored in a variable named `failed_login_list`. 
 
-### Task X
+In this task, use a built-in Python function to order the list. You'll pass the call to the function that sorts the list directly into the `print()` function. This will allow you to display and examine the result.
 
-### Task X
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
 
-### Task X
+#### **Question 1**
+**What do you observe from the output above? Do you notice any outlying numbers that indicate an increase in the failed number of login attempts?**
 
-### Task X
+### Task 2
+Now, you'll want to isolate the highest number of failed login attempts so you can later investigate information about the month when that highest value occurred.
+
+You'll use the function that returns the largest numeric element from a list. Then, you'll pass this function into the `print()` function to display the result. This will allow you to determine which month to investigate further.
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 2**
+**What do you observe from the output above?**
+
+### Task 4
+Now that you've defined the `analyze_logins()` function, call it to test out how it behaves.
+
+Call `analyze_logins()` with the arguments `"ejones"` and `9`.
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 3**
+**What does this function display? Would the output vary for different users?**
+
+### Task 5
+
+Now, you'll need to expand this function so that it also provides the average number of login attempts made by the user on that day. Doing this will require incorporating a third parameter into the function definition.
+
+In this task, add a parameter called `average_day_logins`. The code will use this parameter to display an additional message. The additional message will convey the average login attemps made by the user on that day. Then, call the function with the same first and second arguments as used in Task 4 and a third argument of `3`.
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 6
+In this task, you'll further expand the function. Include a calculation to get the ratio of the logins made on the current day to the logins made on an average day. Store this in a new variable named `login_ratio`. The function displays an additional message that uses this variable.
+
+Note that if `average_day_logins` is equal to `0`, then dividing `current_day_logins` by `average_day_logins` will cause an error. Due to the error, Python will display the following message: `ZeroDivisionError: division by zero`. For this activity, assume that all users will have logged in at least once before. This means that their `average_day_logins` will be greater than `0`, and the function will not involve dividing by zero.
+
+After defining the function, call the function with the same arguments that you used in the previous task.
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 4**
+**What does this version of the `analyze_logins()` function display? Would the output vary for different users?**
+
+### Task 7
+
+You'll continue working with the `analyze_logins()` function and add a return statement to it. Return statements allow you to send information back to the function call.
+
+In this task, use the `return` keyword to output the `login_ratio` from the function, so that it can be used later in your work. 
+
+You'll call the function with the same arguments used in the previous task and store the output from the function call in a variable named `login_analysis`. You'll then use a `print()` statement to display the saved information. 
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 5**
+**How does this version of the `analyze_logins()` function compare to the previous versions?**
+
+### Task 8
+
+In this task, you'll use the value of `login_analysis` in a conditional statement. When the value of `login_analysis` is greater than or equal to `3`, then the login activity will require further investigation, and an alert will be displayed. Incorporate this condition to complete the conditional statement in the code. 
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Conclusion
+
+**What are your key takeaways from this lab?**
 
 # 1.6 Working with Strings in Python
 
@@ -319,23 +443,74 @@ Be sure to replace the ### YOUR CODE HERE ### with your own code before you run 
 
 ## Scenario
 
-### Task X
+You’re working as a security analyst, and you are responsible for writing programs in Python to au￾tomate updating employee IDs, extracting characters from a device ID, and extracting componentsfrom a URL.
 
-### Task X
+### Task 1
 
-### Task X
+In your organization, employee IDs are currently either four digits or five digits in length. In this task, you’re given a four-digit numeric employee ID stored in a variable called `employee_id`. Convert this to a string format and store the result in the same variable. Later, you’ll update this employee ID string so that it complies with a new standardized format. Complete the following code. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
 
-### Task X
+**Question 1 What do you observe about the data type of employee_id the first time it’s displayed? What do you observe about the data type of employee_id the second time it’s displayed (after the variable is reassigned)?**
 
-### Task X
+### Task 2
 
-### Task X
+Imagine that you have just been informed of a new criteria for employee IDs. They must all be five digits long for standardization purposes.
 
-### Task X
+In this task, you will write a conditional statement that displays a message if the length of the employee ID is less than five digits. 
 
-### Task X
+Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
 
-### Task X
+### Task 3
+
+In this task, you’ll build upon the previous code. If an employee ID is only four digits, you’ll use concatenation to create a five-digit employee ID number. 
+
+Concatenation is a process that allows you to merge strings together. The addition operator (`+`) in Python allows you to concatenate two strings.
+
+Write an if statement that evaluates whether the length of `employee_id` is less than `5`. When the condition evaluates to `True`, reassign `employee_id` by concatenating `"E"` in front of the four-digit employee ID to create a five character employee ID. Then, display `employee_id` again. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 4
+
+Now you’ll move on to the next part of your task. Imagine that the characters in a device ID convey technical information about the device. You’ll need to extract characters in specific positions from the device ID. Start off by extracting the fourth character.
+
+The variable `device_id` represents a device ID containing alphanumeric characters; it’s already stored as a string. 
+
+Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 5
+
+Now you will also need to extract the first through the third characters in the device ID. So take a slice of the device ID. You can achieve this using bracket notation in Python. Then, display the slice to examine the result.
+
+Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 6
+
+You’ll now proceed to the last part of your task. This involves extracting components of a URL.
+
+You’ll work with string indices to display various components of a `URL` that’s stored in the URL variable. First, you’ll extract and display the protocol of the `URL` and the `://` characters that follow it using string slicing. Consider that the protocol is in the secure format of `https` when determining the indices for your slice.
+
+Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 7
+
+Later in this lab, you’ll extract the domain extension. To prepare for this, use the `.index()` method to identify the index where the domain extension `.com` is located in the given `URL`.
+
+Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 8
+
+It’s a good idea to save important data in variables when programming. This allows for quick and easy tracking and reuse of information.
+
+Store the output of the `.index()` method in a variable called `ind`, which is short for index. This index represents the position where the domain extension `".com"` starts in the url. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell. Note that running this cell will not produce an output.
+
+### Task 9
+
+You can use string slicing to also extract the domain extension of a `URL`. To do so, you can create a slice. The starting index should be the `ind` variable. This contains the index where the domain extension begins. The ending index should be ind `+ 4` (since `".com"` is four characters long). Sometimes, like in this situation, it’s easier to express the ending index in relation to the starting index. Examine the following code, run it as is, and observe the output.
+
+### Task 10
+
+Finally, extract the website name from the given `URL` using string slicing and the ind variable that you defined earlier. In the given `URL`, the website name is `"exampleURL1"`. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Conclusion
+**What are your key takeaways from this lab?**
 
 # 1.7 Developing an Algorithm
 
@@ -347,23 +522,90 @@ Be sure to replace the ### YOUR CODE HERE ### with your own code before you run 
 
 ## Scenario
 
-### Task X
+In this lab, you're working as a security analyst and you're responsible for developing an algorithm that connects users to their assigned devices. You'll write code that indicates if a user is approved on the system and has brought their assigned device to the security team.
 
-### Task X
+### Task 1
 
-### Task X
+You'll work with a list of approved usernames along with a list of the approved devices assigned to these users. The elements of the two lists are synchronized. In other words, the user at index `0` in `approved_users` uses the device at index `0` in `approved_devices`. Later, this will allow you to verify if the username and device ID entered by a user correspond to each other.
 
-### Task X
+First, to explore how indices in lists work, run the following code cell as is and observe the output. Then, replace each `0` with another index and run the cell to observe what happens.
 
-### Task X
+#### **Question 1**
+**What did you observe about the output when `approved_users[0]` is displayed and when `approved_devices[0]` is displayed? What happens when you replace each `0` with another index?**
 
-### Task X
+### Task 2
 
-### Task X
+There's a new employee joining the organization, and they need to be provided with a username and device ID. In the following code cell, you are given a username and device ID of this new user, stored in the variables `new_user` and `new_device`, respectively. Use the `.append()` method to add these variables to the `approved_users` and `approved_devices` respectively. Afterwards, display the `approved_users` and `approved_devices` variables to confirm the added information. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
 
-### Task X
+#### **Question 2**
+**After the new approved user is added, what did you observe about the output when `approved_users` is displayed and when `approved_devices` is displayed?**
 
-### Task X
+### Task 3
+An employee has left the team and should no longer have access to the system. In the following code cell, you are given the username and device ID of the user to be removed, stored in the variables `removed_user` and `removed_device` respectively.  Use the `.remove()` method to remove each of these elements from the corresponding list. Afterwards, display both the `approved_users` and the `approved_devices` variables to view the removed users. Run the code and observe the results. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 3**
+**After the user who left the team is removed, what did you observe about the output when `approved_users` is displayed and when `approved_devices` is displayed?**
+
+### Task 4
+
+As part of verifying a user's identity in the system, you'll need to check if the user is one of the approved users. Write a conditional statement that verifies if a given username is an element of the list of approved usernames. If it is, display `"The user ______ is approved to access the system."`. Otherwise, display `"The user ______ is not approved to access the system."`. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 4**
+**What message do you observe in the output when `username` is `"sgilmore"`?**
+
+### Task 5
+
+The next part of the algorithm uses the `.index()` method to find the index of `username` in the `approved_list` and store that index in a variable named `ind`. 
+
+When used on a list, the `.index()` method will return the position of the given value in the list.
+
+Add a statement to display `ind` in the following code cell to explore the value it contains. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 5**
+**What do you observe from the output when `username` is `"sgilmore"`?**
+
+### Task 6
+
+This task will allow you to build your understanding of list operations for the algorithm that you'll eventually build. It will demonstrate how you can find an index in one list and then use this index to display connected information in another list. First, use the `.index()` method again to find the index of `username` in the `approved_users` and store that in a variable named `ind`. Then, connect `ind` to the `approved_devices` and display the device ID located at the index `ind`. Afterwards, run the cell to observe the result. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 6**
+**What do you observe from the output when `username` is `"sgilmore"`?**
+
+### Task 7
+
+Your next step in creating the algorithm is to determine if a username and device ID correspond. To do this, write a conditional that checks if the `username` is an element of the `approved_devices` and if the `device_id` stored at the same index as `username` matches the `device_id` entered. You'll use the logical operator `and` to connect the two conditions. When both conditions evaluate to `True`, display a message that the username is approved and another message that the user has their assigned device. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 7**
+**What do you observe from the output when `username` is `"sgilmore"` and `device_id` is `"4n482ts"`?**
+
+### Task 8
+
+It would also be helpful for users to receive messages when their username is not approved or their device ID is incorrect.  
+
+Add to the code by writing an `elif` statement. This `elif` statement should run when the `username` is part of the `approved_users` but the `device_id` doesn't match the corresponding device ID in the `approved_devices`. The statement should also display two messages conveying that information.
+
+Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell. 
+
+(After you run the code once with a `device_id` of `"4n482ts"`, you might want to explore what happens if you assign a different value to `device_id`.)
+
+#### **Question 8**
+**What do you observe from the output when `username` is `"sgilmore"` and `device_id` is `"4n482ts"`?**
+
+### Task 9
+
+In this task, you'll complete your algorithm by developing a function that uses some of the code you've written in earlier tasks. This will automate the login process.
+
+There are multiple ways to use conditionals to automate the login process. In the following code, a nested conditional is used to achieve the goals of the algorithm. There is a conditional statement inside of another conditional statement. The outer conditional handles the case when the `username` is approved and the case when `username` is not approved. The inner conditional, which is placed inside the first `if` statement, handles the case when the `username` is approved and the `device_id` is correct, as well as the case when the `username` is approved and the `device_id` is incorrect. 
+
+To complete this task, you must define a function named `login` that takes in two parameters, `username` and `device_id`. Afterwards, call the function and pass in different username and device ID combinations to experiment and observe the function's behavior. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 9**
+**After Python enters the inner conditional, what happens when the `device_id` is correct, and what happens when the `device_id` is incorrect?**
+
+### Conclusion
+
+**What are your key takeaways from this lab?**
+
 
 # 1.8 Using Regular Expressions to Find Patterns
 
@@ -375,23 +617,94 @@ Be sure to replace the ### YOUR CODE HERE ### with your own code before you run 
 
 ## Scenario
 
-### Task X
+In this lab, you're working as a security analyst and your main tasks are as follows:
+- extracting device IDs containing certain characters from a log; these characters correspond with a certain operating system that requires an update.
+- extracting all IP addresses from a log and then comparing them to those that are flagged in a list.
 
-### Task X
+### Task 1
 
-### Task X
+In order to work with regular expressions in Python, start by importing the `re` module. This module contains many functions that will help you work with regular expressions. By running the following code cell, the module will be available through the rest of the notebook.
 
-### Task X
+### Task 2
 
-### Task X
+In your work as a cybersecurity analyst, you're responsible for updating devices. A device ID that begins with the characters `"r15"` indicates that the device has a certain operating system that must be updated. 
 
-### Task X
+You're given a log of device IDs, stored in a variable named `devices`. Your eventual goal is to extract the device IDs that start with the characters `"r15"`. For now, display the contents of the whole string to examine what it contains. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
 
-### Task X
+### Task 3
 
-### Task X
+In this task, you'll write a pattern to find devices that start with the character combination of `"r15"`. 
 
-### Task X
+Use the regular expression symbols `\w` and `+` to create the pattern, and store it as a string in a variable named `target_pattern`.
+
+Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell. Note that the code cell will contain only variable assignments, so running it will not produce an output.
+
+#### **Question 1**
+**What regular expression pattern did you use? For each component of the pattern, what would happen if it were missing?**
+
+### Task 4
+
+Use the `findall()` function from the `re` module to find the device IDs that the `target_pattern` matches with. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+**Note:** In order to use `re.findall()` in Tasks 4, 7, 8, 9 and 11, you must have previously run the code `import re` in Task 1.
+
+### Task 5
+
+Now, the next task you're responsible for is analyzing a network security log file and determining which IP addresses have been flagged for unusual activity. 
+
+You're given the log file as a string stored in a variable named `log_file`. There are some invalid IP addresses in the log file due to issues in data collection. Your eventual goal is to use regular expressions to extract the valid IP addresses from the string. 
+
+Start by displaying the contents of the `log_file` to examine the details inside. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 6
+
+In this task, you'll build a regular expression pattern that you can use later on to extract IP addresses that are in the form of xxx.xxx.xxx.xxx. In other words, you'll extract all IP addresses that contain four segments of three digits that are separated by periods.
+
+Write a regular expression pattern that will match with these IP addresses and store it in a variable named `pattern`. Use the regular expression symbols `\d` and `\.` in your pattern. Note that the symbol `\d` matches with digits, in other words, any integer between 0 and 9. Be sure to replace the `### YOUR CODE HERE ###` with your own code. Since you'll just build the pattern here, there won't be any output when you run this cell.
+
+### Task 7
+
+In this task, you'll use the `re.findall()` function on the regular expression pattern stored in the `pattern` variable and the provided `log_file` to extract the corresponding IP addresses. Afterwards, run the cell and take note of what it outputs. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 2**
+**What are some examples of IP addresses that were extracted? What are some examples of IP addresses that were not extracted? Do any that were not extracted seem to be valid IP addresses?**
+
+### Task 8
+
+There are some valid IP addresses in the `log_file` that you haven't extracted yet. This is because each segment of digits in a valid IP address can have anywhere between one and three digits. 
+
+Adjust the regular expression in the `pattern` to allow for variation in the number of digits in each segment. You can do this by using the `+` symbol after the `\d` symbol. Afterwards, use the updated `pattern` to extract remaining IP addresses. Then, run the cell to analyze the results. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 3**
+**What gets extracted here? Do all extracted IP addresses have between one and three digits in every segment?**
+
+### Task 9
+
+Note that all the IP addresses are now extracted but they also include invalid IP addresses with more than three digits per segment.
+
+In this task, you'll update the `pattern` using curly brackets instead of the `+` symbol. In regular expressions, curly brackets can be used to represent an exact number of repetitions between two numbers. For example, `{2,4}` in a regular expression means between 2 and 4 occurrences of something. Applying this to an example, `\w{2,4}` would match with two, three, or four alphanumeric characters. Afterwards, you'll call the `re.findall()` function on the updated `pattern` and the `log_file` and store the output in a variable named `valid_ip_addresses`. 
+
+Then, display the contents of `valid_ip_addresses` and run the cell to analyze the results. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+#### **Question 4**
+**What do you notice about the extracted IP addresses here compared to those extracted in the previous two tasks?**
+
+### Task 10
+
+Now, all of the valid IP addresses have been extracted. The next step is to identify flagged IP addresses.
+
+You're given a list of IP addresses that have been previously flagged for unusual activity, stored in a variable named `flagged_addresses`. When these addresses are encountered, they should be investigated further. This list is just for educational purposes and contains examples of private IP addresses that are found only within internal networks.
+
+Display this list and examine what it contains by running the cell. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Task 11
+
+Task 11
+Finally, you will write an iterative statement that loops through the `valid_ip_addresses` list and checks if each IP address is flagged. In the following code, the `address` will be the loop variable. Also, include a conditional that checks if the `address` belongs to the `flagged_addresses` list. If so, it should display `"The IP address ______ has been flagged for further analysis."` If not, it should display `"The IP address ______ does not require further analysis."` Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+### Conclusion
+
+**What are your key takeaways from this lab?**
 
 # 1.9 Importing and Parsing a Text File
 
@@ -403,23 +716,68 @@ Be sure to replace the ### YOUR CODE HERE ### with your own code before you run 
 
 ## Scenario
 
-### Task X
+In this lab, you're working as a security analyst. You're responsible for preparing a security log file for analysis and creating a text file with IP addresses that are allowed to access restricted information.
 
-### Task X
+### Task 1
+In this task, you'll import a security log text file and store it as a string to prepare it for analysis. 
 
-### Task X
+In Python, a `with` statement is often used in file handling to open a file and then automatically close the file after reading it.
 
-### Task X
+You're given a variable named `import_file` that contains the name of the log file that you want to import. Start by writing the first line of the `with` statement in the following code cell. Use the `open()` function, setting the second parameter to `"r"`. Note that running this code will produce an error because it will only contain the first line of the `with` statement; you'll complete this `with` statement in the task after this. Be sure to replace the `### YOUR CODE HERE ###` with your own code.
 
-### Task X
+### Task 2
 
-### Task X
+Now, you'll use the `.read()` method to read the imported file, and you'll store the result in a variable named `text`. Afterwards, display the `text` and explore what it contains by running the cell. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell.
 
-### Task X
+### Task 3
 
-### Task X
+The output in the previous step is one big string. In this task, you'll explore how you can split the string that contains the entire imported log file into a list of strings, one string per line. 
 
-### Task X
+Use the  `.split()` method to perform this split and then display the result. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell. 
+
+Note that displaying `.split()` doesn’t change what is stored in the `text` variable. Variable reassignment would be necessary if you want to store the result after splitting.
+
+#### **Question 1**
+**What do you notice about the output before and after using the `.split()` method?**
+
+### Task 4
+
+There is a missing entry in the log file. You'll need to account for that by appending it to the log file. You're given the missing entry stored in a variable named `missing_entry`. 
+
+Use the `.write()` method and the parameter `"a"` in the `open()` function. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell.
+
+After the portion of the code that writes to the file, another with statement uses the `.read()` method to read the updated file into the `text` variable and then display it.
+
+#### **Question 2**
+**What do you notice about the position of the entry that was added to the log file?**
+
+### Task 5
+
+The next task you're responsible for is creating a text file. This text file should include a list of IP addresses that are allowed to access restricted information. Documenting this in a text file will help you communicate your findings to your security team. 
+
+Start by creating a variable named `import_file` that stores the name of the file, which should be `"allow_list.txt"`. 
+
+You're also given a variable named `ip_addresses` that stores a string containing the IP addresses that are allowed.
+
+Run the code to display the two variables and explore what they contain. Be sure to replace the `### YOUR CODE HERE ###` with your own code before you run the following cell. 
+
+### Task 6
+
+Your next goal is to create a `with` statement in order to write the IP addresses to the text file you created in the previous step. 
+
+You'll first open the file using the `"w"` parameter. Then, you'll write the IP addresses to the file. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell. Note that the code cell will contain a `with` statement that writes to a file but does not display information to the screen, so running it will not produce an output.
+
+### Task 7
+
+In this final step, you'll complete the code you've been writing up to this point. You'll add code to read the file containing IP addresses.
+
+Complete a `with` statement that reads the text file and stores it in a new variable called `text`. 
+
+Afterwards, display the contents of `text` and run the cell to explore the result. Be sure to replace each `### YOUR CODE HERE ###` with your own code before you run the following cell. 
+
+### Conclusion
+
+**What are your key takeaways from this lab?**
 
 # 2.1 Creating Another Algorithm
 
