@@ -7,7 +7,7 @@ This folder contains exercises, solutions, and supporting materials focused on d
 - In this lab, I practiced using Python variables to manage security-related tasks, such as tracking allowed users, login attempts, and account statuses. I assigned values to variables, identified their data types (e.g., strings, integers, lists, booleans), and updated variables dynamically based on security events. For example, I incremented login attempts, validated user access, and locked accounts after exceeding login limits. These activities helped me understand how to efficiently automate security workflows and respond to incidents using Python's versatility in handling security information.
 
 1.2  **Creating a Conditional Statement** 
-- xxxxxx
+- In this lab, I practiced writing conditional statements in Python to automate security tasks. I used conditional statements like `if`, `elif`, and `else` to check conditions, such as verifying if a user has the correct permissions to access a device. By using these statements, I was able to ensure that certain actions only executed when specific criteria were met, enhancing security and reducing the risk of unauthorized access. This hands-on experience reinforced my understanding of how conditional logic can be applied in security automation.
 
 1.3  **Creating Loops** 
 - xxxxxx
@@ -53,3 +53,4 @@ This folder contains exercises, solutions, and supporting materials focused on d
  
 ## Supporting Materials
 - **Algorithm for File Updates in Python:** [Algorithm for File Updates in Python](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VIII.%20Python%20Automation/Algorithm%20for%20File%20Updates%20in%20Python.pdf)
+- **Instructions for Including Python Code:** [Instructions for Including Python Code](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VIII.%20Python%20Automation/Instructions%20for%20Including%20Python%20Code.pdf)
