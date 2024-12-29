@@ -6,15 +6,6 @@
 
 > Choosing the correct data type ensures efficient and clear handling of security-related tasks.
 
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
-
 ## Scenario
 You are a security analyst who is responsible for writing code that will automate analysis of login attempts made to a specific device. As the first step, you'll need to create variables to keep track of information relevant to the login process. This information includes the device ID, list of approved usernames, maximum login attempts allowed per user, current login attempts made by a user, and login status.
 
@@ -95,15 +86,6 @@ What are your key takeaways from this lab?
 
 > Xxxxx
 
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
-
 ## Scenario
 
 
@@ -133,15 +115,6 @@ As you navigate this lab, keep the following tips in mind:
 
 > Xxxxx
 
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
-
 ## Scenario
 
 ### Task X
@@ -169,15 +142,6 @@ As you navigate this lab, keep the following tips in mind:
 > Xxxx
 
 > Xxxxx
-
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
 
 ## Scenario
 
@@ -207,15 +171,6 @@ As you navigate this lab, keep the following tips in mind:
 
 > Xxxxx
 
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
-
 ## Scenario
 
 ### Task X
@@ -243,15 +198,6 @@ As you navigate this lab, keep the following tips in mind:
 > Xxxx
 
 > Xxxxx
-
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
 
 ## Scenario
 
@@ -281,15 +227,6 @@ As you navigate this lab, keep the following tips in mind:
 
 > Xxxxx
 
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
-
 ## Scenario
 
 ### Task X
@@ -317,15 +254,6 @@ As you navigate this lab, keep the following tips in mind:
 > Xxxx
 
 > Xxxxx
-
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
 
 ## Scenario
 
@@ -355,15 +283,6 @@ As you navigate this lab, keep the following tips in mind:
 
 > Xxxxx
 
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
-
 ## Scenario
 
 ### Task X
@@ -391,15 +310,6 @@ As you navigate this lab, keep the following tips in mind:
 > Xxxx
 
 > Xxxxx
-
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
 
 ## Scenario
 
@@ -429,15 +339,6 @@ As you navigate this lab, keep the following tips in mind:
 
 > Xxxxx
 
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
-
 ## Scenario
 
 ### Task X
@@ -465,15 +366,6 @@ As you navigate this lab, keep the following tips in mind:
 > Xxxx
 
 > Xxxxx
-
-# Tips for Completing the Lab
-As you navigate this lab, keep the following tips in mind:
-
-- `### YOUR CODE HERE ###` indicates where you should write code. Be sure to replace this with your own code before running the code cell.
-- Feel free to open the hints for additional guidance as you work on each task.
-- To enter your answer to a question, double-click the markdown cell to edit. Be sure to replace the "[Double-click to enter your responses here.]" with your own answer.
-- You can save your work manually by clicking File and then Save in the menu bar at the top of the notebook.
-- You can download your work locally by clicking File and then Download and then specifying your preferred file format in the menu bar at the top of the notebook.
 
 ## Scenario
 
