@@ -82,9 +82,9 @@ In this task, you'll create a variable called `login_status`, which is a Boolean
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Conditional statements are a powerful structure.
+> Python’s `if` statements support multiple conditions with `elif` (else if), allowing for more complex decision-making chains.
 
-> They help when you need to make sure conditions are met before certain actions are executed.
+> Conditional statements in Python use indentation to define blocks of code, which eliminates the need for braces (`{}`) like in other programming languages.
 
 ## Scenario
 
@@ -180,9 +180,9 @@ what happens.
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Xxxx
+> Python supports two main types of loops: `for` loops (used for iterating over a sequence) and `while` loops (which continue as long as a condition is true).
 
-> Xxxxx
+> Python's `for` loop can be used with iterators such as lists, dictionaries, and strings, making it versatile for different types of iterations.
 
 ## Scenario
 
@@ -257,9 +257,9 @@ Be sure to replace the ### YOUR CODE HERE ### with your own code before you run 
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Xxxx
+> Functions in Python are defined using the `def` keyword and can return values with the `return` statement.
 
-> Xxxxx
+> Functions can accept multiple arguments and have default values, allowing for flexible function calls.
 
 ## Scenario
 
@@ -346,9 +346,9 @@ What do you notice about the output from the function call this time?
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Xxxx
+> Functions in Python can be nested, meaning you can define a function inside another function, which is useful for organizing code and reducing redundancy.
 
-> Xxxxx
+> Python allows you to pass functions as arguments to other functions, enabling higher-order functions and functional programming techniques.
 
 ## Scenario
 
@@ -437,9 +437,9 @@ Be sure to replace each `### YOUR CODE HERE ###` with your own code before you r
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Xxxx
+> Strings in Python are immutable, meaning that once created, their content cannot be changed, but new strings can be created from modifications.
 
-> Xxxxx
+> Python supports string interpolation with f-strings (formatted strings), allowing for easy inclusion of variables inside strings (e.g., `f"Hello, {name}"`).
 
 ## Scenario
 
@@ -516,9 +516,9 @@ Finally, extract the website name from the given `URL` using string slicing and 
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Xxxx
+> In Python, algorithms can be implemented using basic data structures like lists, dictionaries, and tuples, which are built-in and optimized for performance.
 
-> Xxxxx
+> Python’s clear syntax and readability make it an ideal language for developing and testing algorithms quickly, even for beginners.
 
 ## Scenario
 
@@ -611,9 +611,9 @@ To complete this task, you must define a function named `login` that takes in tw
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Xxxx
+> Python’s `re` module provides powerful tools to search, match, and manipulate strings based on patterns defined by regular expressions.
 
-> Xxxxx
+> Regular expressions in Python are often used for tasks like validating email addresses, extracting URLs, or searching for keywords within text.
 
 ## Scenario
 
@@ -710,9 +710,9 @@ Finally, you will write an iterative statement that loops through the `valid_ip_
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Xxxx
+> Python makes file handling easy with functions like `open()`, `read()`, and `write()`, which allow for both reading and writing to text files efficiently.
 
-> Xxxxx
+> The `csv` module in Python provides specialized methods for parsing and handling CSV files, simplifying tasks like extracting data from spreadsheets.
 
 ## Scenario
 
@@ -783,9 +783,9 @@ Afterwards, display the contents of `text` and run the cell to explore the resul
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Xxxx
+> Python's rich set of libraries, such as `math`, `itertools`, and `collections`, enables the quick implementation of algorithms for tasks like sorting, searching, and optimizing.
 
-> Xxxxx
+> Algorithms in Python are often developed incrementally by defining small, testable functions, which can be integrated into larger systems as needed.
 
 ## Scenario
 
@@ -890,9 +890,9 @@ Be sure to replace the `### YOUR CODE HERE ###` with your own code before you ru
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Xxxx
+> Python allows you to read a file, process its contents, and write the modified content back using the `open()` function in modes like `'r+'` (read/write) or `'w'` (write).
 
-> Xxxxx
+> When updating a file, it's often best to open the file in `write` mode and overwrite it with the updated data or append data using the `write()` or `append()` methods.
 
 ## Scenario
 
@@ -994,9 +994,9 @@ In the Summary section, provide a short summary of the algorithm by highlighting
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
-> Xxxx
+> Python provides the built-in `pdb` module (Python Debugger), which allows you to set breakpoints, step through code, and inspect variables to troubleshoot issues.
 
-> Xxxxx
+> The `try` and `except` blocks in Python allow for handling errors gracefully, enabling debugging and preventing the program from crashing unexpectedly.
 
 ## Scenario
 
