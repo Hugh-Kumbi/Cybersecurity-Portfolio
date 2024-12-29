@@ -109,7 +109,7 @@ Be sure to replace each `### YOUR CODE HERE ###` with your own code before you r
 ### Conclusion
 What are your key takeaways from this lab?
 
-# 1.2 Xxxxxx
+# 1.2 Creating a Conditional Statement
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -147,7 +147,7 @@ As you navigate this lab, keep the following tips in mind:
 
 ### Task X
 
-# 1.3 Xxxxxx
+# 1.3 Creating Loops
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -184,7 +184,7 @@ As you navigate this lab, keep the following tips in mind:
 
 ### Task X
 
-# 1.4 Xxxxxx
+# 1.4 Defining and Calling a Function
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -221,7 +221,7 @@ As you navigate this lab, keep the following tips in mind:
 
 ### Task X
 
-# 1.5 Xxxxxx
+# 1.5 Creating More Functions
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -258,7 +258,7 @@ As you navigate this lab, keep the following tips in mind:
 
 ### Task X
 
-# 1.6 Xxxxxx
+# 1.6 Working with Strings in Python
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -295,7 +295,7 @@ As you navigate this lab, keep the following tips in mind:
 
 ### Task X
 
-# 1.7 Xxxxxx
+# 1.7 Developing an Algorithm
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -332,7 +332,7 @@ As you navigate this lab, keep the following tips in mind:
 
 ### Task X
 
-# 1.8 Xxxxxx
+# 1.8 Using Regular Expressions to Find Patterns
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -369,7 +369,7 @@ As you navigate this lab, keep the following tips in mind:
 
 ### Task X
 
-# 1.9 Xxxxxx
+# 1.9 Importing and Parsing a Text File
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -406,7 +406,7 @@ As you navigate this lab, keep the following tips in mind:
 
 ### Task X
 
-# 2.1 Xxxxxx
+# 2.1 Creating Another Algorithm
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -443,7 +443,7 @@ As you navigate this lab, keep the following tips in mind:
 
 ### Task X
 
-# 2.2 Xxxxxx
+# 2.2 Updating a File Through a Python Algorithm
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
@@ -480,7 +480,7 @@ As you navigate this lab, keep the following tips in mind:
 
 ### Task X
 
-# 2.3 Xxxxxx
+# 2.3 Debugging Python Code
 
 > Please visit this [link](https://www.coursera.org/learn/automate-cybersecurity-tasks-with-python) for further information.
 
