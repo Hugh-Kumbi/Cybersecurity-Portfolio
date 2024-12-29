@@ -1057,6 +1057,6 @@ However, this code has logic errors. Your goal is to assign the `system` variabl
 #### **Question 7**
 **What happens when you run the code before modifying it? What is causing the logic errors? How can you fix them?**
 
-### T## Conclusion
+### Conclusion
 
 **What are your key takeaways from this lab?**
