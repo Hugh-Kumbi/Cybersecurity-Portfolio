@@ -53,7 +53,7 @@ This folder contains exercises, solutions, and supporting materials focused on d
 - **Exercise 9:** [Importing and Parsing a Text File](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VIII.%20Python%20Automation/1.9%20Importing%20and%20Parsing%20a%20Text%20File.ipynb)
 - **Exercise 10:** [Creating Another Algorithm](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VIII.%20Python%20Automation/2.1%20Creating%20Another%20Algorithm.ipynb)
 - **Exercise 11:** [Updating a File Through a Python Algorithm](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VIII.%20Python%20Automation/2.2%20Updating%20a%20File%20Through%20a%20Python%20Algorithm.ipynb)
- - **Exercise 12:** [Debugging Python Code]()
+ - **Exercise 12:** [Debugging Python Code](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VIII.%20Python%20Automation/2.3%20Debugging%20Python%20Code.ipynb)
 
 ## Supporting Materials
 - **Algorithm for File Updates in Python:** [Algorithm for File Updates in Python](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VIII.%20Python%20Automation/Algorithm%20for%20File%20Updates%20in%20Python.pdf)
