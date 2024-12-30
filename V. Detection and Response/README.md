@@ -42,6 +42,7 @@ This folder contains exercises, solutions, and supporting materials related to m
 This activity emphasized the importance of playbooks in ensuring a consistent and efficient response to phishing incidents and demonstrated how thorough documentation aids in enhancing organizational security.
 
 5.1  **Security Incident Report: Data Breach via Forced Browsing Attack**
+
 - In this activity, I reviewed an example of a **final report** related to an incident and answered quiz questions to reinforce my understanding of its components and significance.
 
 **Key learning points included:**
@@ -69,13 +70,13 @@ This activity reinforced the importance of creating detailed and actionable fina
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
-- **Exercise 1:** [Documenting Security Incidents in an Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/1.1%20Incident%20Response-Incident%20Handler's%20Journal.pdf)
-- **Exercise 2:** [Exploring Network Protocol Analyzers: Wireshark and Tcpdump](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/2.1%20Exploring%20Network%20Protocol%20Analyzers%3A%20Wireshark%20and%20Tcpdump.md)
-- **Exercise 3:** [Analyzing Artifacts with VirusTotal and the Pyramid of Pain](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/3.1%20Analyzing%20Artifacts%20with%20VirusTotal%20and%20the%20Pyramid%20of%20Pain-Incident%20Handler's%20Journal.pdf)
-- **Exercise 4:** [Responding to a Phishing Incident with a Playbook](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/4.1%20Responding%20to%20a%20Phishing%20Incident%20with%20a%20Playbook.pdf)
-- **Exercise 5.1:** [Security Incident Report: Data Breach via Forced Browsing Attack](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/5.1%20Security%20Incident%20Report%3A%20Data%20Breach%20via%20Forced%20Browsing%20Attack.md)
-- **Exercise 5.2:** [Initial Detection of Potential Security Incident-Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/5.2%20Initial%20Detection%20of%20Potential%20Security%20Incident-Incident%20Handler's%20Journal.pdf)
-- **Exercise 5.3:** [Incident Escalation and Root Cause Analysis-Incident handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/5.3%20Incident%20Escalation%20and%20Root%20Cause%20Analysis-Incident%20handler's%20Journal.pdf)
+- **Exercise 1:** [Documenting Security Incidents in an Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/1.1%20Hugh_Incident%20Response-Incident%20Handler's%20Journal.pdf)
+- **Exercise 2:** [Exploring Network Protocol Analyzers: Wireshark and Tcpdump](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/2.1%20Hugh_Exploring%20Network%20Protocol%20Analyzers%3A%20Wireshark%20and%20Tcpdump.md)
+- **Exercise 3:** [Analyzing Artifacts with VirusTotal and the Pyramid of Pain](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/3.1%20Hugh_Analyzing%20Artifacts%20with%20VirusTotal%20and%20the%20Pyramid%20of%20Pain-Incident%20Handler's%20Journal.pdf)
+- **Exercise 4:** [Responding to a Phishing Incident with a Playbook](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/4.1%20Hugh_Responding%20to%20a%20Phishing%20Incident%20with%20a%20Playbook.pdf)
+- **Exercise 5.1:** [Security Incident Report: Data Breach via Forced Browsing Attack](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/5.1%20Hugh_Security%20Incident%20Report%3A%20Data%20Breach%20via%20Forced%20Browsing%20Attack.md)
+- **Exercise 5.2:** [Initial Detection of Potential Security Incident-Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/5.2%20Hugh_Initial%20Detection%20of%20Potential%20Security%20Incident-Incident%20Handler's%20Journal.pdf)
+- **Exercise 5.3:** [Incident Escalation and Root Cause Analysis-Incident handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/5.3%20Hugh_Incident%20Escalation%20and%20Root%20Cause%20Analysis-Incident%20handler's%20Journal.pdf)
 
 ## Supporting Materials
 - **Incident Handler's Journal:** [Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/Incident%20Handler's%20Journal.pdf)
