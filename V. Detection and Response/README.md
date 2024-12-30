@@ -70,6 +70,7 @@ This activity reinforced the importance of creating detailed and actionable fina
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
+
 - **Exercise 1:** [Documenting Security Incidents in an Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/1.1%20Hugh_Incident%20Response-Incident%20Handler's%20Journal.pdf)
 - **Exercise 2:** [Exploring Network Protocol Analyzers: Wireshark and Tcpdump](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/2.1%20Hugh_Exploring%20Network%20Protocol%20Analyzers%3A%20Wireshark%20and%20Tcpdump.md)
 - **Exercise 3:** [Analyzing Artifacts with VirusTotal and the Pyramid of Pain](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/3.1%20Hugh_Analyzing%20Artifacts%20with%20VirusTotal%20and%20the%20Pyramid%20of%20Pain-Incident%20Handler's%20Journal.pdf)
@@ -79,6 +80,7 @@ This activity reinforced the importance of creating detailed and actionable fina
 - **Exercise 5.3:** [Incident Escalation and Root Cause Analysis-Incident handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/5.3%20Hugh_Incident%20Escalation%20and%20Root%20Cause%20Analysis-Incident%20handler's%20Journal.pdf)
 
 ## Supporting Materials
+
 - **Incident Handler's Journal:** [Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/Incident%20Handler's%20Journal.pdf)
 - **Diagram Template:** [Diagram Template](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/Diagram%20Template.pdf)
 - **Pyramid of Pain:** [Pyramid of Pain](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/V.%20Detection%20and%20Response/Pyramid%20of%20Pain.pdf)
