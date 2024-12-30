@@ -3,6 +3,7 @@
 This folder contains exercises, solutions, and supporting materials related to managing assets, threats, and vulnerabilities in cybersecurity. It highlights the importance of implementing security controls and adopting a threat actor mindset to safeguard an organization’s assets against risks, threats, and vulnerabilities.
 
 ## Contents
+
 1.1  **Classifying Assets on a Home Network**
 
 - In this activity, I classified assets connected to a home office network. I began by creating an asset inventory, cataloging all assets that require protection. Using asset management principles, I then classified these assets based on their importance and sensitivity to potential risks. This foundational task is essential for understanding and mitigating threats to critical resources. Completing this activity helped me strengthen my skills in asset management, a crucial aspect of any organization's security plan.
@@ -46,6 +47,7 @@ This exercise highlighted the importance of threat modeling as a proactive measu
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
+
 - **Exercise 1:** [Classifying Assets on a Home Network](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/1.1%20Hugh_Classifying%20Assets%20on%20a%20Home%20Network.pdf)
 - **Exercise 2:** [Conducting a Risk Assessment for Business Operations](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/2.1%20Hugh_Completed%20Risk%20Register.pdf)
 - **Exercise 3:** [Reviewing a Data Risk Assessment](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/3.1%20Hugh_Completed%20Data%20Leak%20Worksheet.pdf)
@@ -57,6 +59,7 @@ This exercise highlighted the importance of threat modeling as a proactive measu
 - **Exercise 9:** [Applying the PASTA Threat Model Framework](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/9.1%20Hugh_Applying%20the%20PASTA%20Threat%20Model%20Framework.pdf)
 
 ## Supporting Materials
+
 - **Home Asset Inventory:** [Home Asset Inventory](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Home%20Asset%20Inventory.xlsx)
 - **Activity Template_ Data leak worksheet:** [Activity Template_ Data leak worksheet](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Activity%20Template_%20Data%20leak%20worksheet.pdf)
 - **Risk Register:** [Risk Register](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Risk%20Register.pdf)
