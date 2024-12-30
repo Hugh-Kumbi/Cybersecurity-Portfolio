@@ -46,15 +46,15 @@ This exercise highlighted the importance of threat modeling as a proactive measu
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
-- **Exercise 1:** [Classifying Assets on a Home Network](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/1.1%20Classifying%20Assets%20on%20a%20Home%20Network.pdf)
-- **Exercise 2:** [Conducting a Risk Assessment for Business Operations](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/2.1%20Completed%20Risk%20Register.pdf)
-- **Exercise 3:** [Reviewing a Data Risk Assessment](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/3.1%20Completed%20Data%20Leak%20Worksheet.pdf)
-- **Exercise 4:** [Exploring Cryptography: Decrypting Files and Revealing Hidden Messages](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/4.1%20Decrypting%20an%20Encrypted%20Message.md)
-- **Exercise 5:** [Comparing Hash Values: Identifying File Modifications](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/5.1%20Comparing%20Hash%20Values%3A%20Identifying%20File%20Modifications.md)
-- **Exercise 6:** [Evaluating and Improving Access Controls](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/6.1%20Evaluating%20and%20Improving%20Access%20Controls.pdf)
-- **Exercise 7:** [Conducting a Vulnerability Assessment](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/7.1%20Conducting%20a%20Vulnerability%20Assessment.md)
-- **Exercise 8:** [Assessing Attack Vectors of USB Drives](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/8.1%20Assessing%20Attack%20Vectors%20of%20USB%20Drives.md)
-- **Exercise 9:** [Applying the PASTA Threat Model Framework](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/9.1%20Applying%20the%20PASTA%20Threat%20Model%20Framework.pdf)
+- **Exercise 1:** [Classifying Assets on a Home Network](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/1.1%20Hugh_Classifying%20Assets%20on%20a%20Home%20Network.pdf)
+- **Exercise 2:** [Conducting a Risk Assessment for Business Operations](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/2.1%20Hugh_Completed%20Risk%20Register.pdf)
+- **Exercise 3:** [Reviewing a Data Risk Assessment](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/3.1%20Hugh_Completed%20Data%20Leak%20Worksheet.pdf)
+- **Exercise 4:** [Exploring Cryptography: Decrypting Files and Revealing Hidden Messages](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/4.1%20Hugh_Decrypting%20an%20Encrypted%20Message.md)
+- **Exercise 5:** [Comparing Hash Values: Identifying File Modifications](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/5.1%20Hugh_Comparing%20Hash%20Values%3A%20Identifying%20File%20Modifications.md)
+- **Exercise 6:** [Evaluating and Improving Access Controls](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/6.1%20Hugh_Evaluating%20and%20Improving%20Access%20Controls.pdf)
+- **Exercise 7:** [Conducting a Vulnerability Assessment](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/7.1%20Hugh_Conducting%20a%20Vulnerability%20Assessment.md)
+- **Exercise 8:** [Assessing Attack Vectors of USB Drives](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/8.1%20Hugh_Assessing%20Attack%20Vectors%20of%20USB%20Drives.md)
+- **Exercise 9:** [Applying the PASTA Threat Model Framework](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/9.1%20Hugh_Applying%20the%20PASTA%20Threat%20Model%20Framework.pdf)
 
 ## Supporting Materials
 - **Home Asset Inventory:** [Home Asset Inventory](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Home%20Asset%20Inventory.xlsx)
@@ -66,8 +66,3 @@ This exercise highlighted the importance of threat modeling as a proactive measu
 - **NIST SP 800-30 Rev. 1:** [NIST SP 800-30 Rev. 1](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/NIST%20SP%20800-30%20Rev.%201.pdf)
 - **Calculating Risk:** [Calculating Risk](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Calculating%20Risks.pdf)
 - **Parking Lot USB Exercise:** [Parking Lot USB Exercise](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Parking%20Lot%20USB%20Exercise.pdf)
-
-
-
-
-
