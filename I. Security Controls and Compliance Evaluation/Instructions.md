@@ -1,4 +1,4 @@
-# 1.1 Hugh_Botium Toys Security Audit
+# 1.1 Botium Toys Security Audit
 
 ## Activity Overview
 In part one of this activity, you will conduct an internal security audit. As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
