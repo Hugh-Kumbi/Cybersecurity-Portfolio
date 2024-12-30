@@ -1,4 +1,4 @@
-# Conducting a Security Audit
+# Navigating Uncertainty: Managing Security Risks with Confidence
 
 This folder contains an exercise, a solution and supporting materials related to Conducting a Security Audit, showcasing skills in security checks, threat, risks and vulnerability monitoring.
 
