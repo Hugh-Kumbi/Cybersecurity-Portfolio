@@ -11,7 +11,7 @@ This folder contains exercises, solutions, and supporting materials focused on c
 
 ## Proposed Resolution
 
-- **Exercise 1:** [Hugh_Botium Toys Security Audit](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.1%20Hugh_Botium%20Toys%20Security%20Audit.md)
+- **Exercise 1:** [Botium Toys Security Audit](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/1.1%20Hugh_Botium%20Toys%20Security%20Audit.md)
 
 ## Supporting Materials
 
