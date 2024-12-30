@@ -3,6 +3,7 @@
 This folder contains exercises, solutions, and supporting materials focused on managing assets, threats, and vulnerabilities in cybersecurity. It highlights the use of tools like Tcpdump and Wireshark to analyze network traffic, detect anomalies, and respond to cybersecurity incidents, emphasizing practical applications within the incident response lifecycle.
 
 ## Contents
+
 1.1  **Analyzing Network Traffic with Wireshark**
 
 - In this lab activity, I explored network traffic analysis using Wireshark, a powerful network protocol analyzer.
@@ -18,8 +19,10 @@ I performed tasks to capture packet data into a packet capture (p-cap) file and 
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
-- **Exercise 1:** [Analyzing Network Traffic with Wireshark](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VI.%20Tcpdump%20%26%20Wireshark/1.1%20Analyzing%20Network%20Traffic%20with%20Wireshark.md)
-- **Exercise 2:** [Capturing and Filtering Network Traffic with Tcpdump](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VI.%20Tcpdump%20%26%20Wireshark/2.1%20Capturing%20and%20Filtering%20Network%20Traffic%20with%20Tcpdump.md)
+
+- **Exercise 1:** [Analyzing Network Traffic with Wireshark](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VI.%20Tcpdump%20%26%20Wireshark/1.1%20Hugh_Analyzing%20Network%20Traffic%20with%20Wireshark.md)
+- **Exercise 2:** [Capturing and Filtering Network Traffic with Tcpdump](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VI.%20Tcpdump%20%26%20Wireshark/2.1%20Hugh_Capturing%20and%20Filtering%20Network%20Traffic%20with%20Tcpdump.md)
 
 ## Supporting Materials
+
 `None`
