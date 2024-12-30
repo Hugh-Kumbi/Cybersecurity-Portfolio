@@ -1,6 +1,9 @@
-# 1. Cybersecurity Incident Case: Network Traffic Analysis
-> Securing Networks.
-> 
+# 1.1 Cybersecurity Incident Case: Network Traffic Analysis
+
+> Network traffic analysis helps identify anomalies, such as unusual spikes in data or unexpected connections, which could indicate a security threat.
+
+>Advanced traffic analysis tools often use AI and machine learning to detect patterns and flag potential cyberattacks in real time. 
+
 > For more information, please refer to the provided [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity).
 
 ## Scenario
@@ -33,8 +36,11 @@ As an analyst, you can inspect network traffic and network data to determine wha
 
 This event, in the meantime, is being handled by security engineers after you and other analysts have reported the issue to your direct supervisor. 
 
-# 2. Network Attack Incident
-> Network Attack.
+# 2.1 Network Attack Incident
+
+> Distributed Denial-of-Service (DDoS) attacks remain one of the most common types of network incidents, overwhelming systems with traffic and causing downtime.
+
+> Incident response to network attacks often includes isolating compromised systems to prevent the spread of the attack and preserve forensic evidence.
 
 > Please visit this [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) for further information. 
 
@@ -48,9 +54,12 @@ You use a packet sniffer to capture data packets in transit to and from the web 
 
 You take the server offline temporarily so that the machine can recover and return to a normal operating status. You also configure the company’s firewall to block the IP address that was sending the abnormal number of SYN requests. You know that your IP blocking solution won’t last long, as an attacker can spoof other IP addresses to get around this block. You need to alert your manager about this problem quickly and discuss the next steps to stop this attacker and prevent this problem from happening again. You will need to be prepared to tell your boss about the type of attack you discovered and how it was affecting the web server and employees.
 
-# 3. Security Incident Investigation: OS Hardening
-> OS hardening.
-> 
+# 3.1 Security Incident Investigation: OS Hardening
+
+> OS hardening involves disabling unnecessary services, implementing strict access controls, and applying the latest security patches to reduce attack surfaces.
+
+> Investigations of incidents on hardened systems often focus on misconfigurations or unpatched vulnerabilities that adversaries exploited.
+
 > Please visit this [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) for further information. 
 
 ## Scenario
@@ -119,8 +128,11 @@ Your job is to document the incident in detail, including identifying the networ
 | 14:25:29.576597 IP greatrecipesforme.com.http > your.machine.56378: Flags [.], ack 74, win 512, options [nop,nop,TS val 3302989649 ecr 3302989649], length 0 | <br>
 ...<a lot of traffic on the port 80>...
 
-# 4. Security Risk Incident Assessment: Network Hardening
-> Network hardening. 
+# 4.1 Security Risk Incident Assessment: Network Hardening
+
+> Network hardening strategies include segmentation (isolating parts of the network) and using firewalls and intrusion detection systems to control traffic.
+
+> Risk assessments for network hardening often reveal that many breaches result from misconfigured devices, such as improperly secured routers or switches.
 
 > Please visit this [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) for further information. 
 
@@ -142,7 +154,11 @@ If no action is taken to address these vulnerabilities, the organization is at r
 
 In this activity, you will write a security risk assessment to analyze the incident and explain what methods can be used to further secure the network.
 
-# 5. NIST Cybersecurity Framework Incident in a Multimedia Company   
+# 5.1 NIST Cybersecurity Framework Incident in a Multimedia Company   
+
+> The NIST Cybersecurity Framework’s five functions—Identify, Protect, Detect, Respond, and Recover—help organizations like multimedia companies build resilience against incidents.
+
+> Implementing NIST in multimedia companies often includes securing intellectual property (like videos or designs) and monitoring for unauthorized access to content distribution networks.
 
 > Please visit this [link](https://www.coursera.org/learn/networks-and-network-security?specialization=google-cybersecurity) for further information.
 
@@ -175,4 +191,3 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 * **Respond** to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
 * **Recover** affected systems to normal operation and restore systems data and/or assets that have been affected by an incident.
-
