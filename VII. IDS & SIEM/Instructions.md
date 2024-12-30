@@ -42,17 +42,17 @@ Let’s define the files:
 
 When you create a new rule, you'll need to test the rule to confirm whether or not it worked as expected. You can use the `fast.log` file to quickly compare the number of alerts generated each time you run Suricata to test a signature against the `sample.pcap` file.
 
-#### Task 1. Examine a Custom Rule in Suricata
+#### Task 1: Examine a Custom Rule in Suricata
 
 The `/home/analyst` directory contains a `custom.rules` file that defines the network traffic rules, which Suricata captures.
 
 In this task, you’ll explore the composition of the Suricata rule defined in the custom.rules file.
 
-#### Task 2. Trigger a Custom Rule in Suricata
+#### Task 2: Trigger a Custom Rule in Suricata
 
 Now that you are familiar with the composition of the custom Suricata rule, you must trigger this rule and examine the alert logs that Suricata generates.
 
-#### Task 3. Examine eve.json Output
+#### Task 3: Examine eve.json Output
 
 In this task, you must examine the additional output that Suricata generates in the eve.json file.
 
@@ -82,8 +82,6 @@ The eve.json file is the standard and main Suricata log file and contains a lot 
 You are a security analyst working at the e-commerce store Buttercup Games. You've been tasked with identifying whether there are any possible security issues with the mail server. To do so, you must explore any failed SSH logins for the root account.  
 
 ## Step-By-Step Instructions
-
-Follow the instructions and answer the following questions to complete the activity.
 
 ### Step 1: Access Supporting Materials
 
@@ -194,7 +192,7 @@ Click **search**.
 
 Your search from the previous task should have retrieved search results for over 300 events. Navigate to other pages of the search results to observe the events not listed on the first page of results.
 
-### Expectation
+### Expectations
 
 **By completing this activity, you will:**
 
@@ -229,7 +227,6 @@ There are two types of searches in Chronicle: **Unified Data Mode (UDM)** and **
 You are a security analyst at a financial services company. You receive an alert that an employee received a phishing email in their inbox. You review the alert and identify a suspicious domain name contained in the email's body: `signin.office365x24.com`. You need to determine whether any other employees have received phishing emails containing this domain and whether they have visited the domain. 
 
 ## Step-By-Step Instructions
-Follow the instructions and answer the series of questions to complete the activity.
 
 ### Step 1 Launch Chronicle
 
@@ -307,7 +304,7 @@ Investigate the IP address found under the **RESOLVED IPS** insight card to iden
 
     c. **DOMAINS:** Take note of the additional domains associated with this IP address.
 
-### Expectation 
+### Expectations 
 
 **By completing this activity, you will:**
 
@@ -316,10 +313,3 @@ Investigate the IP address found under the **RESOLVED IPS** insight card to iden
 3. Analyze HTTP events associated with the domain.
 4. Determine which assets submitted login credentials to the domain.
 5. Identify other related domains.
-
-
-
-
-
-
-
