@@ -26,6 +26,8 @@ My unique combination of technical skills, diverse academic experience, and a pr
 
 ## Certifications 🎓
 
+- [University of the People Certification in Data Science](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1732157734259/single-media-viewer/?profileId=ACoAAA4wpmsBE0AM4FOGmyFGsDMQSnU9de47QkI)
+- [University of the People Certification in Network and Application Security](https://www.linkedin.com/in/hugh-chanetsa/details/certifications/1735599179427/single-media-viewer/?profileId=ACoAAA4wpmsBE0AM4FOGmyFGsDMQSnU9de47QkI)
 - [Google Cybersecurity Professional Certification](https://www.coursera.org/account/accomplishments/specialization/DTARLY81OKPO)
 
 ## Education 📚
