@@ -1,5 +1,9 @@
 # 1.1 Documenting Security Incidents in an Incident Handler's Journal
 
+> An incident handler’s journal provides a chronological record of events during a security incident, aiding in post-incident analysis and legal compliance.
+
+> Detailed documentation helps identify patterns in repeated incidents, enabling better preparation and faster responses to future threats.
+
 > Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
 
 ## Scenario 
@@ -79,6 +83,10 @@ Be sure to include the following elements in your completed activity:
 
 # 2.1 Exploring Network Protocol Analyzers: Wireshark and Tcpdump
 
+> Wireshark provides a user-friendly graphical interface to analyze network packets, making it easier to identify anomalies and troubleshoot issues.
+
+> Tcpdump, a command-line tool, excels at capturing live traffic for quick analysis, especially on systems without graphical capabilities.
+
 > Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
 
 ## Scenario 
@@ -88,8 +96,6 @@ Review the following scenario. Then complete the step-by-step instructions.
 In your role as a cybersecurity analyst, you have been asked to research the differences and similarities between Wireshark and tcpdump and create a chart that outlines your findings. 
 
 ## Step-By-Step Instructions
-
-Follow the instructions and answer the question to complete the activity.
 
 ### Step 1: Access the Template
 To use the template for this course item, click the link and select Use Template. 
@@ -135,6 +141,10 @@ After you've completed your research on Wireshark and tcpdump, fill out the temp
 
 # 3.1 Analyzing Artifacts with VirusTotal and the Pyramid of Pain
 
+> VirusTotal aggregates results from multiple antivirus engines to quickly analyze files, URLs, or IPs for known threats.
+
+> The Pyramid of Pain highlights the increasing difficulty for attackers as defenders improve detection, from simple hash blocking to identifying attacker techniques.
+
 > Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
 
 ## Scenario 1
@@ -148,8 +158,6 @@ You retrieve the malicious file and create a SHA256 hash of the file. You might 
 Now that you have the file hash, you will use VirusTotal to uncover additional IoCs that are associated with the file.
 
 ## Step-By-Step Instructions
-
-Follow the instructions to complete the activity.
 
 ### Step 1: Access the Template
 
@@ -243,6 +251,10 @@ Indicators of compromise are valuable sources of information for security profes
 
 # 4.1 Responding to a Phishing Incident with a Playbook
 
+> Incident response playbooks for phishing often include steps to isolate affected systems, block malicious URLs, and educate users on recognizing phishing attempts.
+
+> Automated email analysis tools can speed up playbook execution by identifying phishing emails and quarantining them before they reach users.
+
 > Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
 
 ## Scenario 2: Follow-Up Analysis and Actions 
@@ -254,8 +266,6 @@ Your organization's security policies and procedures describe how to respond to 
 In the playbook, there is a flowchart and written instructions to help you complete your investigation and resolve the alert. At the end of your investigation, you will update the alert ticket with your findings about the incident.
 
 ## Step-By-Step Instructions
-
-Follow the instructions to complete the activity.
 
 ### Step 1: Access the Template
 
@@ -338,6 +348,10 @@ Now that you've examined the email details, complete the final step of the playb
 
 # 5.1 Reviewing a Final Report and Analyzing Post-Incident Activities
 
+> A final report after an incident often includes lessons learned, helping organizations refine their defenses and response plans.
+
+> Post-incident analysis typically identifies gaps in existing controls, driving improvements in policies, tools, and team training.
+
 > Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
 
 ## Scenario
@@ -358,8 +372,6 @@ You are spending your first week of training becoming familiar with the company'
 
 ## Step-By-Step Instructions
 
-Consult the supporting materials to answer the quiz questions that follow.
-
 ### Step 1: Access Supporting Materials
 
 The following supporting materials will help you complete this activity. Keep them open as you proceed to the questions.
@@ -377,13 +389,3 @@ Link to supporting materials: [Final report](https://github.com/Hugh-Kumbi/Cyber
 3. What did the attacker use to exploit the e-commerce web application vulnerability?
 
 4. What recommendations did the organization implement to prevent future recurrences? Select two answers.
-
-
-
-
-
-
-
-
-
-
