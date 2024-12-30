@@ -1,5 +1,9 @@
 # 1.1 Intrusion Detection Systems (IDS) - Suricata
 
+> Suricata is a high-performance IDS capable of detecting threats in real-time, supporting multiple protocols like HTTP, DNS, and TLS for comprehensive monitoring.
+
+> Unlike some IDS tools, Suricata can offload tasks like file extraction and network decoding to GPUs, boosting analysis speed significantly.
+
 > Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
 
 ## Scenario
@@ -14,7 +18,7 @@ An inventory of network devices can be a useful asset management tool. An invent
 
 You’re operating a small business from your home and must create an inventory of your network devices. This will help you determine which ones contain sensitive information that require extra protection.
 
-To do this, you will start by identifying three devices that have access to your home network. This might include devices such as:
+**To do this, you will start by identifying three devices that have access to your home network. This might include devices such as:**
 
 * Desktop or laptop computers
 
@@ -92,7 +96,7 @@ Find the **Sensitivity** column in the asset inventory. Type one of the four lev
 
 ### What to Include in Your Response 
 
-Be sure to include the following elements in your completed activity: 
+**Be sure to include the following elements in your completed activity:** 
 
 * List of 3 devices on the home network
 
@@ -103,6 +107,10 @@ Be sure to include the following elements in your completed activity:
 * A sensitivity classification
 
 # 2.1 Conducting a Risk Assessment for Business Operations   
+
+> Risk assessments identify and prioritize potential threats, such as data breaches or system downtimes, enabling businesses to focus resources on high-impact areas.
+
+> Effective risk assessments integrate both qualitative (e.g., expert judgment) and quantitative (e.g., monetary impact) methods for robust decision-making.
 
 > Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
 
@@ -207,7 +215,7 @@ Using the risk formula, multiply the likelihood and severity score for each risk
 
 ### What to Include in Your Response 
 
-Be sure to address the following criteria in your completed activity: 
+**Be sure to address the following criteria in your completed activity:** 
 
 * 2-3 sentences describing the risk factors
 
@@ -219,7 +227,12 @@ Be sure to address the following criteria in your completed activity:
 
 # 3.1 Determining Appropriate Data Handling Practices
 
+> Establishing data classification levels, like public, confidential, or sensitive, ensures proper handling based on the information's criticality.
+
+> Best practices include encrypting sensitive data during transmission and storage, ensuring compliance with legal and regulatory standards.
+
 > Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
+
 
 ## Scenario 
 
@@ -271,7 +284,7 @@ Consider the issues you identified earlier. Then, write **20-60 words (2-3 sente
 
 ### What to Include in Your Response 
 
-Be sure to address the following elements in your completed activity: 
+**Be sure to address the following elements in your completed activity:** 
 
 * 2-3 sentences analyzing the factors that led to the incident
 
@@ -282,6 +295,10 @@ Be sure to address the following elements in your completed activity:
 * 2-3 sentences justifying your recommendations
 
 # 4.1 Decrypting an Encrypted Message
+
+> Decryption requires the use of keys or passwords, and symmetric encryption algorithms like AES use the same key for encryption and decryption.
+
+> Public-key encryption, like RSA, uses a private key for decryption, which pairs with a public key used for encryption, enhancing security in communications.
 
 > Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
 
@@ -309,7 +326,7 @@ Now that you have solved the Caesar cipher, in this task you need to use the com
 
 ### Expectations
 
-By completing this activity, you will:
+**By completing this activity, you will:**
 
 1. Gain practical experience in using basic Linux Bash shell commands to:
 * List hidden files.
@@ -319,6 +336,10 @@ By completing this activity, you will:
 2. Achieve an important milestone on your journey toward understanding encryption and decryption.
 
 # 5.1 Comparing Hash Values: Identifying File Modifications
+
+> Hash functions, like SHA-256, generate unique outputs for a file, making it easy to detect changes by comparing before-and-after hash values.
+
+> Even a single-bit change in a file will produce an entirely different hash value, a property known as the avalanche effect, ensuring reliability.
 
 > Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
 
@@ -340,7 +361,7 @@ In this task, you’ll write the hashes to two separate files and then compare t
 
 ### Expectations
 
-By completing this activity, you will:
+**By completing this activity, you will:**
 
 1. Gain practical experience in:
 * Computing hashes using sha256sum.
@@ -349,6 +370,10 @@ By completing this activity, you will:
 2. Develop valuable skills for validating data integrity, contributing to your organization’s security.
 
 # 6.1 Evaluating and Improving Access Controls 
+
+> Implementing least privilege access ensures users and systems only have permissions necessary for their roles, reducing exposure to threats.
+
+> Access controls can be layered with multi-factor authentication (MFA) to enhance security by requiring additional verification steps.
 
 > Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
 
@@ -404,7 +429,7 @@ For example, one recommendation might be to have procedures in place to revoke a
 
 ### What to Include in Your Response
 
-Be sure to include the following elements in your completed activity: 
+**Be sure to include the following elements in your completed activity:** 
 
 * 1-2 notes about the user
 
@@ -415,6 +440,12 @@ Be sure to include the following elements in your completed activity:
 For example, one recommendation might be to have procedures in place to revoke access to files when an employee is no longer with the company.
 
 # 7.1 Conducting a Vulnerability Assessment 
+
+> Vulnerability assessments identify security weaknesses, such as outdated software or misconfigured servers, before attackers can exploit them.
+
+> Tools like Nessus or OpenVAS automate vulnerability scanning, providing detailed reports on potential issues and remediation steps.
+
+> Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
 
 ## Scenario
 
@@ -434,6 +465,7 @@ To use the template for this course item:
 Click the following link and select Use Template: [Vulnerability Assessment Report](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Vulnerability%20Assessment%20Report.pdf)
 
 ### Step 2: Access supporting materials
+
 The following materials will help you complete this activity. Keep them open as you proceed to the next steps. You will use this resource in Part 2 of this activity.
 
 To use the supporting materials for this course item:
@@ -528,7 +560,7 @@ Align your suggestions with the risks you've assessed. For example, you might su
 
 ### What to Include in Your Response
 
-Be sure to address the following elements in your completed activity: 
+**Be sure to address the following elements in your completed activity:** 
 
 * 3-5 sentences describing the reasons for conducting the security analysis in the **Purpose** section
 
@@ -540,6 +572,12 @@ Be sure to address the following elements in your completed activity:
 
 # 8.1 Identify the attack vectors of a USB drive
 
+> USB drives can carry malware that executes automatically when plugged into a system, exploiting features like autorun or script execution.
+
+> Attackers can use USB drives as bait in "USB drop" attacks, leaving them in public places to entice victims to connect them to their devices.
+
+> Please visit this [link](https://www.coursera.org/learn/assets-threats-and-vulnerabilities?specialization=google-cybersecurity) for further information.
+
 ## Scenario
 
 You are part of the security team at Rhetorical Hospital and arrive to work one morning. On the ground of the parking lot, you find a USB stick with the hospital's logo printed on it. There’s no one else around who might have dropped it, so you decide to pick it up out of curiosity.
@@ -549,6 +587,7 @@ You bring the USB drive back to your office where the team has virtualization so
 ## Step-By-Step Instructions
 
 ### Step 1: Access the Template
+
 To use the template for this course item, click the link and select Use Template. 
 
 Link to template: [Parking Lot USB Exercise](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/IV.%20Assests%20Threats%20and%20Vulnerabilities/Parking%20Lot%20USB%20Exercise.pdf)
@@ -595,7 +634,7 @@ In the **Risk analysis** row of the activity template, write **3 or 4** sentence
 
 ### What to Include in Your Response
 
-Be sure to address the following criteria in your completed activity: 
+**Be sure to address the following criteria in your completed activity:** 
 
 * 2-3 sentences about the types of information stored on the USB drive
 
