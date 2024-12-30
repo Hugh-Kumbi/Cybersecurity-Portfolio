@@ -1,4 +1,5 @@
 # Building Resilience: Detection and Incident Response
+
 This folder contains exercises, solutions, and supporting materials focused on detection and incident response in cybersecurity. It emphasizes understanding the incident response lifecycle and utilizing tools like Intrusion Detection Systems (IDS) and Security Information and Event Management (SIEM) platforms to detect, analyze, and respond to cybersecurity incidents effectively.
 
 ## Contents
@@ -135,11 +136,11 @@ This investigation emphasizes the importance of proactive monitoring and employe
 ***Note:** For detailed instructions, see* [Instructions](Instructions.md).
 
 ## Proposed Resolution
-- **Exercise 1:** [Exploring Suricata Alerts and Logs: A Hands-on Experience](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/1.1%20Exploring%20Suricata%20Alerts%20and%20Logs%3A%20A%20Hands-on%20Experience.md)
-- **Exercise 2:** [Introduction to Splunk and Search Processing Language (SPL)](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/2.1%20Introduction%20to%20Splunk%20and%20Search%20Processing%20Language%20(SPL).md)
-- **Exercise 3:** [Splunk Query-Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/2.2%20Splunk%20Query-Incident%20Handler's%20Journal.pdf)
-- **Exercise 4:** [Chronicle SIEM Activity Summary](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/3.1%20Chronicle%20SIEM%20Activity%20Summary.md)
-- **Exercise 5:** [Performing a Query with Chronicle-Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/3.2%20Performing%20a%20Query%20with%20Chronicle-Incident%20Handler's%20Journal.pdf)
+- **Exercise 1:** [Exploring Suricata Alerts and Logs: A Hands-on Experience](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/1.1%20Hugh_Exploring%20Suricata%20Alerts%20and%20Logs%3A%20A%20Hands-on%20Experience.md)
+- **Exercise 2:** [Introduction to Splunk and Search Processing Language (SPL)](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/2.1%20Hugh_Introduction%20to%20Splunk%20and%20Search%20Processing%20Language%20(SPL).md)
+- **Exercise 3:** [Splunk Query-Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/2.2%20Hugh_Splunk%20Query-Incident%20Handler's%20Journal.pdf)
+- **Exercise 4:** [Chronicle SIEM Activity Summary](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/3.1%20Hugh_Chronicle%20SIEM%20Activity%20Summary.md)
+- **Exercise 5:** [Performing a Query with Chronicle-Incident Handler's Journal](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/3.2%20Hugh_Performing%20a%20Query%20with%20Chronicle-Incident%20Handler's%20Journal.pdf)
 
 ## Supporting Materials
 - **Splunk Sign-Up:** [Splunk Sign-Up](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/VII.%20IDS%20%26%20SIEM/Splunk%20Sign-Up.pdf)
