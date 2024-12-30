@@ -1,5 +1,11 @@
 # 1.1 Botium Toys Security Audit
 
+> Please visit this [link](https://www.coursera.org/learn/manage-security-risks?specialization=google-cybersecurity) for further information.
+
+> Security audits systematically identify vulnerabilities in an organization's systems, policies, and practices, helping to prioritize risks based on their impact and likelihood.
+
+> Modern security audits often incorporate automated tools for tasks like vulnerability scanning, but human expertise remains crucial for interpreting results and uncovering hidden threats.
+
 ## Activity Overview
 In part one of this activity, you will conduct an internal security audit. As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
 
