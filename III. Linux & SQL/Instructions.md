@@ -1,8 +1,8 @@
 # 1.1 Application Management in Linux Using APT and Sudo
 
->
+> The `apt` command streamlines package management in Linux, enabling users to install, update, or remove software with ease from online repositories.
 
-> 
+> Using `sudo` ensures administrative tasks are executed securely, requiring elevated privileges to modify system-critical files or configurations.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -49,9 +49,9 @@ In this task, you must reinstall the Suricata application and verify that it has
 
 # 1.2 Exploring Linux Shell Interactions: Understanding Input, Output, and Basic Calculations
 
->
+> Linux shell commands can redirect input and output using operators like `>` and `<`, allowing for seamless data processing between files and programs.
 
-> 
+> The Linux shell supports basic arithmetic operations directly with the `expr` command or `$((...))` syntax for quick calculations.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -106,9 +106,9 @@ The mathematical operators you can use with the `expr` command for **adding, sub
 
 # 1.3 Mastering Linux File Navigation and Analysis for Security Operations 
 
->
+> Commands like `ls`, `cd`, and `find` help security professionals locate and analyze suspicious files or directories quickly.
 
-> 
+> Security analysis often relies on inspecting hidden files and permissions using `ls -la` to uncover potential threats or misconfigurations.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -148,9 +148,9 @@ In this task, you must navigate to a new directory, locate a file, and examine t
 
 # 1.4 Using Grep and Piping for File Searching and Data Extraction
 
->
+> `grep` allows for powerful pattern matching within files, making it indispensable for searching logs or configuration files for specific terms.
 
-> 
+> Combining `grep` with piping (`|`) enables chaining commands, like filtering search results through `sort` or `awk` for refined data extraction.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -183,9 +183,9 @@ In this task, you must search for information contained in user files and report
 
 # 1.5 Managing Directory Structures and File Editing in Linux  
 
->
+> Commands like `mkdir`, `rmdir`, and `mv` are essential for organizing files into secure and logical directory structures.
 
-> 
+> Text editors such as `nano` and `vim` provide flexible ways to edit configuration files, logs, and scripts directly within the Linux terminal.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -240,9 +240,9 @@ Finally, you must use the nano text editor to edit the `tasks.txt` file and add 
 
 # 1.6 Configuring Authorization and Managing Permissions in Linux   
 
->
+> The `chmod`, `chown`, and `chgrp` commands are critical for managing file and directory permissions to secure sensitive data.
 
-> 
+> Linux permissions are categorized into three levels: user, group, and others, each with distinct read, write, and execute controls.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -290,9 +290,9 @@ Only the `researcher2` user should be allowed to access the `drafts` directory a
 
 # 1.7 Portfolio Document: Demonstrating File Permission Management in Linux
 
->
+> A portfolio showcasing Linux permissions should include examples like modifying access with `chmod` and managing ownership with `chown`.
 
-> 
+> Highlighting real-world scenarios, such as securing configuration files or sensitive directories, demonstrates practical expertise in Linux permissions.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -386,9 +386,9 @@ In the Summary section, provide a short summary of the previous tasks and connec
 
 # 1.8 Managing User Access in Linux
 
->
+> Commands like `adduser`, `usermod`, and `passwd` allow precise control over user accounts, ensuring secure access management.
 
-> 
+> `/etc/passwd` and `/etc/shadow` files store user and password data, respectively, and are vital for user access configuration and auditing.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -431,9 +431,9 @@ A year later, `researcher9`, decided to leave the company. In this task, you mus
 
 # 1.9 Exploring Linux Command Documentation
 
->
+> The `man` (manual) command provides detailed documentation for any Linux command, making it a go-to resource for troubleshooting and learning.
 
-> 
+> The `--help` flag is a quick alternative to `man`, summarizing command options and usage directly in the terminal.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -475,9 +475,9 @@ In this task, imagine that you need to create a new group but you can’t rememb
 
 # 2.1 Querying Databases with SQL: SELECT, FROM, and ORDER BY
 
->
+> SQL’s `SELECT` statement retrieves specific columns, while `ORDER BY` sorts data ascending or descending based on a column.
 
-> 
+> The `SELECT` statement can include functions like `COUNT`, `SUM`, or `AVG` to aggregate data directly in the query.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -524,9 +524,9 @@ In this task, you need to use the `ORDER` BY keyword. You'll sequence the data t
 
 # 2.2 Filtering Data in SQL: Applying Basic Query Filters  
 
->
+> The `WHERE` clause allows precise filtering, such as retrieving rows based on conditions like `age > 25` or `name LIKE 'A%'`.
 
-> 
+> SQL filters can handle case sensitivity depending on the database system, like MySQL being case-insensitive by default for `LIKE`.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -569,9 +569,9 @@ Next, your team has determined that there is an issue with all the machines in t
 
 # 2.3 Filtering Numbers and Dates in SQL: Using Comparison Operators
 
->
+> SQL supports operators like `=`, `>`, `<`, and `BETWEEN` for filtering numeric or date-based data in a straightforward manner.
 
-> 
+> Using parentheses in SQL queries can group conditions with `AND` and `OR`, ensuring the desired precedence in filtering.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -616,9 +616,9 @@ In this task, you need to investigate login attempts based on event ID numbers. 
 
 # 2.4 Filter with AND, OR, and NOT
 
->
+> The `AND`, `OR`, and `NOT` operators allow combining multiple conditions, enabling complex queries like filtering employees by department and salary.
 
-> 
+> Using parentheses in SQL queries can group conditions with `AND` and `OR`, ensuring the desired precedence in filtering.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -675,9 +675,9 @@ Your team needs to make one more update. This update was already made to employe
 
 # 2.5 Portfolio Document: Demonstrating SQL Query Skills  
 
->
+> Including queries with real-world use cases, such as employee data analysis or login attempt tracking, strengthens a SQL portfolio.
 
-> 
+> Highlighting advanced filters or aggregation functions in your portfolio can demonstrate depth in query optimization and analysis.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
@@ -787,9 +787,9 @@ In the Summary section, provide a short summary of the previous tasks and connec
 
 # 2.6 Using SQL Joins to Connect Tables and Retrieve Information   
 
->
+> SQL `JOIN` clauses (like `INNER JOIN` and `LEFT JOIN`) combine data from multiple tables based on related keys, offering a complete dataset view.
 
-> 
+> Joining tables efficiently requires understanding primary and foreign keys, which establish relationships between datasets.
 
 > Please visit this [link](https://www.coursera.org/learn/linux-and-sql?specialization=google-cybersecurity) for further information.
 
