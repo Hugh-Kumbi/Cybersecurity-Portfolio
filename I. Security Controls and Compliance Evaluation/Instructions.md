@@ -51,8 +51,8 @@ To complete the checklist, open the supporting materials provided in Step 1. The
 
 * Controls and compliance checklist
 
-* “Yes” or “no” is selected to answer the question related to each control listed
+* “Yes” or “No” is selected to answer the question related to each control listed
 
-* “Yes” or “no” is selected to answer the question related to each compliance best practice
+* “Yes” or “No” is selected to answer the question related to each compliance best practice
 
 * A recommendation is provided for the IT manager (optional)
