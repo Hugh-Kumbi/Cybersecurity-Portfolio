@@ -1,5 +1,9 @@
 # 1.1 Analyzing Network Traffic with Wireshark
 
+> Wireshark captures and inspects live network traffic, offering detailed insights into packets, protocols, and communication flows to detect potential threats.
+
+> Wireshark’s deep packet inspection capabilities allow it to decode hundreds of protocols, helping analysts identify malicious activity like man-in-the-middle attacks or suspicious data transfers.
+
 > Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
 
 ## Scenario 
@@ -44,6 +48,10 @@ In this task, you’ll use additional filters to select and examine TCP packets.
 2. Achieve an important milestone on your journey toward understanding how to use network packet analysis tools to examine network traffic.
 
 # 2.1 Capturing and Filtering Network Traffic with tcpdump
+
+> Tcpdump, a command-line tool, is highly efficient for capturing network traffic in real-time, and its ability to filter traffic based on protocols or IP addresses helps pinpoint anomalies.
+
+> Tcpdump’s ability to save captured packets to a file for later analysis makes it invaluable for incident response, allowing deeper investigation of network activities post-capture.
 
 > Please visit this [link](https://www.coursera.org/learn/detection-and-response) for further information.
 
