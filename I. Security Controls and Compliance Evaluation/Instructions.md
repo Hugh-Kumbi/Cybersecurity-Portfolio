@@ -1,10 +1,11 @@
-# Controls and Compliance Assessment - Instructions
+# 1.1 Hugh_Botium Toys Security Audit
 
 ## Activity Overview
 In part one of this activity, you will conduct an internal security audit. As a reminder, audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
 
 ## Scenario
-This is based on a fictional company
+
+**This is based on a fictional company:**
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide.
 
@@ -27,6 +28,7 @@ Links to supporting materials:
 - [Controls and Compliance Checklists](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Controls%20and%20Compliance%20Checklist.md)
 
 ## Step 2: Conduct the Audit: Controls and Compliance Checklist
+
 onduct the security audit by completing the controls and compliance checklist. 
 
 To complete the checklist, open the supporting materials provided in Step 1. Then:
@@ -41,4 +43,16 @@ To complete the checklist, open the supporting materials provided in Step 1. The
 
 3. Then, review the **Controls and compliance checklist** and select **“yes**” or **“no”** to answer the question in each section (note: the recommendations section is optional).
 
-**Note:** The [Controls and Compliance Checklist](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Controls%20and%20Compliance%20Checklist.md) is what you need to complete to conduct this security audit. 
+**Note:** The [Controls and Compliance Checklist](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/I.%20Security%20Controls%20and%20Compliance%20Evaluation/Controls%20and%20Compliance%20Checklist.md) is what you need to complete to conduct this 
+
+**What to Include in Your Response**
+
+**Be sure to address the following elements in your completed activity:**
+
+    * Controls and compliance checklist
+
+    * “Yes” or “no” is selected to answer the question related to each control listed
+
+    * “Yes” or “no” is selected to answer the question related to each compliance best practice
+
+    * A recommendation is provided for the IT manager (optional)
