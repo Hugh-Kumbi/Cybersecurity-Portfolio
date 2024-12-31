@@ -85,9 +85,9 @@ Feel free to connect with me on Twitter, LinkedIn, Instagram, and via chanetsa.h
 [<img align="left" alt="HughChanetsa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HughChanetsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/hugh_chanetsa
-[instagram]: https://www.instagram.com/chanetsa.hugh/
-[linkedin]: https://linkedin.com/in/hugh-chanetsa
+[twitter](https://twitter.com/hugh_chanetsa)
+[instagram](https://www.instagram.com/hugh_kumbi/)
+[linkedin](https://linkedin.com/in/hugh-chanetsa)
 
 <!--
 **Hugh-Kumbi/Hugh-Kumbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
