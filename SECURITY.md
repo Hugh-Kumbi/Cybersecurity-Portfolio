@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-We take the security of our projects seriously. If you discover a vulnerability, please follow the steps below:
+I take the security of all projects seriously. If you discover a vulnerability, please follow the steps below:
 
 1. **Do Not Report Vulnerabilities in Public Issues:** To protect users, avoid reporting security issues in public forums.
 
@@ -12,10 +12,10 @@ We take the security of our projects seriously. If you discover a vulnerability,
    - Potential impact and severity.
    - Any possible solutions or mitigations.
 
-3. **Acknowledgment:** We will acknowledge receipt of your report within 48 hours and provide an estimated timeline for resolution.
+3. **Acknowledgment:** I will acknowledge receipt of your report within 48 hours and provide an estimated timeline for resolution.
 
-4. **Resolution Process:** Once the vulnerability is confirmed, we will work to mitigate the issue and release a fix promptly. We may request additional information or assistance during this process.
+4. **Resolution Process:** Once the vulnerability is confirmed, I will work to mitigate the issue and release a fix promptly. I may request additional information or assistance during this process.
 
-5. **Responsible Disclosure:** To protect our users, we ask that you do not disclose the vulnerability publicly until we have addressed it and informed users accordingly.
+5. **Responsible Disclosure:** To protect users, I ask that you do not disclose the vulnerability publicly until I have addressed it and informed users accordingly.
 
-We appreciate your efforts in helping us maintain the security and integrity of our projects.
+I appreciate your efforts in helping me maintain the security and integrity of projects.
