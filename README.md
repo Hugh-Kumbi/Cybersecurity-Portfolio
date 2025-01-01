@@ -101,6 +101,7 @@ Feel free to connect with me on Twitter, LinkedIn, Instagram, and via chanetsa.h
 - ⚡ Fun fact: I’m equally passionate about technology and education. While pursuing a career in cybersecurity, I work at an educational institution, combining my love for learning with my professional aspirations.
 -->
 
+
 ## License
 
 This project is licensed under the MIT License - see the [MIT License]([LICENSE](https://github.com/Hugh-Kumbi/Cybersecurity-Portfolio/blob/main/LICENSE)) file for details.
