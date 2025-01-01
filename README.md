@@ -36,19 +36,6 @@ My unique combination of technical skills, diverse academic experience, and a pr
 - A Bachelor of Commerce (Honors) degree from the University of Cape Town
 - A Bachelor’s degree in Social Sciences from the University of Cape Town
 
-<h2>Cybersecurity Projects 👨🏽‍💻:</h2>
-  
-| Projects  | Expertise Highlight |
-| --- | --- |
-| [Security Controls and Compliance Evaluation](https://github.com/Hugh-Kumbi/LABURL)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
-| [Network Security](https://github.com/Hugh-Kumbi/LABURL)  | `TCP/IP model, Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
-| [Linux & SQL](https://github.com/Hugh-Kumbi/LABURL)  | `Command-line Interface`, `SQL`, `Linux, Bash` |
-| [Assets, Threats, & Vulnerabilities](https://github.com/Hugh-Kumbi/LABURL)  | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` |
-| [Detection & Response](https://github.com/Hugh-Kumbi/LABURL)  | `Incident Lifecycle`, `Incident Journal` |
-| [Tcpdump & Wireshark](https://github.com/Hugh-Kumbi/LABURL)  | `Packet Analyzer` |
-| [IDS & SIEM](https://github.com/Hugh-Kumbi/LABURL)  | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle`, `Splunk` |
-| [Automation with Python](https://github.com/Hugh-Kumbi/LABURL) | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide` |
-
 ## Cybersecurity Portfolio
 
 **Description:** This comprehensive portfolio showcases a range of cybersecurity projects developed for simulated clients. The projects encompass various aspects of cybersecurity, including frameworks, audits, threat detection, and incident response.
@@ -68,6 +55,19 @@ My unique combination of technical skills, diverse academic experience, and a pr
 6. **Python Automation:** Development of Python scripts to automate repetitive tasks, enhancing efficiency in security operations.
 
 **Objective:** The primary goal of this portfolio is to demonstrate a holistic understanding of cybersecurity principles and the practical application of various tools and methodologies to protect digital assets.
+
+## Cybersecurity Projects 👨🏽‍💻:
+  
+| Projects  | Expertise Highlight |
+| --- | --- |
+| [Security Controls and Compliance Evaluation](https://github.com/Hugh-Kumbi/LABURL)  | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [Network Security](https://github.com/Hugh-Kumbi/LABURL)  | `TCP/IP model, Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` |
+| [Linux & SQL](https://github.com/Hugh-Kumbi/LABURL)  | `Command-line Interface`, `SQL`, `Linux, Bash` |
+| [Assets, Threats, & Vulnerabilities](https://github.com/Hugh-Kumbi/LABURL)  | `Authentication`,  `Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis` |
+| [Detection & Response](https://github.com/Hugh-Kumbi/LABURL)  | `Incident Lifecycle`, `Incident Journal` |
+| [Tcpdump & Wireshark](https://github.com/Hugh-Kumbi/LABURL)  | `Packet Analyzer` |
+| [IDS & SIEM](https://github.com/Hugh-Kumbi/LABURL)  | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle`, `Splunk` |
+| [Automation with Python](https://github.com/Hugh-Kumbi/LABURL) | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide` |
 
 ## Tools ⚙️
 - Google Workspace (Drive, Docs, Sheets, Slides)
