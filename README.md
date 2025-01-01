@@ -87,20 +87,7 @@ Feel free to connect with me on Twitter, LinkedIn, Instagram, and via chanetsa.h
 
 [twitter]: https://twitter.com/hugh_chanetsa
 [linkedin]: https://linkedin.com/in/hugh-chanetsa
-[instagram]: https://www.instagram.com/hugh_kumbi
-
-<!--
-**Hugh-Kumbi/Hugh-Kumbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I am currently building a comprehensive GitHub portfolio to showcase my computer science and cybersecurity projects.
-- 🌱 I am deepening my knowledge of advanced cybersecurity concepts and Linux administration as I prepare for the CompTIA Security+ and ISC2 certifications.
-- 👯 I am eager to collaborate on cybersecurity-focused projects, particularly in penetration testing, threat analysis, and security automation.
-- 🤔 I welcome opportunities to expand my real-world cybersecurity skills, including hands-on experience with industry tools and best practices, as well as mentorship in preparation for CompTIA Security+ and ISC2 certifications.
-- 💬 Feel free to ask me about my journey into cybersecurity, including the projects I’ve completed during my computer science degree and the Google Cybersecurity Certification.
-- 📫 Connect with me on https://www.linkedin.com/in/hugh-chanetsa/ —I’d love to network and share insights.
-- ⚡ Fun fact: I’m equally passionate about technology and education. While pursuing a career in cybersecurity, I work at an educational institution, combining my love for learning with my professional aspirations.
--->
-
+[instagram]: https://www.instagram.com/hugh_kumbi < br / >
 
 ## License
 
