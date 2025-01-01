@@ -89,7 +89,7 @@ Feel free to connect with me on Twitter, LinkedIn, Instagram, and via chanetsa.h
 [linkedin]: https://linkedin.com/in/hugh-chanetsa
 [instagram]: https://www.instagram.com/hugh_kumbi
 
-< br / >
+<br>
 
 ## License
 
