@@ -49,6 +49,26 @@ My unique combination of technical skills, diverse academic experience, and a pr
 | [IDS & SIEM](https://github.com/Hugh-Kumbi/LABURL)  | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle`, `Splunk` |
 | [Automation with Python](https://github.com/Hugh-Kumbi/LABURL) | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide` |
 
+## Cybersecurity Portfolio
+
+**Description:** This comprehensive portfolio showcases a range of cybersecurity projects developed for simulated clients. The projects encompass various aspects of cybersecurity, including frameworks, audits, threat detection, and incident response.
+
+**Key Components:**
+
+1. **NIST Frameworks and Audits:** Implementation of the National Institute of Standards and Technology (NIST) cybersecurity frameworks to establish robust security controls and conduct thorough audits.
+
+2. **Linux and SQL Proficiency:** Utilization of Linux environments and SQL databases to manage and analyze security-related data effectively.
+
+3. **Asset, Threat, and Vulnerability Management:** Identification and management of assets, assessment of potential threats, and evaluation of vulnerabilities to mitigate risks.
+
+4. **Detection and Incident Response:** Deployment of tools like Wireshark and tcpdump for network analysis, and implementation of Intrusion Detection Systems (IDS) such as Suricata. Development of incident response strategies, including escalation procedures.
+
+5. **Security Information and Event Management (SIEM):** Integration with SIEM platforms like Splunk and Chronicle to monitor and analyze security events in real-time.
+
+6. **Python Automation:** Development of Python scripts to automate repetitive tasks, enhancing efficiency in security operations.
+
+**Objective:** The primary goal of this portfolio is to demonstrate a holistic understanding of cybersecurity principles and the practical application of various tools and methodologies to protect digital assets.
+
 ## Tools ⚙️
 - Google Workspace (Drive, Docs, Sheets, Slides)
 - Markdown Language
@@ -64,11 +84,8 @@ My unique combination of technical skills, diverse academic experience, and a pr
 ## Supplementary Portfolio
 Discover more of my work in these standalone portfolios:
 
-- Python - Cybersecurity - Bruteforce Zipfile
 - Python - Cybersecurity - Automation Case
-- Python - Cybersecurity - Transaction Fraud
-- Cybersecurity - Investigation & Risk Assessment Based on MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)
-and more....
+- University - Course Work - Projects
 
 ## Resume 🌐
 [Hugh Chanetsa's Resume](https://www.canva.com)
