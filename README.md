@@ -53,31 +53,6 @@ Explore my GitHub portfolio to discover a range of cybersecurity and machine lea
 - Suricata
 - Python
 
-## Supplementary Portfolio
-Discover more of my work in these standalone portfolios:
-
-- Python - Cybersecurity - Automation Case
-- University - Course Work - Projects
-
-## Resume 🌐
-[Hugh Chanetsa's Resume](https://www.canva.com)
-
-## Eager to Contribute and Innovate 💡
-
-I am eager to apply my cybersecurity knowledge and skills to challenging roles at leading organizations, where I can contribute to cutting-edge security initiatives.
- 
-## Connect with Me 🤳
-
-Feel free to connect with me on Twitter, LinkedIn, Instagram, and via chanetsa.hugh@protonmail.com. I’d love to network and share insights.
-
-[<img align="left" alt="HughChanetsa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HughChanetsa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HughChanetsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/hugh_chanetsa
-[linkedin]: https://linkedin.com/in/hugh-chanetsa
-[instagram]: https://www.instagram.com/hugh_kumbi
-
 <br>
 
 ## License
